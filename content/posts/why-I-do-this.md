@@ -1,9 +1,20 @@
 +++
 date = '2025-09-04T09:32:11+03:00'
 title = 'why im doing this'
+description = 'A personal reflection on my writing journey and the demons that held me back'
+tags = ['writing', 'personal']
+categories = ['reflection']
 +++
 
-As the years pass by, I found my self adapt to different reason to keep living. to share. I'm not as clear as I use to about why I should be posting, but looking back over the years I recall how writing started. how reasons changed 
+>*do things badly*
+
+As the years pass by, I found my self adapt to different reason to keep living. 
+to share. I'm not as clear as I use to about why I should be posting,
+but looking back over the years I recall how writing started. how reasons changed. 
+
+
+<!--more-->
+## The Seeds of Writing 🌱
 
 - I've had an amazing language teachers (Tahia and Jamal) they encouraged me to write and read since I was a little 
 - I've been under the wings of people who are naturally good at writing (this probably influenced me I mean I used to write poets when I was a little)
@@ -27,4 +38,6 @@ I get amazed by the number of clicks I write on the keyboard everyday writing so
 - **details and setup**: everyone has their own unique way of communicating, with mutual culture you get to say what you want smoothly (by smoothly I mean that you don't face difficulties in deciding what to say and the recipient is not having trouble interpret your words to what you actually meant) if we were to imagine how deviated I'm from that line, I'm sure I'm not as close. maybe in reality I can related and talk to people, but inside my head I overthink and over-engineer what I should say to the person in-front of me based on the data they are directly or indirectly steaming to me (will they relate to what I'm talking about, are they comfortable talking about this, are they going to feel offended, am I talking fast and now showing them the point, did I match their energy/slang, was the conversation interactive?), dozens of questions, now image you are talking to over 1000 people, thats what I put in my mind and heart before sharing anything publicly. now these details are hard to overcome. 
 - **I'm wasting my time here**: this is a real demon here, it tells me that the time I would spend in writing and then respond to people comments, inquiries, friendships rituals out of curiosity about me from my posts, can be dedicated to do something useful more, I would spend more doing more important things maybe. 
 
-This blog website is an attempt, its not going to be the last one, but I have faith in it. 
+---
+### moving forward 
+This blog website is an attempt, its not going to be the last one, but I have faith in it.
