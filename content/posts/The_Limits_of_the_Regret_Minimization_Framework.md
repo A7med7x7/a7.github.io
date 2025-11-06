@@ -7,7 +7,9 @@ categories = ['personal philosophy']
 +++
 
 When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to determine which event we should choose. Some people study the implications of each decision and measure how rewarding or penalizing the outcomes might be. Picking the least penalty is a tactic for choosing a decision under this scenario.
-I first  ago in one of Jeff Bezos’s interviews. he called it the *[Regret Minimization Framework.](https://youtu.be/jwG_qR6XmDQ?si=A_cH7C8Bqqwh94Zc)*
+
+<!--more-->
+I first encountered this three years ago in one of Jeff Bezos’s interviews. he called it the *[Regret Minimization Framework.](https://youtu.be/jwG_qR6XmDQ?si=A_cH7C8Bqqwh94Zc)*
 
 This tactic can be used on a smaller scale, even in daily decisions like getting out of bed or not. I’m sure you’ve used this tactic today in your own decision making process as a kind of mental tool. Usually, it helps me clarify priorities and take action with confidence. But what I’m here to share is a funny story: for the very first time, I was unable to use this utility in my decision making process.
 
