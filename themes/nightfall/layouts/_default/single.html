@@ -5,6 +5,12 @@
 {{ define "main" }}
 <div class="postWrapper">
     <h1>{{ .Title }}</h1>
+    {{ if .Params.feature_image }}
+  <div class="post-feature-image">
+    <img src="{{ .Params.feature_image }}" alt="{{ .Title }}" loading="lazy" />
+  </div>
+{{ end }}
+
     {{ if .Description}}
     	<p>{{.Description}}</p>
     {{ end }}
