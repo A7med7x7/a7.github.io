@@ -3,7 +3,7 @@ date = '2025-11-10T18:40:00+03:00'
 draft = false
 title = 'Elaborate: Adding New Friends System'
 tags = ['reflection', 'friendship', 'legacy-systems']
-feature_image = "/images/why_the_legacy_system_still.png"  
+feature_image = "https://github.com/A7med7x7/a7.github.io/blob/c84bf0d4dc201ea3b563a2430782b5494e7cf26b/static/images/why_the_legacy_system_still.png?raw=true"  
 categories = ['personal']
 +++
 
