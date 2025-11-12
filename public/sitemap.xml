@@ -2,70 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:52168/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/elaborate_on_adding_new_friends_system/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/friendship/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/legacy-systems/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reflection/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-11-10T18:40:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/adding_new_friends_system/</loc>
+    <lastmod>2025-11-08T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/relationships/</loc>
+    <lastmod>2025-11-08T00:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/culture/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/categories/</loc>
+    <loc>http://localhost:1313/tags/self-expression/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/culture/</loc>
+    <loc>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/posts/</loc>
+    <loc>http://localhost:1313/categories/writing/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/reflection/</loc>
-    <lastmod>2025-11-06T23:15:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52168/tags/self-expression/</loc>
-    <lastmod>2025-11-06T23:15:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52168/tags/</loc>
-    <lastmod>2025-11-06T23:15:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52168/posts/where_you_are_allowed_to_be_you/</loc>
-    <lastmod>2025-11-06T23:15:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52168/categories/writing/</loc>
-    <lastmod>2025-11-06T23:15:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:52168/tags/decision-making/</loc>
+    <loc>http://localhost:1313/tags/decision-making/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/frameworks/</loc>
+    <loc>http://localhost:1313/tags/frameworks/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/categories/personal-philosophy/</loc>
+    <loc>http://localhost:1313/categories/personal-philosophy/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/posts/the_limits_of_the_regret_minimization_framework/</loc>
+    <loc>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/belief/</loc>
+    <loc>http://localhost:1313/tags/belief/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/gratitude/</loc>
+    <loc>http://localhost:1313/tags/gratitude/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/posts/gratitude_register/</loc>
+    <loc>http://localhost:1313/posts/gratitude_register/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/feelings/</loc>
+    <loc>http://localhost:1313/tags/feelings/</loc>
     <lastmod>2025-09-04T17:43:34+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/categories/reflection/</loc>
+    <loc>http://localhost:1313/categories/reflection/</loc>
     <lastmod>2025-09-04T17:43:34+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/posts/state-of-numbness/</loc>
+    <loc>http://localhost:1313/posts/state-of-numbness/</loc>
     <lastmod>2025-09-04T17:43:34+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/writing/</loc>
+    <loc>http://localhost:1313/tags/writing/</loc>
     <lastmod>2025-09-04T17:43:34+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/tags/personal/</loc>
+    <loc>http://localhost:1313/tags/personal/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:52168/posts/why-i-do-this/</loc>
+    <loc>http://localhost:1313/posts/why-i-do-this/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url>
 </urlset>

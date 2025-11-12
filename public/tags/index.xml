@@ -2,82 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ahmed Alghali Blog</title>
-    <link>http://localhost:52168/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Thu, 06 Nov 2025 23:15:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:52168/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Nov 2025 18:40:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Culture</title>
-      <link>http://localhost:52168/tags/culture/</link>
-      <pubDate>Thu, 06 Nov 2025 23:15:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/culture/</guid>
+      <title>Friendship</title>
+      <link>http://localhost:1313/tags/friendship/</link>
+      <pubDate>Mon, 10 Nov 2025 18:40:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/friendship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Legacy-Systems</title>
+      <link>http://localhost:1313/tags/legacy-systems/</link>
+      <pubDate>Mon, 10 Nov 2025 18:40:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/legacy-systems/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflection</title>
-      <link>http://localhost:52168/tags/reflection/</link>
+      <link>http://localhost:1313/tags/reflection/</link>
+      <pubDate>Mon, 10 Nov 2025 18:40:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/reflection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relationships</title>
+      <link>http://localhost:1313/tags/relationships/</link>
+      <pubDate>Sat, 08 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/relationships/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Culture</title>
+      <link>http://localhost:1313/tags/culture/</link>
       <pubDate>Thu, 06 Nov 2025 23:15:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/reflection/</guid>
+      <guid>http://localhost:1313/tags/culture/</guid>
       <description></description>
     </item>
     <item>
       <title>Self-Expression</title>
-      <link>http://localhost:52168/tags/self-expression/</link>
+      <link>http://localhost:1313/tags/self-expression/</link>
       <pubDate>Thu, 06 Nov 2025 23:15:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/self-expression/</guid>
+      <guid>http://localhost:1313/tags/self-expression/</guid>
       <description></description>
     </item>
     <item>
       <title>Decision Making</title>
-      <link>http://localhost:52168/tags/decision-making/</link>
+      <link>http://localhost:1313/tags/decision-making/</link>
       <pubDate>Thu, 06 Nov 2025 22:30:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/decision-making/</guid>
+      <guid>http://localhost:1313/tags/decision-making/</guid>
       <description></description>
     </item>
     <item>
       <title>Frameworks</title>
-      <link>http://localhost:52168/tags/frameworks/</link>
+      <link>http://localhost:1313/tags/frameworks/</link>
       <pubDate>Thu, 06 Nov 2025 22:30:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/frameworks/</guid>
+      <guid>http://localhost:1313/tags/frameworks/</guid>
       <description></description>
     </item>
     <item>
       <title>Belief</title>
-      <link>http://localhost:52168/tags/belief/</link>
+      <link>http://localhost:1313/tags/belief/</link>
       <pubDate>Thu, 06 Nov 2025 22:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/belief/</guid>
+      <guid>http://localhost:1313/tags/belief/</guid>
       <description></description>
     </item>
     <item>
       <title>Gratitude</title>
-      <link>http://localhost:52168/tags/gratitude/</link>
+      <link>http://localhost:1313/tags/gratitude/</link>
       <pubDate>Thu, 06 Nov 2025 22:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/gratitude/</guid>
+      <guid>http://localhost:1313/tags/gratitude/</guid>
       <description></description>
     </item>
     <item>
       <title>Feelings</title>
-      <link>http://localhost:52168/tags/feelings/</link>
+      <link>http://localhost:1313/tags/feelings/</link>
       <pubDate>Thu, 04 Sep 2025 17:43:34 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/feelings/</guid>
+      <guid>http://localhost:1313/tags/feelings/</guid>
       <description></description>
     </item>
     <item>
       <title>Writing</title>
-      <link>http://localhost:52168/tags/writing/</link>
+      <link>http://localhost:1313/tags/writing/</link>
       <pubDate>Thu, 04 Sep 2025 17:43:34 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/writing/</guid>
+      <guid>http://localhost:1313/tags/writing/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>http://localhost:52168/tags/personal/</link>
+      <link>http://localhost:1313/tags/personal/</link>
       <pubDate>Thu, 04 Sep 2025 09:32:11 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/tags/personal/</guid>
+      <guid>http://localhost:1313/tags/personal/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Self-Expression on Ahmed Alghali Blog</title>
-    <link>http://localhost:52168/tags/self-expression/</link>
+    <link>http://localhost:1313/tags/self-expression/</link>
     <description>Recent content in Self-Expression on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Thu, 06 Nov 2025 23:15:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:52168/tags/self-expression/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/self-expression/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Where You Are Allowed To Be You</title>
-      <link>http://localhost:52168/posts/where_you_are_allowed_to_be_you/</link>
+      <link>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</link>
       <pubDate>Thu, 06 Nov 2025 23:15:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:52168/posts/where_you_are_allowed_to_be_you/</guid>
-      <description>&lt;p&gt;To nerd out and talk about a particular topic that you are deeply interested in/ obsessed with, requires you to unveil part of yourself. Your personality, your affection, your love for that topic. Often, it feels like dancing in the symphony of that subject(my analogy is very consumed, but I feel it holds true here).&lt;/p&gt;&#xA;&lt;p&gt;While jumping between discussions on &#xA;&lt;a href=&#34;substack.com&#34;&gt;Substack&lt;/a&gt;&#xA;, I found myself watching this Kurt Vonnegut lecture.&lt;br&gt;&#xA;&#xA;&lt;a href=&#34;https://youtu.be/GOGru_4z1Vc?si=RCY3DkrlbOj7We_e&#34;&gt;Watch the lecture&lt;/a&gt;&#xA;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</guid>
+      <description>&lt;p&gt;To nerd out and talk about a particular topic that you are deeply interested in/ obsessed with, requires you to unveil part of yourself. Your personality, your affection, your love for that topic. Often, it feels like dancing in the symphony of that subject(my analogy is very consumed, but I feel it holds true here).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
