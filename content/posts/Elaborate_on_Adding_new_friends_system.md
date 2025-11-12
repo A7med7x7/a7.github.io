@@ -89,7 +89,7 @@ Besides the system doing its job, there were **boosters** that helped keep it ru
 
   “People will stop trying to know you, you piece of shit. You’re setting the walls so high they won’t even try to climb them.” telling myself. 
   And I had no idea that it was *me* causing this. That’s how two insecurities start boosting each other.
-  - The legacy system is not helping me make friendships. 
+  - The legacy system is not helping me establishing new friendships (pending status cases). 
   - People are letting go of me because of this embedded legacy system.
   - I let go of people before they let go of me. 
   - The legacy system itself helps me in the process of letting go of the people
