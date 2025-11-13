@@ -85,5 +85,8 @@
   </url><url>
     <loc>http://localhost:1313/posts/why-i-do-this/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/21/</loc>
+    <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url>
 </urlset>

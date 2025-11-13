@@ -3,7 +3,7 @@ date = '2025-09-04T09:32:11+03:00'
 title = 'why im doing this'
 description = 'A personal reflection on my writing journey and the demons that held me back'
 tags = ['writing', 'personal']
-categories = ['reflection']
+categories = ['meta']
 +++
 
 >*do things badly*

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/categories/process/</link>
+    <description>Recent content in Process on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Thu, 04 Sep 2025 09:32:11 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/process/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>why im doing this</title>
+      <link>http://localhost:1313/posts/why-i-do-this/</link>
+      <pubDate>Thu, 04 Sep 2025 09:32:11 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/why-i-do-this/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;do things badly&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As the years pass by, I found my self adapt to different reason to keep living.&#xA;to share. I&amp;rsquo;m not as clear as I use to about why I should be posting,&#xA;but looking back over the years I recall how writing started. how reasons changed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
