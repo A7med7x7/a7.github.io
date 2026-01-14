@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>http://localhost:63680/categories/</link>
     <description>Recent content in Categories on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Sun, 04 Jan 2026 17:41:53 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63680/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reflections</title>
-      <link>http://localhost:1313/categories/reflections/</link>
+      <link>http://localhost:63680/categories/reflections/</link>
       <pubDate>Sun, 04 Jan 2026 17:41:53 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/reflections/</guid>
+      <guid>http://localhost:63680/categories/reflections/</guid>
       <description></description>
     </item>
     <item>
       <title>Thought</title>
-      <link>http://localhost:1313/categories/thought/</link>
+      <link>http://localhost:63680/categories/thought/</link>
       <pubDate>Thu, 25 Dec 2025 03:11:01 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/thought/</guid>
+      <guid>http://localhost:63680/categories/thought/</guid>
       <description></description>
     </item>
     <item>
       <title>Personal</title>
-      <link>http://localhost:1313/categories/personal/</link>
+      <link>http://localhost:63680/categories/personal/</link>
       <pubDate>Mon, 22 Dec 2025 14:38:22 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/personal/</guid>
+      <guid>http://localhost:63680/categories/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Meta</title>
-      <link>http://localhost:1313/categories/meta/</link>
+      <link>http://localhost:63680/categories/meta/</link>
       <pubDate>Mon, 08 Dec 2025 13:32:58 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/meta/</guid>
+      <guid>http://localhost:63680/categories/meta/</guid>
       <description></description>
     </item>
     <item>
       <title>Archives</title>
-      <link>http://localhost:1313/categories/archives/</link>
+      <link>http://localhost:63680/categories/archives/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/archives/</guid>
+      <guid>http://localhost:63680/categories/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflection</title>
-      <link>http://localhost:1313/categories/reflection/</link>
+      <link>http://localhost:63680/categories/reflection/</link>
       <pubDate>Thu, 20 Nov 2025 07:38:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/reflection/</guid>
+      <guid>http://localhost:63680/categories/reflection/</guid>
       <description></description>
     </item>
     <item>
       <title>Drafts</title>
-      <link>http://localhost:1313/categories/drafts/</link>
+      <link>http://localhost:63680/categories/drafts/</link>
       <pubDate>Mon, 02 Jun 2025 20:04:03 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/drafts/</guid>
+      <guid>http://localhost:63680/categories/drafts/</guid>
       <description></description>
     </item>
     <item>
       <title>Archive</title>
-      <link>http://localhost:1313/categories/archive/</link>
+      <link>http://localhost:63680/categories/archive/</link>
       <pubDate>Tue, 06 May 2025 12:19:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/archive/</guid>
+      <guid>http://localhost:63680/categories/archive/</guid>
       <description></description>
     </item>
     <item>
       <title>Draft</title>
-      <link>http://localhost:1313/categories/draft/</link>
+      <link>http://localhost:63680/categories/draft/</link>
       <pubDate>Tue, 06 May 2025 12:19:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/draft/</guid>
+      <guid>http://localhost:63680/categories/draft/</guid>
       <description></description>
     </item>
     <item>
       <title>Field Notes</title>
-      <link>http://localhost:1313/categories/field-notes/</link>
+      <link>http://localhost:63680/categories/field-notes/</link>
       <pubDate>Fri, 12 Apr 2024 10:50:51 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/field-notes/</guid>
+      <guid>http://localhost:63680/categories/field-notes/</guid>
       <description></description>
     </item>
   </channel>

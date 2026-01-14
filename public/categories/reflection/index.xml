@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reflection on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/categories/reflection/</link>
+    <link>http://localhost:63680/categories/reflection/</link>
     <description>Recent content in Reflection on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Thu, 20 Nov 2025 07:38:35 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63680/categories/reflection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I fear the person I will become</title>
-      <link>http://localhost:1313/posts/i_fear_the_person_i_will_become/</link>
+      <link>http://localhost:63680/posts/i_fear_the_person_i_will_become/</link>
       <pubDate>Thu, 20 Nov 2025 07:38:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/i_fear_the_person_i_will_become/</guid>
+      <guid>http://localhost:63680/posts/i_fear_the_person_i_will_become/</guid>
       <description>&lt;p&gt;The velocity at which I&amp;rsquo;m updating my beliefs about the world has never been known to be slow; saying &amp;ldquo;Oops&amp;rdquo; and updating my beliefs implies updating my behavior if needed. This oscillating pattern of behavior has been defining the kind and amount of love I receive in this world, updating a behavior is either bringing me joy by interacting with people, loving myself, or appreciating the world, or has led me to a series of overwhelm led by the need to solve the questions I’m cornered with.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Where You Are Allowed To Be You</title>
-      <link>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</link>
+      <link>http://localhost:63680/posts/where_you_are_allowed_to_be_you/</link>
       <pubDate>Thu, 06 Nov 2025 23:15:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</guid>
+      <guid>http://localhost:63680/posts/where_you_are_allowed_to_be_you/</guid>
       <description>&lt;p&gt;To nerd out and talk about a particular topic that you are deeply interested in/ obsessed with, requires you to unveil part of yourself. Your personality, your affection, your love for that topic. Often, it feels like dancing in the symphony of that subject(my analogy is very consumed, but I feel it holds true here).&lt;/p&gt;</description>
     </item>
     <item>
       <title>State of Numbness</title>
-      <link>http://localhost:1313/posts/state-of-numbness/</link>
+      <link>http://localhost:63680/posts/state-of-numbness/</link>
       <pubDate>Sun, 22 Jun 2025 17:43:34 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/state-of-numbness/</guid>
+      <guid>http://localhost:63680/posts/state-of-numbness/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Early to rise early to bed, makes a man healthy but socially dead&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
     </item>
   </channel>

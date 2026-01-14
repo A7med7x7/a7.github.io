@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anxiety on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/tags/anxiety/</link>
+    <link>http://localhost:63680/tags/anxiety/</link>
     <description>Recent content in Anxiety on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Fri, 21 Nov 2025 00:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/anxiety/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63680/tags/anxiety/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Days That I Don’t Understand</title>
-      <link>http://localhost:1313/posts/days_that_i_didnt_understand/</link>
+      <link>http://localhost:63680/posts/days_that_i_didnt_understand/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/days_that_i_didnt_understand/</guid>
+      <guid>http://localhost:63680/posts/days_that_i_didnt_understand/</guid>
       <description>&lt;p&gt;I had a friend I met online who struggled with social anxiety. He used to tell me how he panicked at the idea of going to the university. I knew he wasn’t lying, but part of me couldn’t truly believe it, that a psychological disorder could control someone that much. I was telling him: you just needed to stop overthinking that people will hurt you, remind yourself there’s no reason to be afraid, and call it a day. Yes, I was ignorant. I tried to convince him to change something he couldn’t change, to “overcome it,” as if these were only voices in his head.&lt;/p&gt;</description>
     </item>
   </channel>

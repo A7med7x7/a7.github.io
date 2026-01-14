@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Field Notes on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/categories/field-notes/</link>
+    <link>http://localhost:63680/categories/field-notes/</link>
     <description>Recent content in Field Notes on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Fri, 12 Apr 2024 10:50:51 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/field-notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:63680/categories/field-notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning Faliure Modes - Branching</title>
-      <link>http://localhost:1313/posts/learning-faliure-modes-branching/</link>
+      <link>http://localhost:63680/posts/learning-faliure-modes-branching/</link>
       <pubDate>Fri, 12 Apr 2024 10:50:51 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/learning-faliure-modes-branching/</guid>
+      <guid>http://localhost:63680/posts/learning-faliure-modes-branching/</guid>
       <description>&lt;p&gt;This is part of a series of notes I’m taking to understand the person I am when learning something. Most of them are about understanding myself and applying useful techniques.&lt;/p&gt;&#xA;&lt;p&gt;Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. But it feels almost too late, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. It was a lonely experimentation road.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning Faliure Modes - Floating Information</title>
-      <link>http://localhost:1313/posts/learning-faliure-modes-floating-information/</link>
+      <link>http://localhost:63680/posts/learning-faliure-modes-floating-information/</link>
       <pubDate>Fri, 12 Apr 2024 10:50:51 +0400</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/learning-faliure-modes-floating-information/</guid>
+      <guid>http://localhost:63680/posts/learning-faliure-modes-floating-information/</guid>
       <description>&lt;p&gt;I call this problem &lt;em&gt;floating information&lt;/em&gt;. It is a literal translation of the Arabic word &amp;ldquo;طائفة&amp;rdquo;, which means floating in space without connection. I first noticed that there is information that is not linked to anything. It has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.&lt;/p&gt;</description>
     </item>
   </channel>
