@@ -8,13 +8,14 @@ categories = ['Reflections']
 
 At the start of the year, I had to catch up with a team I’m part of. we wanted to escape the dull rhythm of formal meetings and genuinely check in on how everyone had lived through 2025.I asked a simple question:
 
+
+<!--more-->
+
 **If you had to sum up your entire year in five words, what would they be?**
 
 I enjoyed listening to everyone, some pretty interesting answers where there, until they flipped the table on me. I had two minutes. I had never truly reflected on the year before, so what came out surprised even me.
 
 These were the five words.
-
-<!--more-->
 
 ## Diplomacy
 
