@@ -12,7 +12,7 @@ you are friends with everyone, yet attached to no one.
 you are cold blooded, they said. nothing really harms you. nothing causes you pain.  
 we have never seen you lose your temper before.  
 it feels like you have no heart.
-<!--more-->
+
 but that was never power to me.  
 i was never proud of it from the inside.  
 not being able to feel things is not power.  

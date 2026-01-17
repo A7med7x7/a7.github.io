@@ -8,9 +8,10 @@ title = 'Comparative Suffering : A Habit of Looking down'
 
 > I used to lament having no shoes, until I met a man who had no feet.
 
-When I was a kid, my elder brother Mohammed used to work in many [charity organizations](https://takaful98.org). I used to be part of many of the events these charities were about. I saw the suffering of kids who were at the same age as me, many of whom had no father, no mother, no home to return to. the suffering was everywhere, yet they managed to smile every now and then. these were perhaps the earlier times when I started comparing my suffering to those whose suffering was far greater than mine.
-
+When I was a kid, my elder brother Mohammed used to work in many [charity organizations](https://takaful98.org). I used to be part of many of the events these charities were about. I saw the suffering of kids who were at the same age as me, many of whom had no father, no mother, no home to return to.
 <!--more-->
+the suffering was everywhere, yet they managed to smile every now and then. these were perhaps the earlier times when I started comparing my suffering to those whose suffering was far greater than mine.
+
 ## Suffering Became a Scale
 I spend time watching videos of people who are suffering way more than me, people with real issues, with real disabilities, with difficult life conditions. It really saddens me watching this, yet it gives me hope that people can keep carrying on no matter how much they endure. but most importantly they make me feel guilty for feeling pain. they make me feel small. they diminish my own problems, and it works in various ways. one of which is subtle motivators,  I would imagine someone who is the same age as me, as ambitious, as passionate, but who is doing this far more desperately than I do, someone who has no choice. someone who never got the things I got and was not lucky in the same way I was. I would feel guilt for not making use of the tools I was fortunate to have, hence I would be motivated by the fear that someone else, with more roadblocks than me, would achieve more.
 

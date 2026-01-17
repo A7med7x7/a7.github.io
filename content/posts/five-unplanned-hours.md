@@ -8,9 +8,11 @@ categories = ['Personal', 'Reflections']
 
 Today, I spent five hours talking to Awab.
 
-It wasn’t planned. no intention, no emotional preparation. he texted me casually saying: _“VC in 2–3 hours?”_ the kind of message you expect to lead to small updates and shallow catching up as we usually do. Instead, it became one of the most profound conversations I’ve ever had. this piece exists to serve as an act of gratitude toward Awab, a person I realized today I’ve never properly stopped to appreciate. this is how I process affection: by intellectualizing the feelings, by writing instead about it, instead of feeling it directly, lol. If so, It captures fragments of what I learned about friendship, about myself, and about what it means to be understood without asking to be.
-
+It wasn’t planned. no intention, no emotional preparation. he texted me casually saying: _“VC in 2–3 hours?”_ the kind of message you expect to lead to small updates and shallow catching up as we usually do. Instead,it became one of the most profound conversations I’ve ever had. 
 <!--more-->
+this piece exists to serve as an act of gratitude toward Awab, a person I realized today I’ve never properly stopped to appreciate. this is how I process affection: by intellectualizing the feelings, by writing instead about it, instead of feeling it directly, lol. If so, It captures fragments of what I learned about friendship, about myself, and about what it means to be understood without asking to be.
+
+
 ## About Awab
 
 I met Awab in 2023 at [Tutipay](https://www.linkedin.com/company/tutipay). I was 18, he was 21. he was this weirdo, nerdy, intelligent kid in the best way possible, and since we were the youngest interns in the staff, we get along pretty fast,  although I showed up maybe for a total of a six days in the office, and preferred working remotely it was in the same way young people sometimes do when they recognize something familiar without being able to name it.
