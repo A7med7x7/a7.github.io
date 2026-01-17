@@ -8,7 +8,7 @@ title = 'Early Lessons in Healing - Thought and Condition'
 +++
 
 There were parts of my childhood and teenage years when I found myself visiting what I now think of as _the cave of disparity_. I was fortunate enough to find my way out. much of the credit goes to one essential shift that guided me toward stability if I my say: I stopped over-complaining about my condition and began paying attention to how my thoughts were shaping my state of being.
-
+<!--more-->
 There was a quote I first heard back in high school that stayed with me. to this day, I still use it when explaining how deeply our thoughts and beliefs shape who we become. its for [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi):
 
 > _Your beliefs become your thoughts,_  

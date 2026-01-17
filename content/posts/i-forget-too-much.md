@@ -7,7 +7,7 @@ title = 'I Forget Too Much'
 > You're just forgetful.
 
 There is one attribute that almost all the people around me seem to know about, because I keep talking about it a lot: I find it difficult to remember both people and places, I forget things very easily.
-
+<!--more-->
 I never investigated why until I was around eighteen. Why it was so easy for me to forget moments, people, and places. Looking back into my life and trying to remember some of these moments, especially when someone reminds me of them, I notice large periods that are just black, as if they were wiped away from my memory. Mostly void. Sometimes they sit at the edge. If I wasn’t remembered by someone or something at that stage of my life, I would have never remembered it at all.
 
 I remember that my high school years were a very unpleasing experience for me. As soon as I finished high school, I forgot the places, the stories, the details, and the people.

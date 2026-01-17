@@ -8,7 +8,7 @@ title = 'Before Art, Literature After Metaphor'
 
 > *I'm starting to notice things I never saw before, or maybe I saw them, but I wasn’t paying attention. For some reason, everything has become a metaphor.*  
 > — Davis Mitchell
-
+<!--more-->
 I have always loved poetry, as a child, I wrote my own poems with a strange seriousness for someone my age, I remember the joy, the quiet excitement, the almost sacred feeling of sharing them with my family, especially my brother Mohammed and my sister Zeinab. They were the novelists of our home. writers in the fullest sense. everyone in the family wrote in their own way, but Mohammed and Zeinab were different.I felt like writing was not something they visited; it was something they lived inside.
 
 They inspired me not by teaching, they never did tutor me, but by example. by watching how they could translate emotion, raw, unpolished emotion, into plain black scratches on white paper, (most pieces were posts were on facebook tho) no performance. no explanation. just honesty. some of their words still echo inside me to this day.

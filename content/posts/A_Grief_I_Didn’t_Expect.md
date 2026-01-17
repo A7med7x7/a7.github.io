@@ -7,10 +7,9 @@ title = "Learning the Truth About How I Love"
 +++
 
 > your growth is directly proportional to the amount of truth you are willing to accept about yourself.
-
+<!--more-->
 It’s never simple to confront an insecurity you’ve never recognized before, to finally name something that has quietly shaped you for years. I’m not afraid to acknowledge it but I’m also not very comfortable exposing my vulnerabilities . Still, I believe that notes are a record of my thinking process, and for the sake of honesty, integrity, I can’t ignore the mistakes I’ve made or the impact they’ve had on others. Today I came across a quote that perfectly describes the person I’m, in relationships.
 
-<!--more-->
 
 > Avoidant attachment is a pattern where you feel uncomfortable with emotional closeness and tend to pull away or shut down when relationships start to feel too vulnerable. Deep down, you may still want connection, but it feels safer to stay distant, guarded, or independent.
 

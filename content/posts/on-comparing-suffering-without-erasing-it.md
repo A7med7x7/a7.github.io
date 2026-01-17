@@ -7,7 +7,7 @@ title = 'On Comparing Pain Without Erasing It'
 
 I’ve recently been thinking about [comparative suffering](https://a7med7x7.github.io/posts/comparative-suffering/). for me, the idea that there is a greater problem out there often helps me feel relief. It allows me to dismiss my own problems. at some point, I discovered that there is a logical fallacy that describes exactly this behavior. I had no idea that what I was doing could be wrong in any way, to be clear, a degree of comparison is sometimes necessary. we compare problems to prioritize them and decide what to work on first. but I also realized that there were times when I misused this comparison.
 ## A hidden trap
-
+<!--more-->
 It is called the fallacy of relative privation, The classic example is the man who complains about having no shoes, then sees someone with no legs. we compare suffering, often by measuring our pain against greater pain. sometimes this is deeply rooted in our belief system. you hear phrases like “it could be worse”, usually backed by an implicit example of someone who ended up in a much worse situation. I’ve recently learned that this fallacy comes in different shapes, and that its scope is broader than I initially thought.
 
 It can be used to minimize achievements by setting unreasonable standards. for example, getting many A- grades and dismissing that achievement because someone else got straight As, It can also be used to justify poor conditions. saying “this is better than being homeless” while discussing slightly improved, but still unacceptable, living conditions.

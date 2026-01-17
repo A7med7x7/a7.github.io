@@ -2,244 +2,259 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63680/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/distance/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/friends/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/growth/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/im-afraid-of-what-awaits-ahead-for-my-friends/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reflections/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/on-comparing-suffering-without-erasing-it/</loc>
     <lastmod>2026-01-11T10:36:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/on-comparing-suffering-without-erasing-it/</loc>
-    <lastmod>2026-01-11T10:36:08+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/posts/</loc>
-    <lastmod>2026-01-11T10:36:08+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/posts/before-art-literature-after-metaphor/</loc>
+    <loc>http://localhost:1313/posts/before-art-literature-after-metaphor/</loc>
     <lastmod>2026-01-07T00:23:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/2025-in-five-words/</loc>
+    <loc>http://localhost:1313/posts/2025-in-five-words/</loc>
     <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/</loc>
+    <loc>http://localhost:1313/tags/loss/</loc>
     <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/growth/</loc>
+    <loc>http://localhost:1313/tags/reflection/</loc>
     <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/loss/</loc>
-    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/tags/reflection/</loc>
-    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/categories/reflections/</loc>
-    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/tags/</loc>
-    <lastmod>2026-01-04T17:41:53+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/posts/comparative-suffering/</loc>
+    <loc>http://localhost:1313/posts/comparative-suffering/</loc>
     <lastmod>2025-12-25T03:11:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/thought/</loc>
+    <loc>http://localhost:1313/categories/thought/</loc>
     <lastmod>2025-12-25T03:11:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/conversation-with-a-stranger/</loc>
+    <loc>http://localhost:1313/posts/conversation-with-a-stranger/</loc>
     <lastmod>2025-12-22T14:38:22+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/personal/</loc>
+    <loc>http://localhost:1313/categories/personal/</loc>
     <lastmod>2025-12-22T14:38:22+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/five-unplanned-hours/</loc>
+    <loc>http://localhost:1313/posts/five-unplanned-hours/</loc>
     <lastmod>2025-12-20T22:56:44+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/a-user-manual-for-being-close-to-me/</loc>
+    <loc>http://localhost:1313/posts/a-user-manual-for-being-close-to-me/</loc>
     <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/relationships/</loc>
+    <loc>http://localhost:1313/tags/relationships/</loc>
     <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/before-you-heal-someone/</loc>
+    <loc>http://localhost:1313/posts/before-you-heal-someone/</loc>
     <lastmod>2025-12-15T14:03:43+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/who-i-am-on-the-person-i-failed-to-define/</loc>
+    <loc>http://localhost:1313/posts/who-i-am-on-the-person-i-failed-to-define/</loc>
     <lastmod>2025-12-12T20:40:54+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/i-forget-too-much/</loc>
+    <loc>http://localhost:1313/posts/i-forget-too-much/</loc>
     <lastmod>2025-12-11T19:14:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/the-moment-i-realized-what-he-meant-to-me/</loc>
+    <loc>http://localhost:1313/posts/the-moment-i-realized-what-he-meant-to-me/</loc>
     <lastmod>2025-12-11T16:06:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/i-learned-meaning-before-i-learn-pleasure/</loc>
+    <loc>http://localhost:1313/posts/i-learned-meaning-before-i-learn-pleasure/</loc>
     <lastmod>2025-12-08T13:32:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/meta/</loc>
+    <loc>http://localhost:1313/categories/meta/</loc>
     <lastmod>2025-12-08T13:32:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/attachment/</loc>
+    <loc>http://localhost:1313/tags/attachment/</loc>
     <lastmod>2025-12-06T08:38:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/a_grief_i_didnt_expect/</loc>
+    <loc>http://localhost:1313/posts/a_grief_i_didnt_expect/</loc>
     <lastmod>2025-12-06T08:38:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/consenting_to_the_game_rules/</loc>
+    <loc>http://localhost:1313/posts/consenting_to_the_game_rules/</loc>
     <lastmod>2025-12-05T03:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/thinking/</loc>
+    <loc>http://localhost:1313/tags/thinking/</loc>
     <lastmod>2025-12-05T03:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/early-lessons-in-healing-thought-and-condition/</loc>
+    <loc>http://localhost:1313/posts/early-lessons-in-healing-thought-and-condition/</loc>
     <lastmod>2025-12-04T12:19:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/family/</loc>
+    <loc>http://localhost:1313/tags/family/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/helping/</loc>
+    <loc>http://localhost:1313/tags/helping/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/helping_as_escape/</loc>
+    <loc>http://localhost:1313/posts/helping_as_escape/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/hope/</loc>
+    <loc>http://localhost:1313/tags/hope/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/feelings/</loc>
+    <loc>http://localhost:1313/tags/feelings/</loc>
     <lastmod>2025-11-21T08:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/learning_to_feel_again/</loc>
+    <loc>http://localhost:1313/posts/learning_to_feel_again/</loc>
     <lastmod>2025-11-21T08:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/writing/</loc>
-    <lastmod>2025-11-21T08:00:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/tags/anxiety/</loc>
+    <loc>http://localhost:1313/tags/anxiety/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/archives/</loc>
+    <loc>http://localhost:1313/categories/archives/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/days_that_i_didnt_understand/</loc>
+    <loc>http://localhost:1313/posts/days_that_i_didnt_understand/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/personal/</loc>
+    <loc>http://localhost:1313/tags/personal/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/i_fear_the_person_i_will_become/</loc>
+    <loc>http://localhost:1313/posts/i_fear_the_person_i_will_become/</loc>
     <lastmod>2025-11-20T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/reflection/</loc>
+    <loc>http://localhost:1313/categories/reflection/</loc>
     <lastmod>2025-11-20T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/the_first_whisper_of_quitting/</loc>
+    <loc>http://localhost:1313/posts/the_first_whisper_of_quitting/</loc>
     <lastmod>2025-11-19T18:30:25+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/elaborate_on_adding_new_friends_system/</loc>
+    <loc>http://localhost:1313/posts/elaborate_on_adding_new_friends_system/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/friendship/</loc>
+    <loc>http://localhost:1313/tags/friendship/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/legacy-systems/</loc>
+    <loc>http://localhost:1313/tags/legacy-systems/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/adding_new_friends_system/</loc>
+    <loc>http://localhost:1313/posts/adding_new_friends_system/</loc>
     <lastmod>2025-11-08T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/culture/</loc>
+    <loc>http://localhost:1313/tags/culture/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/self-expression/</loc>
+    <loc>http://localhost:1313/tags/self-expression/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/where_you_are_allowed_to_be_you/</loc>
+    <loc>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/decision-making/</loc>
+    <loc>http://localhost:1313/tags/decision-making/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/frameworks/</loc>
+    <loc>http://localhost:1313/tags/frameworks/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/personal-philosphy/</loc>
+    <loc>http://localhost:1313/tags/personal-philosphy/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/the_limits_of_the_regret_minimization_framework/</loc>
+    <loc>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/belief/</loc>
+    <loc>http://localhost:1313/tags/belief/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/gratitude/</loc>
+    <loc>http://localhost:1313/tags/gratitude/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/gratitude_register/</loc>
+    <loc>http://localhost:1313/posts/gratitude_register/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/computation-is-not-reality/</loc>
+    <loc>http://localhost:1313/categories/field-notes/</loc>
+    <lastmod>2025-10-14T04:05:23+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/i-love-who-im-on-a7/</loc>
+    <lastmod>2025-10-14T04:05:23+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/computation-is-not-reality/</loc>
     <lastmod>2025-09-22T22:22:27+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/why-i-do-this/</loc>
+    <loc>http://localhost:1313/categories/unfinished-notes/</loc>
+    <lastmod>2025-09-22T22:22:27+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-i-do-this/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/state-of-numbness/</loc>
+    <loc>http://localhost:1313/posts/state-of-numbness/</loc>
     <lastmod>2025-06-22T17:43:34+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/drafts/</loc>
+    <loc>http://localhost:1313/categories/drafts/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/drafts/</loc>
+    <loc>http://localhost:1313/tags/drafts/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/21_reflections/</loc>
+    <loc>http://localhost:1313/posts/21_reflections/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/21/</loc>
+    <loc>http://localhost:1313/posts/21/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/archive/</loc>
+    <loc>http://localhost:1313/categories/archive/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/archive/</loc>
+    <loc>http://localhost:1313/tags/archive/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/draft/</loc>
+    <loc>http://localhost:1313/categories/draft/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/draft/</loc>
+    <loc>http://localhost:1313/tags/draft/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/i_keep_failing_the_people_i_care_about/</loc>
+    <loc>http://localhost:1313/posts/i_keep_failing_the_people_i_care_about/</loc>
     <lastmod>2025-03-25T19:12:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/what_you_want_to_major_in_might_not_be_exactly_how_you_imagine_it/</loc>
+    <loc>http://localhost:1313/posts/what_you_want_to_major_in_might_not_be_exactly_how_you_imagine_it/</loc>
     <lastmod>2025-03-21T18:55:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/tags/archives/</loc>
+    <loc>http://localhost:1313/tags/archives/</loc>
     <lastmod>2024-08-14T19:52:21+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/flow_state_and_sleep/</loc>
+    <loc>http://localhost:1313/posts/flow_state_and_sleep/</loc>
     <lastmod>2024-08-14T19:52:21+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/the_greatest_tragedy_in_life/</loc>
+    <loc>http://localhost:1313/posts/the_greatest_tragedy_in_life/</loc>
     <lastmod>2024-06-29T08:43:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/20/</loc>
+    <loc>http://localhost:1313/posts/20/</loc>
     <lastmod>2024-05-21T18:59:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/categories/field-notes/</loc>
+    <loc>http://localhost:1313/posts/learning-faliure-modes-branching/</loc>
     <lastmod>2024-04-12T10:50:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/learning-faliure-modes-branching/</loc>
-    <lastmod>2024-04-12T10:50:51+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:63680/posts/learning-faliure-modes-floating-information/</loc>
+    <loc>http://localhost:1313/posts/learning-faliure-modes-floating-information/</loc>
     <lastmod>2024-04-12T10:50:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/why-im-sharing-notes-regret/</loc>
+    <loc>http://localhost:1313/posts/why-im-sharing-notes-regret/</loc>
     <lastmod>2024-03-19T23:50:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/why_im_sharing_notes/</loc>
+    <loc>http://localhost:1313/posts/why_im_sharing_notes/</loc>
     <lastmod>2024-03-19T11:48:47+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:63680/posts/lack_of_real_feedback/</loc>
+    <loc>http://localhost:1313/posts/lack_of_real_feedback/</loc>
     <lastmod>2024-02-11T19:21:15+03:00</lastmod>
   </url>
 </urlset>

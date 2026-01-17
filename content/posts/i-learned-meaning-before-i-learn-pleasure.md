@@ -8,7 +8,7 @@ title = 'I Learned Meaning Before I Learn Pleasure'
 
 > There is a famous Viktor Frankl quote:  
 > _“When a man can’t find a deep sense of meaning, he distracts himself with pleasure.”_
-
+<!--more-->
 > Franks argues that the lack of meaning causes people to seek temporary relief in superficial pursuits, rather than addressing the underlying existential void. Perhaps for many, maybe even for most people, this is a big issue, but there is another group that suffers from the opposite problem. 
 
 > **Frankel’s inverse law**: when a man can’t find a deep sense of pleasure, they distract themselves with meaning. If ease, grace, joy, and playfulness don’t come easily to you, one solution is to just ignore moment to moment happiness entirely, and always pursue hard things; you become a world champion at winning the marshmallow test.

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thinking on Ahmed Alghali Blog</title>
-    <link>http://localhost:63680/tags/thinking/</link>
+    <link>http://localhost:1313/tags/thinking/</link>
     <description>Recent content in Thinking on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Fri, 05 Dec 2025 03:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:63680/tags/thinking/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/thinking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consenting to the Game Rules</title>
-      <link>http://localhost:63680/posts/consenting_to_the_game_rules/</link>
+      <link>http://localhost:1313/posts/consenting_to_the_game_rules/</link>
       <pubDate>Fri, 05 Dec 2025 03:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:63680/posts/consenting_to_the_game_rules/</guid>
+      <guid>http://localhost:1313/posts/consenting_to_the_game_rules/</guid>
       <description>&lt;p&gt;This piece of writing was part of an article I’m writing, about how I would help someone answering the question of “what do I want to do”, where I discuss how to pick a major and what helps you to define the way you contribute to this world. I found the draft of the article to be very lengthy, I may expected the reader to be aware of different notions upfront, so I preferred this topic to be referenced here. As many of my drafts are pointing to it.&lt;/p&gt;</description>
     </item>
   </channel>

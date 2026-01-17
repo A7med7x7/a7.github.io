@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thought on Ahmed Alghali Blog</title>
-    <link>http://localhost:63680/categories/thought/</link>
+    <link>http://localhost:1313/categories/thought/</link>
     <description>Recent content in Thought on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Thu, 25 Dec 2025 03:11:01 +0300</lastBuildDate>
-    <atom:link href="http://localhost:63680/categories/thought/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/thought/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Comparative Suffering : A Habit of Looking down</title>
-      <link>http://localhost:63680/posts/comparative-suffering/</link>
+      <link>http://localhost:1313/posts/comparative-suffering/</link>
       <pubDate>Thu, 25 Dec 2025 03:11:01 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:63680/posts/comparative-suffering/</guid>
+      <guid>http://localhost:1313/posts/comparative-suffering/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;I used to lament having no shoes, until I met a man who had no feet.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;When I was a kid, my elder brother Mohammed used to work in many &#xA;&lt;a href=&#34;https://takaful98.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;charity organizations&lt;/a&gt;&#xA;. I used to be part of many of the events these charities were about. I saw the suffering of kids who were at the same age as me, many of whom had no father, no mother, no home to return to. the suffering was everywhere, yet they managed to smile every now and then. these were perhaps the earlier times when I started comparing my suffering to those whose suffering was far greater than mine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Consenting to the Game Rules</title>
-      <link>http://localhost:63680/posts/consenting_to_the_game_rules/</link>
+      <link>http://localhost:1313/posts/consenting_to_the_game_rules/</link>
       <pubDate>Fri, 05 Dec 2025 03:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:63680/posts/consenting_to_the_game_rules/</guid>
+      <guid>http://localhost:1313/posts/consenting_to_the_game_rules/</guid>
       <description>&lt;p&gt;This piece of writing was part of an article I’m writing, about how I would help someone answering the question of “what do I want to do”, where I discuss how to pick a major and what helps you to define the way you contribute to this world. I found the draft of the article to be very lengthy, I may expected the reader to be aware of different notions upfront, so I preferred this topic to be referenced here. As many of my drafts are pointing to it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Limits of the Regret Minimization Framework</title>
-      <link>http://localhost:63680/posts/the_limits_of_the_regret_minimization_framework/</link>
+      <link>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</link>
       <pubDate>Thu, 06 Nov 2025 22:30:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:63680/posts/the_limits_of_the_regret_minimization_framework/</guid>
+      <guid>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</guid>
       <description>&lt;p&gt;When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to determine which event we should choose. Some people study the implications of each decision and measure how rewarding or penalizing the outcomes might be. Picking the least penalty is a tactic for choosing a decision under this scenario.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Gratitude Register</title>
-      <link>http://localhost:63680/posts/gratitude_register/</link>
+      <link>http://localhost:1313/posts/gratitude_register/</link>
       <pubDate>Thu, 06 Nov 2025 22:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:63680/posts/gratitude_register/</guid>
+      <guid>http://localhost:1313/posts/gratitude_register/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Everyone is atheist until the plane starts falling.&lt;/em&gt;&#xA;I have no clue who said this.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;The numerous different stories that act as catalysts for returning to God and thinking about the existence of a grand designer or creator, shared by people across the globe, are interesting. There are a variety of patterns, and often the most interesting ones are those concluded through epistemic rationality rather than convenience or bias—where there was evidence that God existed, for them.&#xA;One pattern is how God existed in everyday life. A good example is the historical belief that the creation of all temples and religions around the world throughout history is an innate, lowkey, subtle need for God.&lt;/p&gt;</description>
     </item>
   </channel>
