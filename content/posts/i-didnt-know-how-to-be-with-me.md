@@ -1,6 +1,6 @@
 +++
 date = '2026-01-02T15:00:45+03:00'
-draft = true
+draft = false
 title = 'I Didnt Know How to Be With Me'
 +++
 
