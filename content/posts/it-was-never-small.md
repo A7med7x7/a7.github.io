@@ -11,4 +11,4 @@ the things I went through were not as small as i once believed. they were not as
 
 these thoughts make me furious. truly furious. it is the first emotion i have experienced clearly after these realizations. i am angry that i had to go through all of this inside my own head. angry that somewhere out there exists a version of me who never had to cross the rivers i crossed. a version who is not paralyzed. a version who arrived here easily, without carrying this invisible weight.
 
-related [reflection](http://localhost:1313/posts/i-learned-meaning-before-i-learn-pleasure/#:~:text=Healing%20will%20make%20you%20angry) 
+related [reflection](http://localhost:1313/posts/i-learned-meaning-before-i-learn-pleasure/#:~:text=Healing%20will%20make%20you%20angry)
