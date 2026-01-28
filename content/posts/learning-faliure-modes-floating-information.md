@@ -5,12 +5,12 @@ categories = ['Field Notes']
 title = 'Learning Faliure Modes - Floating Information'
 +++
 
-I call this problem *floating information*. It is a literal translation of the Arabic word "طائفة", which means floating in space without connection. I first noticed that there is information that is not linked to anything. It has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.
+I call this problem *floating information*. It is a literal translation of the Arabic word "طائفة", which means floating in space without connection. I first noticed that there is information that is not linked to anything. it has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.
 
 <!--more-->
-I regret that I didn’t resume my passion for knowing how computers actually work behind the scenes. Instead, I jumped directly into applications. Now I’m learning version source control, which led me to [Git](http://en.wikipedia.org/wiki/Git), and to update Git and since I’m a macOS user, that led me to package managers like [MacPorts](https://en.wikipedia.org/wiki/MacPorts) and [Homebrew](https://brew.sh/).
+I regret that I didn’t resume my passion for knowing how computers actually work behind the scenes. Instead, I jumped directly into applications. mow I’m scrolling on version source control, which led me to [Git](http://en.wikipedia.org/wiki/Git), and to update Git, since I’m a macOS user, that led me to package managers like [MacPorts](https://en.wikipedia.org/wiki/MacPorts) and [Homebrew](https://brew.sh/).
 
-I was curious to know more about how these two package managers simplify the process of installing and managing software on my computer, and how binary installation works. I could have watched a 5-minute video explaining how everything functions, but I really wanted to study it and test my knowledge.
+I was curious to know more about how these two package managers simplify the process of installing and managing software on my computer, and how binary installation works. I could have watched a 5-minute video explaining how everything functions, but I really wanted to study it and test my knowledge (slowly falling into [branching problem]()).
 
 I read documentation and learned what a package manager is. I reached this definition:
 

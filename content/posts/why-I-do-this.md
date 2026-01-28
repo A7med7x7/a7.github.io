@@ -1,6 +1,6 @@
 +++
 date = '2025-09-04T09:32:11+03:00'
-title = 'Why I’m Sharing Notes'
+title = "Why I’m Sharing Notes - Reflection "
 description = 'A personal reflection on my writing journey and the demons that held me back'
 tags = ['writing', 'personal']
 categories = ['Meta']
@@ -18,7 +18,7 @@ As the years pass by, I find myself adapting to different reasons to keep living
 - I felt the need to express my feelings through writing (I've been actively journaling since 8th grade)
 - **I've fallen in love with `quotes`** and I became a collector at some point, they seemed to explain the world, so I started crafting my own through writing (High school/teenager period)
 - **I've wished people could write more about their experiences** and not generic content When I needed someone to talk about Computer Science from their heart, experience, and not what they have studied [Reem's blog](https://sudaniscience.wordpress.com/) was my savior, and then later I loved the writings of [Mohammed Yousif](https://adonese.sd/) especially the self-reflection notes, and his feelings.
-- **I wanted to document my journey in life**, I wished that the elderly people in my life had books/blogs that they had left behind for me, so I can get to know them more, even after they're gone. 
+- **I wanted to document my journey in life**, I wished that the elderly people in my life had books/blogs that they had left behind for me, so I can get to know them more, even after they're gone.
 - I wanted to make sense of my `doings`, I would write the task I should be doing for myself to see if I understand the procedure that is supposed to happen, and if there are any subtle pitfalls in my understanding I'm not aware of.
 
 Yes, these are all different reasons, and I don't know yet how I'm going to organize them, but I'm not going to overthink this.
@@ -43,4 +43,4 @@ I get amazed by the number of clicks I write on the keyboard everyday writing so
 ---
 
 ### moving forward 
-This blog website is an attempt; it's not going to be the last one, but I have faith in it.#
+This blog website is an attempt; it's not going to be the last one, but I have faith in it.
