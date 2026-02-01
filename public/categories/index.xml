@@ -8,19 +8,26 @@
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Wed, 14 Jan 2026 23:44:02 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 01:01:35 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Field Notes</title>
+      <link>http://localhost:1313/categories/field-notes/</link>
+      <pubDate>Mon, 02 Feb 2026 01:01:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/categories/field-notes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Reflections</title>
       <link>http://localhost:1313/categories/reflections/</link>
-      <pubDate>Wed, 14 Jan 2026 23:44:02 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <pubDate>Mon, 02 Feb 2026 00:57:56 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/categories/reflections/</guid>
       <description></description>
     </item>
     <item>
       <title>Thought</title>
       <link>http://localhost:1313/categories/thought/</link>
-      <pubDate>Thu, 25 Dec 2025 03:11:01 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <pubDate>Mon, 02 Feb 2026 00:57:56 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/categories/thought/</guid>
       <description></description>
     </item>
@@ -50,13 +57,6 @@
       <link>http://localhost:1313/categories/reflection/</link>
       <pubDate>Thu, 20 Nov 2025 07:38:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/categories/reflection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Field Notes</title>
-      <link>http://localhost:1313/categories/field-notes/</link>
-      <pubDate>Tue, 14 Oct 2025 04:05:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/field-notes/</guid>
       <description></description>
     </item>
     <item>

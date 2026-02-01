@@ -43,7 +43,7 @@ I had spent my entire life up to that moment fixing things: small habits of my b
 
 I remember having a conversation with a friend after five long years. he was warning me about myself. he was trying to heal me, while I wasn’t even aware that I was sick in the first place. It mirrored everything I had done to others, I thought that if I showed people how to solve their problems, how to think about life, how to see things differently, they would change. they would become better. now I see how naive that was.
 
-People had tried to tell me what I should change. for years, they argued. they insisted. i didn’t listen. I didn’t let any of it reach me. change is far harder than advice makes it sound. knowing something about yourself and actually fixing it are completely different things. It’s like knowing the road but seeing a monster blocking it, and being certain that this monster is the one that frightens you the most.
+People had tried to tell me what I should change. for years, they argued. they insisted. I didn’t listen. I didn’t let any of it reach me. change is far harder than advice makes it sound. knowing something about yourself and actually fixing it are completely different things. It’s like knowing the road but seeing a monster blocking it, and being certain that this monster is the one that frightens you the most.
 
 ## Did they have to burn trying to put me out?
 

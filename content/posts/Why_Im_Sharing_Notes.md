@@ -6,7 +6,7 @@ category = ['Meta','Archives']
 title = "Why I'm Sharing Notes — Learned Too Late"
 +++
 
->*There's an anecdote about Richard Feynman when a historian walks up to his desk and sees all the sheets of paper lying around on Mr Feynman desk and makes a comment about these being a record of Feynman's thinking and then Mr Feynman corrects the historian and says that: these are not a record of my thinking i think on paper and then the historian presses on and says that surely you're thinking in your head and these are only records of the thoughts in your head and that's when Mr Feynman says:  no they aren't a record of my thinking process they are my thinking process. I actually did the work on the paper.*
+>*There's an anecdote about Richard Feynman when a historian walks up to his desk and sees all the sheets of paper lying around on Mr Feynman desk and makes a comment about these being a record of Feynman's thinking and then Mr Feynman corrects the historian and says that: these are not a record of my thinking I think on paper and then the historian presses on and says that surely you're thinking in your head and these are only records of the thoughts in your head and that's when Mr Feynman says:  no they aren't a record of my thinking process they are my thinking process. I actually did the work on the paper.*
 
 <!--more-->
 

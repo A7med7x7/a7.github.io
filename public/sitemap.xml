@@ -3,10 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+    <lastmod>2026-02-02T01:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</loc>
+    <lastmod>2026-02-02T01:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
+    <lastmod>2026-02-02T01:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/field-notes/</loc>
+    <lastmod>2026-02-02T01:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-02T01:01:35+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reflections/</loc>
+    <lastmod>2026-02-02T00:57:56+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/thought/</loc>
+    <lastmod>2026-02-02T00:57:56+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/worrying-about-it-later/</loc>
+    <lastmod>2026-02-02T00:57:56+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/distance/</loc>
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
@@ -18,12 +36,6 @@
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/im-afraid-of-what-awaits-ahead-for-my-friends/</loc>
-    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-01-14T23:44:02+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/reflections/</loc>
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
@@ -47,10 +59,10 @@
     <loc>http://localhost:1313/tags/reflection/</loc>
     <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/comparative-suffering/</loc>
-    <lastmod>2025-12-25T03:11:01+03:00</lastmod>
+    <loc>http://localhost:1313/posts/i-didnt-know-how-to-be-with-me/</loc>
+    <lastmod>2026-01-02T15:00:45+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/thought/</loc>
+    <loc>http://localhost:1313/posts/comparative-suffering/</loc>
     <lastmod>2025-12-25T03:11:01+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/it-was-never-power-to-me/</loc>
@@ -194,8 +206,14 @@
     <loc>http://localhost:1313/posts/gratitude_register/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/field-notes/</loc>
-    <lastmod>2025-10-14T04:05:23+03:00</lastmod>
+    <loc>http://localhost:1313/tags/cognition/</loc>
+    <lastmod>2025-10-29T15:31:42+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/learning/</loc>
+    <lastmod>2025-10-29T15:31:42+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/why-im-sharing-notes-cognitive-overload/</loc>
+    <lastmod>2025-10-29T15:31:42+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/i-love-who-im-on-a7/</loc>
     <lastmod>2025-10-14T04:05:23+03:00</lastmod>

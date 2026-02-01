@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Tue, 14 Oct 2025 04:05:23 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 01:01:35 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/field-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career Advice, AI and Learning How to Code</title>
+      <link>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</link>
+      <pubDate>Mon, 02 Feb 2026 01:01:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</guid>
+      <description>&lt;p&gt;I remember my friend Awab sharing a thoughtful reading recommendation from the LessWrong community titled &#xA;&lt;a href=&#34;https://www.lesswrong.com/posts/fwQburGDyGoSSweT9/you-will-be-ok&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You will be OK&lt;/a&gt;&#xA;. it is both a clarification and a gentle reminder of different ways to think and act under the existential threat of AI, written as a response to concerns raised by a young community member in &#xA;&lt;a href=&#34;https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Turning 20 in the probable pre-apocalypse&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>I Love Who I&#39;m on A7</title>
       <link>http://localhost:1313/posts/i-love-who-im-on-a7/</link>
@@ -29,14 +36,14 @@
       <link>http://localhost:1313/posts/learning-faliure-modes-branching/</link>
       <pubDate>Fri, 12 Apr 2024 10:50:51 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/posts/learning-faliure-modes-branching/</guid>
-      <description>&lt;p&gt;This is part of a series of notes I’m taking to understand the person I am when learning something. Most of them are about understanding myself and applying useful techniques.&lt;/p&gt;&#xA;&lt;p&gt;Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. But it feels almost too late, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. It was a lonely experimentation road.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying useful techniques.&lt;/p&gt;&#xA;&lt;p&gt;Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. and I plan to study neuroscience some day, but as for now I want to share what I&amp;rsquo;ve learned by myself, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. the road of learnign was lonely, paved with faliure moods, it was an experimentation based road.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning Faliure Modes - Floating Information</title>
       <link>http://localhost:1313/posts/learning-faliure-modes-floating-information/</link>
       <pubDate>Fri, 12 Apr 2024 10:50:51 +0400</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/posts/learning-faliure-modes-floating-information/</guid>
-      <description>&lt;p&gt;I call this problem &lt;em&gt;floating information&lt;/em&gt;. It is a literal translation of the Arabic word &amp;ldquo;طائفة&amp;rdquo;, which means floating in space without connection. I first noticed that there is information that is not linked to anything. It has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I call this problem &lt;em&gt;floating information&lt;/em&gt;. It is a literal translation of the Arabic word &amp;ldquo;طائفة&amp;rdquo;, which means floating in space without connection. I first noticed that there is information that is not linked to anything. it has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
