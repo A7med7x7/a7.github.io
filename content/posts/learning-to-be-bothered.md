@@ -7,7 +7,7 @@ categories = ['reflections']
 +++
 
 Either at work or in daily life, car horns for no reason. someone dragging their feet without lifting them. cutting a public service queue. leaving clothes in the gym changing room instead of the locker. a bank agent typing five words per minute. an uber driver talking on the phone. someone playing a video on the metro without headphones.
-
+<!--more-->
 Inwardly, I get bothered easily by the small inconsistencies surrounding us. sometimes they even flare up my IBS. I wonder how someone can be so unaware while doing something so uncivilized.
 
 Outwardly, I am calm. I can smile at your face, make you laugh, and gently tell you what you did wrong if I feel like [it would help you](https://a7med7x7.github.io/posts/economical-with-my-words-advice/).
