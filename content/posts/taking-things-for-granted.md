@@ -7,7 +7,7 @@ categories = ['reflection']
 +++
 
 I've taken things for granted before, and I always do. it doesn't mean I don't recognize the value of someone or something in my life, it's just that I'm mostly busy and never able to find time to reflect upon the things I have in my life.
-
+<!--more-->
 but through implicit actions and behavior, a friend of mine taught me how not to take things for granted. he had learned this lesson the hard way, and I get to open my eyes to this more and more.
 
 I've once learned the lesson back in 2023 when the war started. I've had the life that I wanted. I've had everything I want, and suddenly lost it all. I've briefly [wrote](https://web.facebook.com/share/p/1AXj4sDxXK/) about it

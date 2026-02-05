@@ -8,8 +8,36 @@
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Wed, 14 Jan 2026 23:44:02 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 04:35:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Advice</title>
+      <link>http://localhost:1313/tags/advice/</link>
+      <pubDate>Thu, 15 Jan 2026 04:35:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/advice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Balance</title>
+      <link>http://localhost:1313/tags/balance/</link>
+      <pubDate>Thu, 15 Jan 2026 04:35:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/balance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reflection</title>
+      <link>http://localhost:1313/tags/reflection/</link>
+      <pubDate>Thu, 15 Jan 2026 04:35:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/reflection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Relationships</title>
+      <link>http://localhost:1313/tags/relationships/</link>
+      <pubDate>Thu, 15 Jan 2026 04:35:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/relationships/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Distance</title>
       <link>http://localhost:1313/tags/distance/</link>
@@ -43,20 +71,6 @@
       <link>http://localhost:1313/tags/loss/</link>
       <pubDate>Sun, 04 Jan 2026 17:41:53 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/tags/loss/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reflection</title>
-      <link>http://localhost:1313/tags/reflection/</link>
-      <pubDate>Sun, 04 Jan 2026 17:41:53 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/tags/reflection/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Relationships</title>
-      <link>http://localhost:1313/tags/relationships/</link>
-      <pubDate>Mon, 15 Dec 2025 15:53:08 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/tags/relationships/</guid>
       <description></description>
     </item>
     <item>
@@ -113,6 +127,13 @@
       <link>http://localhost:1313/tags/personal/</link>
       <pubDate>Fri, 21 Nov 2025 00:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/tags/personal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mindset</title>
+      <link>http://localhost:1313/tags/mindset/</link>
+      <pubDate>Sun, 16 Nov 2025 04:20:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/tags/mindset/</guid>
       <description></description>
     </item>
     <item>

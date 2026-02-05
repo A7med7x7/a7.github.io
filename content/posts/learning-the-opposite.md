@@ -6,15 +6,15 @@ tags = ['reflection', 'mindset', 'balance']
 categories = ['reflection']
 +++
 
-> There's a point at which everything you learn requires you to learn the opposite thing.  
-> If you learn to be patient, then eventually you'll need to learn when to be impatient.  
-> If you learn to control your anger, then you'll have to learn when it's good to be angry.  
-> And if you learn to be gentle, then you must learn when to put up a fight.  
-> Life isn't made up of a set of solutions for you to find.  
-> It's built on extreme behaviors you learn to balance.  
+> *There's a point at which everything you learn requires you to learn the opposite thing.*
+> *If you learn to be patient, then eventually you'll need to learn when to be impatient.*  
+> *If you learn to control your anger, then you'll have to learn when it's good to be angry.* 
+> *And if you learn to be gentle, then you must learn when to put up a fight.*  
+> *Life isn't made up of a set of solutions for you to find.*  
+> *It's built on extreme behaviors you learn to balance.*
 >
 > Josh Terry
-
+<!--more-->
 one of the lenses that helped me navigate life with sharp critique is the mindsets that I [adapted over time](https://a7med7x7.github.io/posts/who-i-am-on-the-person-i-failed-to-define/).
 
 Learning techniques, life lessons, whatsoever, whatever someone learns as a new framework will leak elsewhere. almost everything is a response to something.

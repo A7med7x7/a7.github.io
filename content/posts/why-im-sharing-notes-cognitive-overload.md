@@ -10,7 +10,7 @@ categories = ['reflection']
 > Learn to write, I’m dead serious about that, because… pick some hard problems and learn to write very, very carefully. when I say pay attention to the word, I mean that pick the right words, organize them into the right phrases and get your sentences straight. read and write everyday and see if you can discover what is true.
 > 
 > Jordan Peterson
-
+<!--more-->
 I recently picked the term “cognitive overload”. it is a sign that I am grinding on learning so hard that it became a load. not as something hard to do, but as something sitting in my head, making everything heavier.
 
 I feel like I need a kind of relief valve. something that makes this overload manageable and releases the headache of overwhelm whenever I am drowning in it. to synthesize, critique, and interpolate, I need computation capacity. the size of the data I am trying to process right now is tremendous compared to any other period of my life. it feels so hard to endure that I sometimes fear I will break mentally, as if something bad might happen to my brain.
