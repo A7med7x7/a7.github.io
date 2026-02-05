@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Mon, 02 Feb 2026 01:01:35 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 23:59:20 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standards, Thoughfulness and Care</title>
+      <link>http://localhost:1313/posts/standards-thoughfulness-and-care/</link>
+      <pubDate>Mon, 02 Feb 2026 23:59:20 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/standards-thoughfulness-and-care/</guid>
+      <description>&lt;p&gt;Working with me used to be difficult, I am a high performer. I tend to do things with care, down to the small details, and I expect a basic level of thoughtfulness from the people I work with. not to overcomplicate life, and not to control others, but to make sure things are done properly.&lt;/p&gt;&#xA;&lt;p&gt;At the same time, working with me is still flexible. I do not micromanage. I dislike rigid schedules that account for every single hour. I value autonomy. I give people space and freedom to choose how they work.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Career Advice, AI and Learning How to Code</title>
       <link>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</link>
