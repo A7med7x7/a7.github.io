@@ -16,7 +16,7 @@ These diseases were not caused by infection, nor by a weak immune system. they h
 
 What happened to me was what is called [psychosomatic manifestation](https://en.wikipedia.org/wiki/Psychosomatic_medicine). this is when psychological stress, anxiety, and prolonged mental overload start manifesting physically in the body. at some point, your [sympathetic nervous system](https://en.wikipedia.org/wiki/Sympathetic_nervous_system) takes over constantly, and the system cannot sustain that state anymore.
 
-## Heat sink
+## Heat Sink
 
 I've highlighted this phase of my life in [this writing](https://a7med7x7.github.io/posts/days_that_i_didnt_understand/). looking back, my body was clearly trying to warn me. everyone around me was warning me as well. they were warning me about the kind of lifestyle I was living.
 
@@ -38,7 +38,7 @@ sometimes the heat sink can be a single friend. sometimes it is a video game, a 
 
 this was the best analogy I could make at the time. and honestly, thanks to computer science, I ended up modeling a lot of reality through systems and constraints.
 
-## Social anxiety disorder and panic attacks
+## Social Anxiety Disorder and Panic Attacks
 
 during that period, I suffered from [panic attacks](https://en.wikipedia.org/wiki/Panic_attack) and severe [social anxiety](https://en.wikipedia.org/wiki/Social_anxiety). I developed an [anxiety disorder](https://en.wikipedia.org/wiki/Anxiety_disorder) that paralyzed me from doing things I used to do effortlessly.
 
@@ -54,4 +54,4 @@ before, I could sit with upsetting thoughts and simply stay in my head. if I was
 
 After going through this, I became afraid that someone else might experience the same thing. I warn my friends often to take breaks and to pay attention to their mental health.
 
-becoming a high performer does not mean grinding for long hours every day. if that path leads to a three month burnout, it is not efficiency. it is far better to sustain healthy, consistent doses of productivity than to push unhealthy extremes that eventually trap you in burnout, or worse, in something similar to what I experienced.
+becoming a high performer does not mean grinding for long hours every day. if that path leads to a three month burnout, it is not efficiency. it is far better to sustain healthy, consistent doses of productivity than to push unhealthy extremes that eventually trap you in burnout, or worse, in something similar to what I experienced
