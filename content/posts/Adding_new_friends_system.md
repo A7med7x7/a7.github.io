@@ -1,7 +1,7 @@
 +++
 date = '2025-11-08T00:00:00+03:00'
 draft = false
-title = 'Adding new friends system'
+title = 'Adding New Friends System'
 tags = ['relationships', 'reflection']
 categories = ['personal']
 +++
@@ -21,7 +21,7 @@ As social creatures, we tend to make friendships in the new places or paths we t
 
 For these very reasons, "bad friends" happen, that we needed to call someone a "friend," we had tons of emotions that couldn't hold their horses and needed someone to run for.  
 
-### How I planned to overcome this?  
+### How I planned to overcome this?
 
 Simply don't call people your "friends." I haven’t used that term for as long as I can remember. My very first friend, I was telling myself about "Wow, this guy has done so much for me. If I didn't get to call him a friend, then I'm selfish and heartless". What people don't understand is that I still had a quality time with that guy without calling him a friend. I was enjoying my life with them, and I was making memories.  
 I've applied what happened with the first person I ever admitted by heart as a "friend" to the friends I met down the road, is to never call them friends until time passes and they prove they are trustworthy.  
@@ -40,15 +40,13 @@ Going back to our discussion, the reason why I want to revise my set of rules fo
 
 At the end, maybe I'm just a traumatized kid formalizing all these rules to make friendship. In reality, I don't really suffer from this. In fact, I'm good at reaching out to people and making friendships. I don't struggle to communicate with people or get what I want. I don't have a bad time searching for quality time. And thinking about how much worse it could be without these rules, I remind myself to be grateful.  
 
-
 --- 
-What kind of walls do you mean exactly? 
+What kind of walls do you mean exactly?
 
 
 1. The first one, I assume, is to act ordinary (which is a product of the walls but it's just the first fence), acting ordinary is to not reveal the basic information about me, my name, my age, what I do in life. But this layer is fragile, once I'm asked, I don't mind answering, it helps me save time and avoid making unnecessary relationships, I can't count the amount of cool and bad people I could have made in life if I had never had this first wall which I now call the fence (it assumes acting dumb while knowing, being nonchalant while I'm a bit interested(this one started to fading recently I gotta get my shit together), sharing misguided information about me).
 
-2. The most important wall is the privacy wall. 
+2. The most important wall is the privacy wall.
 I only allow a certain amount of information to get leaked from what I'm doing in my life. What I want to do. I'm not giving or sharing what violates my privacy. this includes (my family, my moves, my trips, my quality time, my free time, my friends, my performance, my upside-downs)
 
 3. less in height, subtle insecurities I don't plan to involve people in.
-

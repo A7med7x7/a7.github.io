@@ -7,7 +7,7 @@ categories = ['reflections']
 +++
 
 It took me about a month to realize something small but surprisingly important. being left handed is a quiet advantage if you are a teacher, a professor, or anyone who lectures using a board.
-
+<!--more-->
 this becomes especially noticeable in fields that rely heavily on mathematical derivations or step by step written explanations.
 
 I was attending a university lecture as a visitor. the lecture itself was already leaning toward boring, but something else kept bothering me. the lecturer was right handed. the more he wrote on the board, the more he erased his own work from the audience’s view, not with an eraser, but with his body.

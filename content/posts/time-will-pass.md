@@ -10,7 +10,7 @@ I've learned since a young age that time will pass.
 not moments with loved ones.  
 not revolutions and the race to wealth.  
 not the one we age because.  
-
+<!--more-->
 but the time, the one defined by physics, will pass.
 
 and it is us who will choose what to do with this time.

@@ -5,18 +5,18 @@ category = ['Thought']
 title = 'Early Lesson in Healing - Writing'
 +++
 
-> you go through life for a long time believing no one has ever suffered the way you have.  
-> and then, one day, you read something. or you hear something.  
-> and you realize your suffering does not isolate you.  
-> it is your bridge.  
+> *you go through life for a long time believing no one has ever suffered the way you have.*  
+> *and then, one day, you read something. or you hear something.*  
+> *and you realize your suffering does not isolate you.* 
+> *it is your bridge.*  
 <!--more-->
-> others have suffered before you. many are suffering around you. many always will.  
-> and all you can really do is bring a little light to that suffering.  
-> just enough light for someone to begin to comprehend it.  
-> to live with it.  
-> and maybe, to change it.  
-> we do not change people.  
-> all we can do is give them the courage to change themselves.
+> *others have suffered before you. many are suffering around you. many always will.*
+> *and all you can really do is bring a little light to that suffering.*  
+> *just enough light for someone to begin to comprehend it.*
+> *to live with it.*
+> *and maybe, to change it.*
+> *we do not change people.*  
+> *all we can do is give them the courage to change themselves.*
 
 > **james baldwin**
 

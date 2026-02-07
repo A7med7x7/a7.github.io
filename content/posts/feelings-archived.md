@@ -16,7 +16,6 @@ most of the time, I do not fully feel moments when they happen. they [arrive lat
 
 At that point, I can revisit the scene. I can see the expressions again. I can feel the depth of the smiles in the pictures. only then do I feel what everyone else felt in real time. my emotions do not visit me on schedule. they come later. the camera takes snapshots of time on my behalf, so I can relive what I could not fully inhabit before. what I could not fully feel at the time. and it is almost as if I feel things more fully years later, whether the places and the people remained with me or quietly left.
 
-
 this connection between how I am biologically wired to not feel things instantly, not fully [present](https://youtu.be/FHesN5KHyHw?si=oTrXfrXdakNWpQ4v) most of the time, and the camera quietly telling me “do not worry, I saved this for you” is the strongest bond I have ever had with anything.
   
 

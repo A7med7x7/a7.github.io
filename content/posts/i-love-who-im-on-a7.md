@@ -2,7 +2,7 @@
 date = '2025-10-14T04:05:23+03:00'
 draft = false
 categories = ['Field Notes']
-title = "I Love Who I'm on A7"
+title = "I Love Who I'm on A7med7edtz"
 +++
 
 One of the most common questions I get is how I managed to learn so many media formats in such a short amount of time. people often assume I learned everything simultaneously. that is not true.

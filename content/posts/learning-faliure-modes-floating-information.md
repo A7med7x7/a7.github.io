@@ -10,7 +10,7 @@ I call this problem *floating information*. It is a literal translation of the A
 <!--more-->
 I regret that I didn’t resume my passion for knowing how computers actually work behind the scenes. Instead, I jumped directly into applications. mow I’m scrolling on version source control, which led me to [Git](http://en.wikipedia.org/wiki/Git), and to update Git, since I’m a macOS user, that led me to package managers like [MacPorts](https://en.wikipedia.org/wiki/MacPorts) and [Homebrew](https://brew.sh/).
 
-I was curious to know more about how these two package managers simplify the process of installing and managing software on my computer, and how binary installation works. I could have watched a 5-minute video explaining how everything functions, but I really wanted to study it and test my knowledge (slowly falling into [branching problem]()).
+I was curious to know more about how these two package managers simplify the process of installing and managing software on my computer, and how binary installation works. I could have watched a 5-minute video explaining how everything functions, but I really wanted to study it and test my knowledge (slowly falling into [branching problem](https://a7med7x7.github.io/posts/learning-faliure-modes-branching/)).
 
 I read documentation and learned what a package manager is. I reached this definition:
 

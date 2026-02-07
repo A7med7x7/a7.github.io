@@ -8,8 +8,8 @@ categories = ['thought']
 +++
 
 It is almost always the case that I avoid giving productivity tips or life hacks, anything that would make someone life better through accomplishing a task, as I see that it has nothing to do with applying tips and tricks more than having a mindset. for example if someone is having the mindset of becoming better, they would pay attention to advices, and eventually sticking to habits would be easier.
-
-> motivation alone is not enough, if you have an idiot and you motivate him, now you have a motivated idiot.  
+<!--more-->
+> motivation alone is not enough, if you have an idiot and you motivate him, now you have a motivated idiot.
 > Jim Rohn
 
 I cannot help someone who is not aware of his intentions, why doing the thing in the first place. there is always a difference between someone who is aware of how much he needs to help himself, and someone who is still not aware of the consequences of the superficial life he is living. those people I tend to think of as people who cannot see. they cannot see beyond the momentary enjoyments they seek every day. their everyday life system is designed to keep them blind.

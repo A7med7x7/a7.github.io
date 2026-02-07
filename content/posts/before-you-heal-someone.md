@@ -6,8 +6,7 @@ tags = ['reflection', 'relationships', 'growth']
 categories = ['Reflections']
 +++
 
-
-> consider how hard it is to change yourself and you will understand how foolish it is to think you can change someone else.  
+> Consider how hard it is to change yourself and you will understand how foolish it is to think you can change someone else.  
 > — Matthew Hussey
 
 <!--more-->

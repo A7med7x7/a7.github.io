@@ -12,7 +12,7 @@ categories = ['personal']
 <!--more-->
 Although my previous blog post was expected to be an explanation of what I assumed to be something I adopted a long time ago and never updated before:
 
-> but I have never revised the list since a while  
+> but I have never revised the list since a while
 > - *Adding new friends system*
 I never expected the system to be perfect, or that I was doing what is ultimately right. The reason why I felt I should be listing this legacy system of adding new friends by writing the [blog post](https://a7med7x7.github.io/posts/adding_new_friends_system/), is because I felt it was the time to rethink it. I wasn’t explicit about this, (meaning it took me time to realize that I really need to rethink it.), but I felt this shouldn’t continue. The case analysis is not as good as it used to be in helping classifying people, many cases violated the rules, but the system still pulls me back to use its methods.
 
@@ -77,8 +77,6 @@ What once felt unbearable to remember now feels necessary to recall. This one al
 
 I felt destined to live alone, not knowing I was drowning by my own design. I was too young to realize this. And instead of revising the list of rules I set to add new friends, to make them less rigorous, I fed it even more.
 
----
-
 ## Why the legacy system is still in production  
 
 Besides the system doing its job, there were **boosters** that helped keep it running.
@@ -88,7 +86,7 @@ Besides the system doing its job, there were **boosters** that helped keep it ru
 
   “People will stop trying to know you, you piece of shit. You’re setting the walls so high they won’t even try to climb them.” telling myself. 
   And I had no idea that it was *me* causing this. That’s how two insecurities start boosting each other.
-  - The legacy system is not helping me establishing new friendships (pending status cases). 
+  - The legacy system is not helping me establishing new friendships (pending status cases).
   - People are letting go of me because of this embedded legacy system.
   - I let go of people before they let go of me. 
   - The legacy system itself helps me in the process of letting go of the people

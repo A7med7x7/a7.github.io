@@ -5,7 +5,6 @@ categories = ['Thought', 'Reflections']
 title = 'Comparative Suffering : A Habit of Looking down'
 +++
 
-
 > I used to lament having no shoes, until I met a man who had no feet.
 
 When I was a kid, my elder brother Mohammed used to work in many [charity organizations](https://takaful98.org). I used to be part of many of the events these charities were about. I saw the suffering of kids who were at the same age as me, many of whom had no father, no mother, no home to return to.

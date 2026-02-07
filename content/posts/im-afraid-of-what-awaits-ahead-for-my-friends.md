@@ -6,7 +6,6 @@ categories = ['Reflections']
 title = "I'm Afraid of What Awaits Ahead for My Friends"
 +++
 
-
 >sometimes distance doesn’t change how much you know someone.  
 >It only changes how helpless you feel watching them from afar.
 
