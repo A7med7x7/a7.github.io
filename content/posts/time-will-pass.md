@@ -51,7 +51,7 @@ what we need is courage to take actions.
 
 courage can come from a realization that the time will pass. and if you wake up later seeing how much you wasted by living in your head, how so much potential was wasted that could have been dedicated, you will regret it so bad.
 
-what scares me the most is that while living in your head, or drowning yourself in superficial life, you will not be able to see this and feel this weight. it will be out of your sight.
+what scares me the most is that while living in your head, or drowning yourself in [superficial life](https://a7med7x7.github.io/posts/the-condition-of-seeing/), you will not be able to see this and feel this weight. it will be out of your sight.
 
 even if someone warned you from it, you are not in a position where you can easily project yourself into the future and see how the things you are not doing today will shape your life, and will lead to losses you once shallowly thought about.
 
