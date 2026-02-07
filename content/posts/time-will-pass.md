@@ -15,7 +15,7 @@ but the time, the one defined by physics, will pass.
 
 and it is us who will choose what to do with this time.
 
-this realization is one of the core intrinsic motivators I've had. it is mostly negative. it is what allows me to move forward despite the uncertainty, to bear the missing answers.
+this realization is one of the core intrinsic motivators I've had. it is mostly negative. it is what allows me to move forward despite the [uncertainty](https://a7med7x7.github.io/posts/learning-faliure-modes-branching/), to bear the [missing answers](https://a7med7x7.github.io/posts/consenting_to_the_game_rules/).
 
 it is a pure bubble where I separate myself from the outer world bubble and its complexity, and the inner world of me, my own thoughts. where I imagine just me, the flesh and bones, an individual just like anyone else.
 
@@ -41,7 +41,7 @@ I've always decided that I will keep ascending to the mountain summit in the har
 
 this once hurt me before and blinded me in ways where I misused it. but I should not abandon this lesson entirely, just because despair clouded me for a bit of time.
 
-life is short and we tend to take things for granted. we somehow convince ourselves that there is always a tomorrow.
+life is short and we tend to [take things for granted](https://a7med7x7.github.io/posts/taking-things-for-granted/). we somehow convince ourselves that there is always a tomorrow.
 
 I sometimes subconsciously anchor wishing on hope or uncertainty to go away, by living in my head and just keep thinking about a way out endlessly.
 
