@@ -28,9 +28,7 @@ Not strangers on the street. I do not have time for that.
 
 This is not because the act was unbearable. I can ignore almost anything. it is because I do not want small, dark dots of rage and resentment to accumulate inside me, slowly turning into numbness.
 
----
-
-## teenage years
+## Teenagers
 
 > The best mentality is to not get bothered by stupid things every day  
 > Teenagers learning how to repress emotions
