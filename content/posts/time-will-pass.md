@@ -1,7 +1,7 @@
 +++
 date = '2026-02-03T04:00:00+03:00'
 draft = false
-title = 'time will pass'
+title = 'Time Will Pass'
 tags = ['reflection', 'time', 'courage']
 categories = ['reflection']
 +++
