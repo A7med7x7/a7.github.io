@@ -7,7 +7,7 @@ title = 'Early Lesson in Healing - Writing'
 
 > *you go through life for a long time believing no one has ever suffered the way you have.*  
 > *and then, one day, you read something. or you hear something.*  
-> *and you realize your suffering does not isolate you.* 
+> *and you realize your suffering does not isolate you.*
 > *it is your bridge.*  
 <!--more-->
 > *others have suffered before you. many are suffering around you. many always will.*
