@@ -9,6 +9,9 @@
   --ui-gutter: 16px;
   --ui-footer-pad-top: 18px;
   --ui-footer-pad-bottom: 20px;
+  --ui-card-radius: 12px;
+  --ui-card-bg: #23252a;
+  --ui-card-line: rgba(248, 248, 255, 0.1);
 }
 
 *,
@@ -80,7 +83,7 @@
 }
 
 .hamb {
-  display: inline-flex;
+  display: none;
   align-items: center;
   justify-content: center;
   width: 36px;
@@ -202,6 +205,135 @@
   outline: none;
 }
 
+.listPage {
+  width: 100%;
+  max-width: var(--ui-content-max);
+  margin: 0 auto;
+  padding: 20px var(--ui-gutter) 24px;
+  text-align: left;
+}
+
+.listHeader {
+  margin-bottom: 10px;
+}
+
+.listHeader h1 {
+  margin: 0;
+  font-size: clamp(1.9rem, 3.6vw, 2.4rem);
+  line-height: 1.15;
+}
+
+.listContent {
+  margin-bottom: 14px;
+  color: var(--ui-ink-muted);
+  line-height: 1.65;
+}
+
+.listFeed {
+  display: grid;
+  gap: 8px;
+}
+
+.postListLink {
+  display: block;
+}
+
+.postListLink,
+.postListLink:hover,
+.postListLink:focus-visible,
+.postListLink:hover * {
+  text-decoration: none;
+}
+
+.postListItem {
+  padding: 16px;
+  border: 1px solid var(--ui-card-line);
+  border-radius: var(--ui-card-radius);
+  background: var(--ui-card-bg);
+  transition: border-color 0.16s ease, background-color 0.16s ease;
+}
+
+.postListLink:hover .postListItem,
+.postListLink:focus-visible .postListItem {
+  border-color: rgba(248, 248, 255, 0.18);
+  background: #24262b;
+}
+
+.postHeader {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 8px 12px;
+  overflow: visible;
+}
+
+.postTitle,
+.postDate {
+  float: none;
+}
+
+.postTitle {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.25;
+  text-transform: none;
+}
+
+.postDate {
+  margin-top: 1px;
+  font-size: 0.82rem;
+  line-height: 1.25;
+  color: var(--ui-ink-muted);
+  white-space: nowrap;
+}
+
+.postExcerpt {
+  margin-top: 9px;
+  text-align: left;
+  color: var(--ui-ink-muted);
+}
+
+.postExcerpt p {
+  margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.postExcerpt p + p {
+  margin-top: 8px;
+}
+
+.postExcerpt a {
+  color: var(--ui-ink);
+}
+
+.pagination {
+  margin-top: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.pagination a {
+  display: inline;
+  min-height: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  color: var(--ui-ink-muted);
+  background: none;
+  text-decoration: none;
+}
+
+.pagination a:hover,
+.pagination a:focus-visible {
+  color: var(--ui-ink);
+  outline: none;
+}
+
 @media (max-width: 768px) {
   .content.vertical {
     padding-top: 20px;
@@ -266,6 +398,10 @@
     border-radius: 8px;
   }
 
+  .hamb {
+    display: inline-flex;
+  }
+
   .socialNavbar ul {
     gap: 10px 14px;
   }
@@ -274,6 +410,42 @@
     font-size: 0.9rem;
     padding: 4px 0;
   }
+
+  .listPage {
+    padding: 18px var(--ui-gutter) 20px;
+  }
+
+  .listFeed {
+    gap: 8px;
+  }
+
+  .postListItem {
+    padding: 14px;
+    border-radius: 12px;
+  }
+
+  .postHeader {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
+  }
+
+  .postTitle {
+    font-size: 1.02rem;
+  }
+
+  .postDate {
+    white-space: normal;
+  }
+
+  .postExcerpt {
+    margin-top: 10px;
+  }
+
+  .postExcerpt p {
+    -webkit-line-clamp: 3;
+  }
+
 }
 
 @media (max-width: 420px) {
@@ -303,5 +475,9 @@
 
   .socialNavbar ul {
     gap: 8px 12px;
+  }
+
+  .postListItem {
+    border-radius: 9px;
   }
 }
