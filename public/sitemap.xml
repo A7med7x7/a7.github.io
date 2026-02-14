@@ -3,15 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-04T19:41:52+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-04T19:41:52+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</loc>
-    <lastmod>2026-02-02T01:01:35+03:00</lastmod>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/courage/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/reflection/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reflection/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/time/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/time-will-pass/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/standards-thoughfulness-and-care/</loc>
+    <lastmod>2026-02-02T23:59:20+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</loc>
     <lastmod>2026-02-02T01:01:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/field-notes/</loc>
@@ -26,25 +47,34 @@
     <loc>http://localhost:1313/posts/worrying-about-it-later/</loc>
     <lastmod>2026-02-02T00:57:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/advice/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/balance/</loc>
+    <lastmod>2026-02-01T04:20:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/choosing-not-to-drift/</loc>
+    <lastmod>2026-02-01T04:20:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mindset/</loc>
+    <lastmod>2026-02-01T04:20:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/emotions/</loc>
+    <lastmod>2026-01-28T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/learning-to-be-bothered/</loc>
+    <lastmod>2026-01-28T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/self-respect/</loc>
+    <lastmod>2026-01-28T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/never-losing-control-between-good-and-bad/</loc>
+    <lastmod>2026-01-24T19:51:17+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/advice/</loc>
     <lastmod>2026-01-15T04:35:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/economical-with-my-words-advice/</loc>
     <lastmod>2026-01-15T04:35:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/reflection/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reflection/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/relationships/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-01-15T04:35:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/distance/</loc>
@@ -137,6 +167,18 @@
     <loc>http://localhost:1313/posts/early-lessons-in-healing-thought-and-condition/</loc>
     <lastmod>2025-12-04T12:19:51+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/anxiety/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/burnout/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/health/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/when-the-body-schedules-the-break/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/family/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
@@ -155,9 +197,6 @@
     <loc>http://localhost:1313/posts/learning_to_feel_again/</loc>
     <lastmod>2025-11-21T08:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anxiety/</loc>
-    <lastmod>2025-11-21T00:00:00+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/archives/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
@@ -174,9 +213,6 @@
     <lastmod>2025-11-19T18:30:25+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/learning-the-opposite/</loc>
-    <lastmod>2025-11-16T04:20:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/mindset/</loc>
     <lastmod>2025-11-16T04:20:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/elaborate_on_adding_new_friends_system/</loc>
@@ -278,11 +314,23 @@
     <loc>http://localhost:1313/posts/what_you_want_to_major_in_might_not_be_exactly_how_you_imagine_it/</loc>
     <lastmod>2025-03-21T18:55:53+03:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/the-condition-of-seeing/</loc>
+    <lastmod>2024-09-09T16:00:00+03:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/archives/</loc>
     <lastmod>2024-08-14T19:52:21+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/flow_state_and_sleep/</loc>
     <lastmod>2024-08-14T19:52:21+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/a-quite-advantage-of-being-left-handed/</loc>
+    <lastmod>2024-07-03T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/details/</loc>
+    <lastmod>2024-07-03T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/teaching/</loc>
+    <lastmod>2024-07-03T23:00:00+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the_greatest_tragedy_in_life/</loc>
     <lastmod>2024-06-29T08:43:00+03:00</lastmod>

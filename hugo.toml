@@ -6,6 +6,7 @@ theme="nightfall"
 [params]
 user = "a7"
 hostname = "github.io"
+siteDescription = "Personal notes on technical experiments, reflections, and field reports by Ahmed Alghali."
 
 openLinksInNewTab = true
 

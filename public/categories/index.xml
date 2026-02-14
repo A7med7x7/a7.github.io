@@ -8,8 +8,15 @@
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
-    <lastBuildDate>Mon, 02 Feb 2026 01:01:35 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 04:00:00 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection</title>
+      <link>http://localhost:1313/categories/reflection/</link>
+      <pubDate>Tue, 03 Feb 2026 04:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/categories/reflection/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Field Notes</title>
       <link>http://localhost:1313/categories/field-notes/</link>
@@ -29,13 +36,6 @@
       <link>http://localhost:1313/categories/thought/</link>
       <pubDate>Mon, 02 Feb 2026 00:57:56 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
       <guid>http://localhost:1313/categories/thought/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reflection</title>
-      <link>http://localhost:1313/categories/reflection/</link>
-      <pubDate>Thu, 15 Jan 2026 04:35:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/categories/reflection/</guid>
       <description></description>
     </item>
     <item>
