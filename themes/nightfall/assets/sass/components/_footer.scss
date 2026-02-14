@@ -1,11 +1,29 @@
 @use "../utils/variables" as v;
 
 .footer {
-  padding: 15px;
+  padding: 22px 16px 26px;
   text-align: center;
-  background-color: v.$backgroundDarker;
+  border-top: 1px solid rgba(248, 248, 255, 0.1);
+  color: rgba(248, 248, 255, 0.72);
+  font-size: 0.9rem;
+
+  span {
+    display: inline-block;
+    max-width: min(760px, 100%);
+    line-height: 1.6;
+  }
 }
 
 .footerLink {
-  color: v.$white;
+  color: rgba(248, 248, 255, 0.95);
+  text-decoration-color: rgba(248, 248, 255, 0.45);
+  text-underline-offset: 0.2em;
+  transition: text-decoration-color 0.2s ease, color 0.2s ease;
+
+  &:hover,
+  &:focus-visible {
+    color: v.$white;
+    text-decoration-color: rgba(248, 248, 255, 0.9);
+    outline: none;
+  }
 }

@@ -2,18 +2,21 @@
 
 .header {
   font-family: v.$fontHeader;
-  padding: 0 20px;
-  height: 60px;
+  padding: 0 24px;
+  min-height: 68px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   width: v.$width;
+  box-sizing: border-box;
 }
 
 .headerWrapper {
-  overflow: auto;
+  overflow: visible;
   box-sizing: border-box;
-  background-color: v.$backgroundDarker;
+  background: rgba(37, 38, 39, 0.92);
+  border-bottom: 1px solid rgba(248, 248, 255, 0.12);
+  backdrop-filter: blur(8px);
   display: flex;
   justify-content: center;
   flex-shrink: 0;
@@ -24,12 +27,28 @@
     list-style: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
     li {
-      display: inline;
-      margin: 5px;
+      display: inline-flex;
+
       a {
-        color: v.$white;
+        color: rgba(248, 248, 255, 0.8);
         text-decoration: none;
+        border-radius: 999px;
+        padding: 8px 14px;
+        border: 1px solid transparent;
+        transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+
+        &:hover,
+        &:focus-visible {
+          color: v.$white;
+          border-color: rgba(248, 248, 255, 0.2);
+          background-color: rgba(248, 248, 255, 0.06);
+          outline: none;
+        }
       }
     }
   }
@@ -39,26 +58,29 @@
 .terminal:hover {
   color: v.$white;
   text-decoration: none;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
 }
 
 .hamb {
   cursor: pointer;
-  float: right;
   display: none;
-  padding: 10px 4px;
+  padding: 8px;
+  border: 1px solid rgba(248, 248, 255, 0.14);
+  border-radius: 8px;
 }
 
 .hamb-line {
-  background: v.$white;
+  background: rgba(248, 248, 255, 0.92);
   display: block;
   height: 2px;
   position: relative;
-  width: 24px;
+  width: 20px;
 } /* Style span tag */
 
 .hamb-line::before,
 .hamb-line::after {
-  background: v.$white;
+  background: rgba(248, 248, 255, 0.92);
   content: "";
   display: block;
   height: 100%;
@@ -67,10 +89,10 @@
   width: 100%;
 }
 .hamb-line::before {
-  top: 5px;
+  top: 6px;
 }
 .hamb-line::after {
-  top: -5px;
+  top: -6px;
 }
 
 .side-menu {
@@ -93,26 +115,47 @@
 }
 
 @media screen and (max-width: 768px) {
-  .headerLinks {
+  .header {
+    padding: 0 16px;
     width: 100%;
-    height: 100%;
-    position: fixed;
-    top: 60px;
-    left: 0;
-    background-color: v.$backgroundDark;
+  }
+
+  .headerLinks {
+    position: absolute;
+    top: calc(100% + 10px);
+    left: 16px;
+    right: 16px;
+    background: rgba(41, 42, 45, 0.98);
+    border: 1px solid rgba(248, 248, 255, 0.14);
+    border-radius: 12px;
     overflow: hidden;
     max-height: 0;
-    transition: max-height 0.5s ease-out;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    opacity: 0;
+    visibility: hidden;
+    transition: max-height 0.3s ease, opacity 0.3s ease;
 
     ul {
       display: flex;
       flex-direction: column;
-      align-items: center;
-      justify-content: center;
+      align-items: stretch;
+      gap: 0;
+      padding: 6px;
+
+      li {
+        width: 100%;
+
+        a {
+          display: block;
+          border-radius: 8px;
+        }
+      }
     }
+  }
+
+  .side-menu:checked ~ .headerLinks {
+    max-height: 260px;
+    opacity: 1;
+    visibility: visible;
   }
 
   .hamb {

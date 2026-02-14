@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Loss on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/tags/loss/</link>
+    <link>https://a7med7x7.github.io/tags/loss/</link>
     <description>Recent content in Loss on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Sun, 04 Jan 2026 17:41:53 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/loss/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a7med7x7.github.io/tags/loss/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 in Five Words</title>
-      <link>http://localhost:1313/posts/2025-in-five-words/</link>
+      <link>https://a7med7x7.github.io/posts/2025-in-five-words/</link>
       <pubDate>Sun, 04 Jan 2026 17:41:53 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/2025-in-five-words/</guid>
+      <guid>https://a7med7x7.github.io/posts/2025-in-five-words/</guid>
       <description>&lt;p&gt;At the start of the year, I had to catch up with a team I’m part of. we wanted to escape the dull rhythm of formal meetings and genuinely check in on how everyone had lived through 2025.I asked a simple question:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Taking Things For Granted</title>
-      <link>http://localhost:1313/posts/taking-things-for-granted/</link>
+      <link>https://a7med7x7.github.io/posts/taking-things-for-granted/</link>
       <pubDate>Tue, 04 Nov 2025 04:10:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/taking-things-for-granted/</guid>
+      <guid>https://a7med7x7.github.io/posts/taking-things-for-granted/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve taken things for granted before, and I always do. it doesn&amp;rsquo;t mean I don&amp;rsquo;t recognize the value of someone or something in my life, it&amp;rsquo;s just that I&amp;rsquo;m mostly busy and never able to find time to reflect upon the things I have in my life.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Burnout on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/tags/burnout/</link>
+    <link>https://a7med7x7.github.io/tags/burnout/</link>
     <description>Recent content in Burnout on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Sat, 29 Nov 2025 12:00:00 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/burnout/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a7med7x7.github.io/tags/burnout/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When the body schedules the break</title>
-      <link>http://localhost:1313/posts/when-the-body-schedules-the-break/</link>
+      <link>https://a7med7x7.github.io/posts/when-the-body-schedules-the-break/</link>
       <pubDate>Sat, 29 Nov 2025 12:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/when-the-body-schedules-the-break/</guid>
+      <guid>https://a7med7x7.github.io/posts/when-the-body-schedules-the-break/</guid>
       <description>&lt;blockquote&gt;&#xA;&lt;p&gt;if you don&amp;rsquo;t schedule a break, your body will take one for you, and it probably won&amp;rsquo;t be at a convenient time.&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
     </item>
   </channel>
