@@ -12,6 +12,7 @@
   --ui-card-radius: 12px;
   --ui-card-bg: #23252a;
   --ui-card-line: rgba(248, 248, 255, 0.1);
+  --ui-link-blue: #80aadd;
 }
 
 *,
@@ -58,7 +59,7 @@
 .headerLinks ul {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 14px;
 }
 
 .headerLinks ul li {
@@ -66,19 +67,21 @@
 }
 
 .headerLinks ul li a {
-  display: inline-flex;
-  padding: 6px 12px;
-  border: 1px solid transparent;
-  border-radius: 999px;
+  display: inline;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
   color: var(--ui-ink-muted);
+  background: none;
+  text-decoration: none;
   transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
 }
 
 .headerLinks ul li a:hover,
 .headerLinks ul li a:focus-visible {
   color: var(--ui-ink);
-  border-color: var(--ui-line);
-  background: rgba(248, 248, 255, 0.05);
+  border-color: transparent;
+  background: none;
   outline: none;
 }
 
@@ -306,7 +309,7 @@
 }
 
 .postExcerpt a {
-  color: var(--ui-ink);
+  color: var(--ui-link-blue);
 }
 
 .pagination {
@@ -323,7 +326,7 @@
   padding: 0;
   border: 0;
   border-radius: 0;
-  color: var(--ui-ink-muted);
+  color: var(--ui-link-blue);
   background: none;
   text-decoration: none;
 }
@@ -332,6 +335,131 @@
 .pagination a:focus-visible {
   color: var(--ui-ink);
   outline: none;
+}
+
+.postWrapper {
+  width: 100%;
+  max-width: var(--ui-content-max);
+  margin: 0 auto;
+  padding: 20px var(--ui-gutter) 24px;
+  text-align: left;
+}
+
+.postPageTitle {
+  margin: 0;
+  font-size: clamp(2rem, 4.1vw, 2.5rem);
+  line-height: 1.14;
+}
+
+.postDescription {
+  margin: 8px 0 0;
+  color: var(--ui-ink-muted);
+  line-height: 1.7;
+}
+
+.post-feature-image {
+  margin-top: 14px;
+  border: 1px solid var(--ui-card-line);
+  border-radius: var(--ui-card-radius);
+  overflow: hidden;
+  background: #1e2024;
+}
+
+.post-feature-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.postMetadata {
+  margin-top: 14px;
+  margin-bottom: 14px;
+  padding: 10px 12px;
+  border: 1px solid var(--ui-card-line);
+  border-radius: 10px;
+  background: transparent;
+  font-size: 0.84rem;
+  color: var(--ui-ink-muted);
+}
+
+.postMetadata dl {
+  margin: 0;
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  column-gap: 12px;
+  row-gap: 6px;
+}
+
+.postMetadata dt {
+  color: var(--ui-ink-muted);
+  text-transform: lowercase;
+  letter-spacing: 0.01em;
+}
+
+.postMetadata dd {
+  margin: 0;
+  min-width: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 10px;
+  align-items: baseline;
+}
+
+.postMetadata dd span {
+  display: none;
+}
+
+.postMetadata a {
+  color: var(--ui-link-blue);
+  text-decoration: none;
+}
+
+.postMetadata a:hover,
+.postMetadata a:focus-visible {
+  color: var(--ui-link-blue);
+  text-decoration: none;
+  outline: none;
+}
+
+.postBody {
+  color: var(--ui-ink);
+  line-height: 1.8;
+  font-size: 1rem;
+}
+
+.postBody > *:first-child {
+  margin-top: 0;
+}
+
+.postBody p {
+  margin: 0 0 1em;
+}
+
+.postBody h2,
+.postBody h3,
+.postBody h4 {
+  margin-top: 1.35em;
+  margin-bottom: 0.45em;
+  line-height: 1.2;
+}
+
+.postBody ul,
+.postBody ol {
+  margin: 0 0 1em;
+  padding-left: 1.25rem;
+}
+
+.postBody blockquote {
+  margin: 1.1em 0;
+  padding: 0.15em 0 0.15em 0.9em;
+  border-left: 2px solid var(--ui-line);
+  color: var(--ui-ink-muted);
+}
+
+.postBody a {
+  color: var(--ui-link-blue);
+  text-decoration-color: rgba(128, 170, 221, 0.55);
+  text-underline-offset: 0.2em;
 }
 
 @media (max-width: 768px) {
@@ -391,11 +519,11 @@
   }
 
   .headerLinks ul li a {
-    display: flex;
+    display: block;
     align-items: center;
     min-height: 44px;
-    padding: 12px;
-    border-radius: 8px;
+    padding: 10px 0;
+    border-radius: 0;
   }
 
   .hamb {
@@ -446,6 +574,36 @@
     -webkit-line-clamp: 3;
   }
 
+  .postWrapper {
+    padding: 16px var(--ui-gutter) 18px;
+  }
+
+  .postPageTitle {
+    font-size: clamp(1.72rem, 6.2vw, 2.1rem);
+  }
+
+  .postMetadata {
+    padding: 10px;
+  }
+
+  .postMetadata dl {
+    grid-template-columns: 1fr;
+    row-gap: 2px;
+  }
+
+  .postMetadata dt,
+  .postMetadata dd {
+    grid-column: 1;
+  }
+
+  .postMetadata dd {
+    margin-bottom: 6px;
+  }
+
+  .postBody {
+    line-height: 1.75;
+  }
+
 }
 
 @media (max-width: 420px) {
@@ -478,6 +636,14 @@
   }
 
   .postListItem {
+    border-radius: 9px;
+  }
+
+  .postMetadata {
+    border-radius: 9px;
+  }
+
+  .post-feature-image {
     border-radius: 9px;
   }
 }
