@@ -10,7 +10,7 @@ This piece of writing was part of an article I’m writing, about how I would he
 
 <!--more-->
 
-# Intro
+# Introduction
 
 *I started by highlighting how chasing long horizon questions can lead to unnecessary complexity that you might not have the tooling to unpack currently*
 
@@ -36,6 +36,6 @@ Some of these questions you need to answer in order to consent willingly to the 
 
 If you can classify these kind of questions that will drag you into an infinite loop, it is better to carry on your work by ignoring these questions and having their burden in the background, in the hope that they will be answered one day. this will help minimize the complexity of your decision making. selective ignorance is applied in different parts of my life; maybe I will write more about it in the future.
 
-### That Will do
+### That Will Do
 
 My second advice is not to overthink whether the answers you've got are optimal, or if it's an answer that made you feel good and not necessarily the right answer. If it fits and helps you in the process of getting closer to start consenting to the game rules, then use them as placeholders. the unveiled insights and joy of consenting to the game are more rewarding than the value of time wasted searching for the optimal. do not care about the sources, it can come from something minor as a random quoted message you read on some random street walls written by a heartbroken lover, that you will consider as the last piece of the puzzle, TEDx talk, discussion with a friend, youtube video,  University course, whether your sources were science, religion. whatever will do. take it.
