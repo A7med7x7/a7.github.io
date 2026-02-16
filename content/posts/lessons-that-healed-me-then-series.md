@@ -1,5 +1,5 @@
 +++
-date = '2026-03-16T22:48:00+03:00'
+date = '2025-12-17T22:48:00+03:00'
 draft = false
 title = 'Lessons That Healed Me Then Series'
 tags = ['Lessons That Healed Me Then']
