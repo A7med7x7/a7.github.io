@@ -1,8 +1,9 @@
 +++
 date = '2025-12-24T12:19:51+03:00'
 draft = false
+tags = ['Lessons That Healed Me Then']
 category = ['Thought']
-title = 'Early Lesson in Healing - Writing'
+title = 'Lessons That Healed Me Then - Writing'
 +++
 
 > *you go through life for a long time believing no one has ever suffered the way you have.*  
