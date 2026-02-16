@@ -4,7 +4,7 @@
 
 {{ define "main" }}
 <div class="postWrapper">
-    <h1>{{ .Title }}</h1>
+    <h1 class="postPageTitle">{{ .Title }}</h1>
     {{ if .Params.feature_image }}
   <div class="post-feature-image">
   <img src="{{ .Params.feature_image | absURL }}" alt="{{ .Title }}" loading="lazy" />
@@ -12,7 +12,7 @@
 {{ end }}
 
     {{ if .Description}}
-    	<p>{{.Description}}</p>
+    	<p class="postDescription">{{.Description}}</p>
     {{ end }}
         
     {{/* Master switch */}}
@@ -71,7 +71,7 @@
         </dl>
     </section>
     {{ end }}
-    <div>
+    <div class="postBody">
         {{ .Content }}
     </div>
 </div>

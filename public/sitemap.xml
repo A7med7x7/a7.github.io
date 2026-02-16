@@ -2,307 +2,355 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-02-04T19:41:52+03:00</lastmod>
+    <loc>https://a7med7x7.github.io/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2026-02-04T19:41:52+03:00</lastmod>
+    <loc>https://a7med7x7.github.io/categories/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</loc>
+    <loc>https://a7med7x7.github.io/tags/courage/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/categories/reflection/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/reflection/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/time/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/time-will-pass/</loc>
+    <lastmod>2026-02-03T04:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/standards-thoughfulness-and-care/</loc>
+    <lastmod>2026-02-02T23:59:20+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/career-advice-ai-and-learning-how-to-code/</loc>
     <lastmod>2026-02-02T01:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://a7med7x7.github.io/categories/field-notes/</loc>
     <lastmod>2026-02-02T01:01:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/field-notes/</loc>
-    <lastmod>2026-02-02T01:01:35+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/reflections/</loc>
+    <loc>https://a7med7x7.github.io/categories/reflections/</loc>
     <lastmod>2026-02-02T00:57:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/thought/</loc>
+    <loc>https://a7med7x7.github.io/categories/thought/</loc>
     <lastmod>2026-02-02T00:57:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/worrying-about-it-later/</loc>
+    <loc>https://a7med7x7.github.io/posts/worrying-about-it-later/</loc>
     <lastmod>2026-02-02T00:57:56+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/advice/</loc>
+    <loc>https://a7med7x7.github.io/tags/balance/</loc>
+    <lastmod>2026-02-01T04:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/choosing-not-to-drift/</loc>
+    <lastmod>2026-02-01T04:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/mindset/</loc>
+    <lastmod>2026-02-01T04:20:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/emotions/</loc>
+    <lastmod>2026-01-28T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/learning-to-be-bothered/</loc>
+    <lastmod>2026-01-28T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/self-respect/</loc>
+    <lastmod>2026-01-28T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/never-losing-control-between-good-and-bad/</loc>
+    <lastmod>2026-01-24T19:51:17+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/advice/</loc>
     <lastmod>2026-01-15T04:35:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/balance/</loc>
+    <loc>https://a7med7x7.github.io/posts/economical-with-my-words-advice/</loc>
     <lastmod>2026-01-15T04:35:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/economical-with-my-words-advice/</loc>
+    <loc>https://a7med7x7.github.io/tags/relationships/</loc>
     <lastmod>2026-01-15T04:35:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/reflection/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reflection/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/relationships/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-01-15T04:35:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/distance/</loc>
+    <loc>https://a7med7x7.github.io/tags/distance/</loc>
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/friends/</loc>
+    <loc>https://a7med7x7.github.io/tags/friends/</loc>
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/growth/</loc>
+    <loc>https://a7med7x7.github.io/tags/growth/</loc>
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/im-afraid-of-what-awaits-ahead-for-my-friends/</loc>
+    <loc>https://a7med7x7.github.io/posts/im-afraid-of-what-awaits-ahead-for-my-friends/</loc>
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/writing/</loc>
+    <loc>https://a7med7x7.github.io/tags/writing/</loc>
     <lastmod>2026-01-14T23:44:02+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/on-comparing-suffering-without-erasing-it/</loc>
+    <loc>https://a7med7x7.github.io/posts/on-comparing-suffering-without-erasing-it/</loc>
     <lastmod>2026-01-11T10:36:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/before-art-literature-after-metaphor/</loc>
+    <loc>https://a7med7x7.github.io/posts/before-art-literature-after-metaphor/</loc>
     <lastmod>2026-01-07T00:23:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/2025-in-five-words/</loc>
+    <loc>https://a7med7x7.github.io/posts/2025-in-five-words/</loc>
     <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/loss/</loc>
+    <loc>https://a7med7x7.github.io/tags/loss/</loc>
     <lastmod>2026-01-04T17:41:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/i-didnt-know-how-to-be-with-me/</loc>
+    <loc>https://a7med7x7.github.io/posts/i-didnt-know-how-to-be-with-me/</loc>
     <lastmod>2026-01-02T15:00:45+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/comparative-suffering/</loc>
+    <loc>https://a7med7x7.github.io/posts/comparative-suffering/</loc>
     <lastmod>2025-12-25T03:11:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/it-was-never-power-to-me/</loc>
+    <loc>https://a7med7x7.github.io/posts/it-was-never-power-to-me/</loc>
     <lastmod>2025-12-24T19:46:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal/</loc>
+    <loc>https://a7med7x7.github.io/categories/personal/</loc>
     <lastmod>2025-12-24T19:46:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/early-lesson-in-healing-writing/</loc>
+    <loc>https://a7med7x7.github.io/posts/early-lesson-in-healing-writing/</loc>
     <lastmod>2025-12-24T12:19:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/conversation-with-a-stranger/</loc>
+    <loc>https://a7med7x7.github.io/posts/conversation-with-a-stranger/</loc>
     <lastmod>2025-12-22T14:38:22+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/it-was-never-small/</loc>
+    <loc>https://a7med7x7.github.io/posts/it-was-never-small/</loc>
     <lastmod>2025-12-21T19:13:43+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/five-unplanned-hours/</loc>
+    <loc>https://a7med7x7.github.io/posts/five-unplanned-hours/</loc>
     <lastmod>2025-12-20T22:56:44+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/feelings-archived/</loc>
+    <loc>https://a7med7x7.github.io/posts/feelings-archived/</loc>
     <lastmod>2025-12-20T04:31:19+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a-user-manual-for-being-close-to-me/</loc>
+    <loc>https://a7med7x7.github.io/posts/a-user-manual-for-being-close-to-me/</loc>
     <lastmod>2025-12-15T15:53:08+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/before-you-heal-someone/</loc>
+    <loc>https://a7med7x7.github.io/posts/before-you-heal-someone/</loc>
     <lastmod>2025-12-15T14:03:43+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/who-i-am-on-the-person-i-failed-to-define/</loc>
+    <loc>https://a7med7x7.github.io/posts/who-i-am-on-the-person-i-failed-to-define/</loc>
     <lastmod>2025-12-12T20:40:54+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/i-forget-too-much/</loc>
+    <loc>https://a7med7x7.github.io/posts/i-forget-too-much/</loc>
     <lastmod>2025-12-11T19:14:36+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the-moment-i-realized-what-he-meant-to-me/</loc>
+    <loc>https://a7med7x7.github.io/posts/the-moment-i-realized-what-he-meant-to-me/</loc>
     <lastmod>2025-12-11T16:06:01+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/i-learned-meaning-before-i-learn-pleasure/</loc>
+    <loc>https://a7med7x7.github.io/posts/i-learned-meaning-before-i-learn-pleasure/</loc>
     <lastmod>2025-12-08T13:32:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/meta/</loc>
+    <loc>https://a7med7x7.github.io/categories/meta/</loc>
     <lastmod>2025-12-08T13:32:58+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/attachment/</loc>
+    <loc>https://a7med7x7.github.io/tags/attachment/</loc>
     <lastmod>2025-12-06T08:38:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/a_grief_i_didnt_expect/</loc>
+    <loc>https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/</loc>
     <lastmod>2025-12-06T08:38:46+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/consenting_to_the_game_rules/</loc>
+    <loc>https://a7med7x7.github.io/posts/consenting_to_the_game_rules/</loc>
     <lastmod>2025-12-05T03:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/thinking/</loc>
+    <loc>https://a7med7x7.github.io/tags/thinking/</loc>
     <lastmod>2025-12-05T03:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/early-lessons-in-healing-thought-and-condition/</loc>
+    <loc>https://a7med7x7.github.io/posts/early-lessons-in-healing-thought-and-condition/</loc>
     <lastmod>2025-12-04T12:19:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/family/</loc>
+    <loc>https://a7med7x7.github.io/tags/anxiety/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/burnout/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/health/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/when-the-body-schedules-the-break/</loc>
+    <lastmod>2025-11-29T12:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/family/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/helping/</loc>
+    <loc>https://a7med7x7.github.io/tags/helping/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/helping_as_escape/</loc>
+    <loc>https://a7med7x7.github.io/posts/helping_as_escape/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hope/</loc>
+    <loc>https://a7med7x7.github.io/tags/hope/</loc>
     <lastmod>2025-11-28T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/feelings/</loc>
+    <loc>https://a7med7x7.github.io/tags/feelings/</loc>
     <lastmod>2025-11-21T08:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/learning_to_feel_again/</loc>
+    <loc>https://a7med7x7.github.io/posts/learning_to_feel_again/</loc>
     <lastmod>2025-11-21T08:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/anxiety/</loc>
+    <loc>https://a7med7x7.github.io/categories/archives/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/archives/</loc>
+    <loc>https://a7med7x7.github.io/posts/days_that_i_didnt_understand/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/days_that_i_didnt_understand/</loc>
+    <loc>https://a7med7x7.github.io/tags/personal/</loc>
     <lastmod>2025-11-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal/</loc>
-    <lastmod>2025-11-21T00:00:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/i_fear_the_person_i_will_become/</loc>
+    <loc>https://a7med7x7.github.io/posts/i_fear_the_person_i_will_become/</loc>
     <lastmod>2025-11-20T07:38:35+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the_first_whisper_of_quitting/</loc>
+    <loc>https://a7med7x7.github.io/posts/the_first_whisper_of_quitting/</loc>
     <lastmod>2025-11-19T18:30:25+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/learning-the-opposite/</loc>
+    <loc>https://a7med7x7.github.io/posts/learning-the-opposite/</loc>
     <lastmod>2025-11-16T04:20:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mindset/</loc>
-    <lastmod>2025-11-16T04:20:00+03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/elaborate_on_adding_new_friends_system/</loc>
+    <loc>https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/friendship/</loc>
+    <loc>https://a7med7x7.github.io/tags/friendship/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/legacy-systems/</loc>
+    <loc>https://a7med7x7.github.io/tags/legacy-systems/</loc>
     <lastmod>2025-11-10T18:40:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/adding_new_friends_system/</loc>
+    <loc>https://a7med7x7.github.io/posts/adding_new_friends_system/</loc>
     <lastmod>2025-11-08T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/culture/</loc>
+    <loc>https://a7med7x7.github.io/tags/culture/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/self-expression/</loc>
+    <loc>https://a7med7x7.github.io/tags/self-expression/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</loc>
+    <loc>https://a7med7x7.github.io/posts/where_you_are_allowed_to_be_you/</loc>
     <lastmod>2025-11-06T23:15:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/decision-making/</loc>
+    <loc>https://a7med7x7.github.io/tags/decision-making/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/frameworks/</loc>
+    <loc>https://a7med7x7.github.io/tags/frameworks/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/personal-philosphy/</loc>
+    <loc>https://a7med7x7.github.io/tags/personal-philosphy/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</loc>
+    <loc>https://a7med7x7.github.io/posts/the_limits_of_the_regret_minimization_framework/</loc>
     <lastmod>2025-11-06T22:30:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/belief/</loc>
+    <loc>https://a7med7x7.github.io/tags/belief/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gratitude/</loc>
+    <loc>https://a7med7x7.github.io/tags/gratitude/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/gratitude_register/</loc>
+    <loc>https://a7med7x7.github.io/posts/gratitude_register/</loc>
     <lastmod>2025-11-06T22:00:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/taking-things-for-granted/</loc>
+    <loc>https://a7med7x7.github.io/posts/taking-things-for-granted/</loc>
     <lastmod>2025-11-04T04:10:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cognition/</loc>
+    <loc>https://a7med7x7.github.io/tags/cognition/</loc>
     <lastmod>2025-10-29T15:31:42+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/learning/</loc>
+    <loc>https://a7med7x7.github.io/tags/learning/</loc>
     <lastmod>2025-10-29T15:31:42+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why-im-sharing-notes-cognitive-overload/</loc>
+    <loc>https://a7med7x7.github.io/posts/why-im-sharing-notes-cognitive-overload/</loc>
     <lastmod>2025-10-29T15:31:42+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/i-love-who-im-on-a7/</loc>
+    <loc>https://a7med7x7.github.io/posts/i-love-who-im-on-a7/</loc>
     <lastmod>2025-10-14T04:05:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/computation-is-not-reality/</loc>
+    <loc>https://a7med7x7.github.io/posts/computation-is-not-reality/</loc>
     <lastmod>2025-09-22T22:22:27+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/unfinished-notes/</loc>
+    <loc>https://a7med7x7.github.io/categories/unfinished-notes/</loc>
     <lastmod>2025-09-22T22:22:27+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why-i-do-this/</loc>
+    <loc>https://a7med7x7.github.io/posts/why-i-do-this/</loc>
     <lastmod>2025-09-04T09:32:11+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/state-of-numbness/</loc>
+    <loc>https://a7med7x7.github.io/posts/state-of-numbness/</loc>
     <lastmod>2025-06-22T17:43:34+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/drafts/</loc>
+    <loc>https://a7med7x7.github.io/categories/drafts/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/drafts/</loc>
+    <loc>https://a7med7x7.github.io/tags/drafts/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/21_reflections/</loc>
+    <loc>https://a7med7x7.github.io/posts/21_reflections/</loc>
     <lastmod>2025-06-02T20:04:03+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/21/</loc>
+    <loc>https://a7med7x7.github.io/posts/21/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/archive/</loc>
+    <loc>https://a7med7x7.github.io/categories/archive/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/archive/</loc>
+    <loc>https://a7med7x7.github.io/tags/archive/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/draft/</loc>
+    <loc>https://a7med7x7.github.io/categories/draft/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/draft/</loc>
+    <loc>https://a7med7x7.github.io/tags/draft/</loc>
     <lastmod>2025-05-06T12:19:23+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/i_keep_failing_the_people_i_care_about/</loc>
+    <loc>https://a7med7x7.github.io/posts/i_keep_failing_the_people_i_care_about/</loc>
     <lastmod>2025-03-25T19:12:13+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/what_you_want_to_major_in_might_not_be_exactly_how_you_imagine_it/</loc>
+    <loc>https://a7med7x7.github.io/posts/what_you_want_to_major_in_might_not_be_exactly_how_you_imagine_it/</loc>
     <lastmod>2025-03-21T18:55:53+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/archives/</loc>
+    <loc>https://a7med7x7.github.io/posts/the-condition-of-seeing/</loc>
+    <lastmod>2024-09-09T16:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/archives/</loc>
     <lastmod>2024-08-14T19:52:21+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/flow_state_and_sleep/</loc>
+    <loc>https://a7med7x7.github.io/posts/flow_state_and_sleep/</loc>
     <lastmod>2024-08-14T19:52:21+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/the_greatest_tragedy_in_life/</loc>
+    <loc>https://a7med7x7.github.io/posts/a-quite-advantage-of-being-left-handed/</loc>
+    <lastmod>2024-07-03T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/details/</loc>
+    <lastmod>2024-07-03T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/tags/teaching/</loc>
+    <lastmod>2024-07-03T23:00:00+03:00</lastmod>
+  </url><url>
+    <loc>https://a7med7x7.github.io/posts/the_greatest_tragedy_in_life/</loc>
     <lastmod>2024-06-29T08:43:00+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/20/</loc>
+    <loc>https://a7med7x7.github.io/posts/20/</loc>
     <lastmod>2024-05-21T18:59:38+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/learning-faliure-modes-branching/</loc>
+    <loc>https://a7med7x7.github.io/posts/learning-faliure-modes-branching/</loc>
     <lastmod>2024-04-12T10:50:51+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/learning-faliure-modes-floating-information/</loc>
+    <loc>https://a7med7x7.github.io/posts/learning-faliure-modes-floating-information/</loc>
     <lastmod>2024-04-12T10:50:51+04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why-im-sharing-notes-regret/</loc>
+    <loc>https://a7med7x7.github.io/posts/why-im-sharing-notes-regret/</loc>
     <lastmod>2024-03-19T23:50:55+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why_im_sharing_notes/</loc>
+    <loc>https://a7med7x7.github.io/posts/why_im_sharing_notes/</loc>
     <lastmod>2024-03-19T11:48:47+03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/lack_of_real_feedback/</loc>
+    <loc>https://a7med7x7.github.io/posts/lack_of_real_feedback/</loc>
     <lastmod>2024-02-11T19:21:15+03:00</lastmod>
   </url>
 </urlset>

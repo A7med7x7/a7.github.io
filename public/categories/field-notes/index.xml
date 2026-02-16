@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Field Notes on Ahmed Alghali Blog</title>
-    <link>http://localhost:1313/categories/field-notes/</link>
+    <link>https://a7med7x7.github.io/categories/field-notes/</link>
     <description>Recent content in Field Notes on Ahmed Alghali Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
     <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
     <lastBuildDate>Mon, 02 Feb 2026 01:01:35 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/field-notes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://a7med7x7.github.io/categories/field-notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career Advice, AI and Learning How to Code</title>
-      <link>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</link>
+      <link>https://a7med7x7.github.io/posts/career-advice-ai-and-learning-how-to-code/</link>
       <pubDate>Mon, 02 Feb 2026 01:01:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/career-advice-ai-and-learning-how-to-code/</guid>
-      <description>&lt;p&gt;I remember my friend Awab sharing a thoughtful reading recommendation from the LessWrong community titled &#xA;&lt;a href=&#34;https://www.lesswrong.com/posts/fwQburGDyGoSSweT9/you-will-be-ok&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You will be OK&lt;/a&gt;&#xA;. it is both a clarification and a gentle reminder of different ways to think and act under the existential threat of AI, written as a response to concerns raised by a young community member in &#xA;&lt;a href=&#34;https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Turning 20 in the probable pre-apocalypse&lt;/a&gt;&#xA;.&lt;/p&gt;</description>
+      <guid>https://a7med7x7.github.io/posts/career-advice-ai-and-learning-how-to-code/</guid>
+      <description>&lt;p&gt;I remember my friend Awab sharing a thoughtful reading recommendation from the LessWrong community titled &#xD;&#xA;&lt;a href=&#34;https://www.lesswrong.com/posts/fwQburGDyGoSSweT9/you-will-be-ok&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;You will be OK&lt;/a&gt;&#xD;&#xA;. it is both a clarification and a gentle reminder of different ways to think and act under the existential threat of AI, written as a response to concerns raised by a young community member in &#xD;&#xA;&lt;a href=&#34;https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Turning 20 in the probable pre-apocalypse&lt;/a&gt;&#xD;&#xA;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>I Love Who I&#39;m on A7</title>
-      <link>http://localhost:1313/posts/i-love-who-im-on-a7/</link>
+      <title>I Love Who I&#39;m on A7med7edtz</title>
+      <link>https://a7med7x7.github.io/posts/i-love-who-im-on-a7/</link>
       <pubDate>Tue, 14 Oct 2025 04:05:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/i-love-who-im-on-a7/</guid>
+      <guid>https://a7med7x7.github.io/posts/i-love-who-im-on-a7/</guid>
       <description>&lt;p&gt;One of the most common questions I get is how I managed to learn so many media formats in such a short amount of time. people often assume I learned everything simultaneously. that is not true.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Computation Is Not Reality</title>
-      <link>http://localhost:1313/posts/computation-is-not-reality/</link>
+      <link>https://a7med7x7.github.io/posts/computation-is-not-reality/</link>
       <pubDate>Mon, 22 Sep 2025 22:22:27 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/computation-is-not-reality/</guid>
+      <guid>https://a7med7x7.github.io/posts/computation-is-not-reality/</guid>
       <description>&lt;p&gt;Recently, I’ve been working on the reproducibility of machine learning research. In practice, this meant doing far more infrastructure work than actual machine learning modeling. I found myself digging into operating systems, containers, storage, and hardware details. and suddenly, I started questioning everything, not because it wasn’t interesting, but because I was drifting away from the kind of problems that originally made me fall in love with machine learning.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning Faliure Modes - Branching</title>
-      <link>http://localhost:1313/posts/learning-faliure-modes-branching/</link>
+      <link>https://a7med7x7.github.io/posts/learning-faliure-modes-branching/</link>
       <pubDate>Fri, 12 Apr 2024 10:50:51 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/learning-faliure-modes-branching/</guid>
+      <guid>https://a7med7x7.github.io/posts/learning-faliure-modes-branching/</guid>
       <description>&lt;p&gt;This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying useful techniques.&lt;/p&gt;&#xA;&lt;p&gt;Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. and I plan to study neuroscience some day, but as for now I want to share what I&amp;rsquo;ve learned by myself, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. the road of learnign was lonely, paved with faliure moods, it was an experimentation based road.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Learning Faliure Modes - Floating Information</title>
-      <link>http://localhost:1313/posts/learning-faliure-modes-floating-information/</link>
+      <link>https://a7med7x7.github.io/posts/learning-faliure-modes-floating-information/</link>
       <pubDate>Fri, 12 Apr 2024 10:50:51 +0400</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
-      <guid>http://localhost:1313/posts/learning-faliure-modes-floating-information/</guid>
+      <guid>https://a7med7x7.github.io/posts/learning-faliure-modes-floating-information/</guid>
       <description>&lt;p&gt;I call this problem &lt;em&gt;floating information&lt;/em&gt;. It is a literal translation of the Arabic word &amp;ldquo;طائفة&amp;rdquo;, which means floating in space without connection. I first noticed that there is information that is not linked to anything. it has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.&lt;/p&gt;</description>
     </item>
   </channel>

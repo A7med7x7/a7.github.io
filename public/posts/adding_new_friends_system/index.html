@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
     <title>
-Adding new friends system | A.Alghali
+Adding New Friends System | A.Alghali
 </title>
 
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="">
+<meta name="description" content="Personal notes on technical experiments, reflections, and field reports by Ahmed Alghali.">
 
-<meta name="generator" content="Hugo 0.148.2">
+<meta name="generator" content="Hugo 0.155.2">
 
 
-<link rel="canonical" href="http://localhost:1313/posts/adding_new_friends_system/" >
+<link rel="canonical" href="https://a7med7x7.github.io/posts/adding_new_friends_system/" >
 
 
 
@@ -51,36 +51,55 @@ Adding new friends system | A.Alghali
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
 <link href="https://db.onlinewebfonts.com/c/e08e1402197c87523c042e4fcb918b83?family=WarnockPro-Regular" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="/css/custom-ui.css?v=20260214-7">
+
+
+
+
+
+
+
+  
+    
+  
 
 
 <meta property="og:type" content="article">
-<meta property="og:url" content="http://localhost:1313/posts/adding_new_friends_system/">
-<meta property="og:title" content="Adding new friends system">
+<meta property="og:url" content="https://a7med7x7.github.io/posts/adding_new_friends_system/">
+<meta property="og:site_name" content="Ahmed Alghali Blog">
+<meta property="og:title" content="Adding New Friends System">
 <meta property="og:description" content="I get asked:
-How do you deal with ordinary people? The ones that don&rsquo;t bother you? and when does it start that they enter your life?">
+How do you deal with ordinary people? The ones that don’t bother you? and when does it start that they enter your life?
+">
 
 
 
   
   
   
+    
+  
+
   
   
   
   
   
   
-  
-  
-  <meta property="og:image" content="https://og.tailgraph.com/og?bgTailwind=bg-white&amp;bgUrl=&amp;containerTailwind=flex&#43;flex-col&#43;items-start&#43;justify-center&#43;w-full&#43;h-full&#43;bg-white&#43;py-20&#43;px-12&amp;fontFamily=Inter&amp;footer=November&#43;8%2C&#43;2025&amp;footerTailwind=text-base&#43;text-gray-500&#43;text-left&#43;pl-8&#43;mt-auto&amp;text=I&#43;get&#43;asked%3A%0AHow&#43;do&#43;you&#43;deal&#43;with&#43;ordinary&#43;people%3F&#43;The&#43;ones&#43;that&#43;don%E2%80%99t&#43;bother&#43;you%3F&#43;and&#43;when&#43;does&#43;it&#43;start&#43;that&#43;they&#43;enter&#43;your&#43;life%3F%0A&amp;textTailwind=text-xl&#43;text-gray-600&#43;text-left&#43;mt-4&#43;leading-relaxed&#43;pl-8&#43;mb-8&amp;title=Adding&#43;new&#43;friends&#43;system&amp;titleTailwind=text-7xl&#43;font-extrabold&#43;text-gray-900&#43;text-left&#43;leading-tight&#43;mb-8&#43;border-l-8&#43;border-teal-500&#43;pl-8">
+  <meta property="og:image" content="https://placehold.co/1200x630/111827/F9FAFB/png?font=playfair-display&amp;text=Adding&#43;New&#43;Friends&#43;System%0ANovember&#43;8%2C&#43;2025">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Adding New Friends System">
 
 
 <meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="http://localhost:1313/posts/adding_new_friends_system/">
-<meta property="twitter:title" content="Adding new friends system">
+<meta property="twitter:url" content="https://a7med7x7.github.io/posts/adding_new_friends_system/">
+<meta property="twitter:title" content="Adding New Friends System">
 <meta property="twitter:description" content="I get asked:
-How do you deal with ordinary people? The ones that don&rsquo;t bother you? and when does it start that they enter your life?">
-<meta property="twitter:image" content="https://og.tailgraph.com/og?bgTailwind=bg-white&amp;bgUrl=&amp;containerTailwind=flex&#43;flex-col&#43;items-start&#43;justify-center&#43;w-full&#43;h-full&#43;bg-white&#43;py-20&#43;px-12&amp;fontFamily=Inter&amp;footer=November&#43;8%2C&#43;2025&amp;footerTailwind=text-base&#43;text-gray-500&#43;text-left&#43;pl-8&#43;mt-auto&amp;text=I&#43;get&#43;asked%3A%0AHow&#43;do&#43;you&#43;deal&#43;with&#43;ordinary&#43;people%3F&#43;The&#43;ones&#43;that&#43;don%E2%80%99t&#43;bother&#43;you%3F&#43;and&#43;when&#43;does&#43;it&#43;start&#43;that&#43;they&#43;enter&#43;your&#43;life%3F%0A&amp;textTailwind=text-xl&#43;text-gray-600&#43;text-left&#43;mt-4&#43;leading-relaxed&#43;pl-8&#43;mb-8&amp;title=Adding&#43;new&#43;friends&#43;system&amp;titleTailwind=text-7xl&#43;font-extrabold&#43;text-gray-900&#43;text-left&#43;leading-tight&#43;mb-8&#43;border-l-8&#43;border-teal-500&#43;pl-8">
+How do you deal with ordinary people? The ones that don’t bother you? and when does it start that they enter your life?
+">
+<meta property="twitter:image" content="https://placehold.co/1200x630/111827/F9FAFB/png?font=playfair-display&amp;text=Adding&#43;New&#43;Friends&#43;System%0ANovember&#43;8%2C&#43;2025">
+<meta property="twitter:image:alt" content="Adding New Friends System">
 
 
 
@@ -102,7 +121,7 @@ How do you deal with ordinary people? The ones that don&rsquo;t bother you? and 
             <ul>
                 
                 <li>
-                    <a href="http://localhost:1313/posts" title="" >
+                    <a href="https://a7med7x7.github.io/posts" title="" >
                         ~/blogs</a>
                 </li>
                 
@@ -116,7 +135,7 @@ How do you deal with ordinary people? The ones that don&rsquo;t bother you? and 
             <main class="main">
                 
 <div class="postWrapper">
-    <h1>Adding new friends system</h1>
+    <h1 class="postPageTitle">Adding New Friends System</h1>
     
 
     
@@ -182,7 +201,7 @@ How do you deal with ordinary people? The ones that don&rsquo;t bother you? and 
         </dl>
     </section>
     
-    <div>
+    <div class="postBody">
         <p>I get asked:</p>
 <p>How do you deal with ordinary people? The ones that don&rsquo;t bother you? and when does it start that they enter your life?</p>
 <p>This question has got me thinking. I recalled that checklist (set of rules) I have for making new friends, but I have never revised the list for a while. I have seen cases where people just hack the system, and suddenly they are knocking on the door of my heart before even check-listing half of it.<br>
@@ -195,7 +214,8 @@ the equation was obvious to me: &ldquo;the more emotions I invest in someone, th
 <p>Simply don&rsquo;t call people your &ldquo;friends.&rdquo; I haven’t used that term for as long as I can remember. My very first friend, I was telling myself about &ldquo;Wow, this guy has done so much for me. If I didn&rsquo;t get to call him a friend, then I&rsquo;m selfish and heartless&rdquo;. What people don&rsquo;t understand is that I still had a quality time with that guy without calling him a friend. I was enjoying my life with them, and I was making memories.<br>
 I&rsquo;ve applied what happened with the first person I ever admitted by heart as a &ldquo;friend&rdquo; to the friends I met down the road, is to never call them friends until time passes and they prove they are trustworthy.</p>
 <blockquote>
-<p>If you keep saying everyone is your friend, you will end up wounded alot.</p></blockquote>
+<p>If you keep saying everyone is your friend, you will end up wounded alot.</p>
+</blockquote>
 <p>But there are downsides, you might say, and yes, you don&rsquo;t get to fully open yourself. That doesn&rsquo;t mean you are going to be in defense mode all the time (or it is not that bad; maybe you will get used to it), but you will gradually match the energy of your candidates and make most of the time just as you should. But don&rsquo;t call them friends, not yet, because the moment you start assigning them the value &ldquo;friend,&rdquo; you allow yourself to invest more emotions (trust, love, loyalty…). If you have an argument saying friendship should not be that hard, and at the start I don&rsquo;t really allow myself to fall completely, then this is good for you, but for me, no. Assigning the value &ldquo;friend&rdquo; to people means a lot more, so I don&rsquo;t give it away that easily. Luckily, society gave us names as placeholders for people that even can help define the interactions and limits of relationships to have with people: there are Coworkers, Neighbors, Classmates, Colleagues, Managers, Team members, Collaborators, Customers, Clients, Students, Teachers, and even Mutuals (your friend&rsquo;s friend doesn&rsquo;t have to be your friend). Why don&rsquo;t people use these? They are good, they protect you, they help you.</p>
 <p>Going back to our discussion, the reason why I want to revise my set of rules for making new friends as mentioned before is that there seem to be people who violate the rules. They are just cool enough to make friendships with; they can&rsquo;t stay just &ldquo;people,&rdquo; they need to be &ldquo;friends.&rdquo; And they already have the same amount of admiration as my friends, but I&rsquo;m yet to call them &ldquo;friends.&rdquo; This nonsense happens for a lot of reasons; let&rsquo;s list some:</p>
 <ul>

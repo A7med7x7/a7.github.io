@@ -1,14 +1,16 @@
 <div class="socialNavbar">
     <ul>
-        {{ range sort .Site.Params.social "key"}}
+        {{ range sort .Site.Params.social "key" }}
+        {{ $href := .url }}
+        {{ $rel := .rel }}
+        {{ if and (in $href "@") (not (hasPrefix $href "mailto:")) (not (hasPrefix $href "http://")) (not (hasPrefix $href "https://")) }}
+            {{ $href = printf "mailto:%s" $href }}
+        {{ end }}
+        {{ if and (eq .target "_blank") (not $rel) }}
+            {{ $rel = "noopener noreferrer" }}
+        {{ end }}
         <li>
-            {{ if isset . "icon" }}
-                <a href="{{ .url | safeURL }}" {{ if .target }} target="{{ .target }}" {{ end }} {{ if .aria }} aria-label="{{ .aria }}" {{ else }} aria-hidden="true" {{ end }} title="{{ .name }}" {{ if .rel }} rel="{{ .rel }}"{{ end }}>
-                    <i class="{{ .icon }}"></i>
-                </a>
-            {{ else }}
-                <a href="{{ .url | safeURL }}" {{ if .target }} target="{{ .target }}" {{ if .aria }} aria-label="{{ .aria }}" {{ else }} aria-hidden="true" {{ end }} {{ end }} {{ if .rel }} rel="{{ .rel }}"{{ end }}>{{ .name }}</a>
-            {{ end }}
+            <a href="{{ $href | safeURL }}" {{ if .target }} target="{{ .target }}" {{ end }} {{ with .aria }}aria-label="{{ . }}"{{ end }} title="{{ .name }}" {{ with $rel }}rel="{{ . }}"{{ end }}>{{ .name }}</a>
         </li>
         {{ end }}
     </ul>
