@@ -14,7 +14,7 @@ It’s never simple to confront an insecurity you’ve never recognized before, 
 
 This is the first time I've heard of this term “Avoidant attachment,” and it is crazy how accurately it sums up and explains the recurrence of my patterns,  [Adding new friends systems](https://a7med7x7.github.io/posts/adding_new_friends_system/) , [Elaborate Adding new friends system](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/)
 
-## On avoidant attachment
+## On Avoidant Attachment
 
 after watching videos about this topic, I felt it’s relevant to what I'm experiencing, and I just couldn't believe how mature psychology is, to the point of describing such a phenomenon. Below I will paste a comprehensive summary that can help understand the avoidant personality in a nutshell, and build on top of its light.
 
@@ -32,7 +32,7 @@ This piece is the first to encounter when searching for what this term means. I 
 
 ---
 
-## On the harm I caused others
+## On The Harm I Caused Others
 
 For a long time I believed I'm just not build for relationships, the moment someone brings emotions to our conversation I pull away, there is this poor Jonior whom I met recently and the moment he told me: “you're cool, I like you, we could be friends”,As soon as he said that, I completely withdrew. and vanished from his life. Earlier this year I was talking to my friend Omer Monir. on how I’ve abundant the idea of romantic relationships in my life. Due to reasons I failed to interpret at the time, but the idea of I myself avoiding it, is a huge factor. What scares me the most about all sorts of relationships is the closeness and the commitment it brings, I can't show up everyday, I'm terrified and not familiar with the intimacy that comes with establishing relationships, I run, I pull away and I shut down emotionally the moment these start to happen, 
 
