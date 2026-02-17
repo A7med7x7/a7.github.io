@@ -8,12 +8,12 @@ categories = ['reflections']
 
 
 > *Sister Calderon: I don't know but..whenever we happen to meet you're always helping people and smiling.*
-   
+<!--more-->   
 > *Arthur: You're too smart for me sister..I guess I..I'm afraid.*
 
 > *Sister Calderon: There is nothing to be afraid of mister Morgan. Take a gamble that love exists and do a loving act.  Perhaps you could help somebody, helping makes you really happy.* 
 
-<!--more-->
+
 
 one of the instant remedies to low moments is by helping people, this is my only remedy if low moments stem from things I can't address at the moment, an insecurity or a wrong belief that I would need to heal from after a while, for me to pick myself up I look for people who are potentially having much worst days which they need help with, this way I can deliberately ignore my problems and shift my mind to think about some's else problem.  
 
