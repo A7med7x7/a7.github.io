@@ -1,5 +1,5 @@
 +++  
-date = '2026-02-10T18:00:00+03:00'  
+date = '2026-01-19T18:00:00+03:00'  
 draft = false  
 title = "Can Someone Please Tell Me I'm Wrong"  
 tags = ['reflection','university','memory']  
