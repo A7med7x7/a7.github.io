@@ -7,7 +7,7 @@ categories = ['Reflections']
 +++
 
 I remember that particular day. I was heading to the University Of Khartoum. I took the city train. I was standing. there were no seats left. my head was facing the floor, and the train was moving. I was just there.
-
+<!--more-->
 I was not looking at my phone. usually, I read a book on the way, or watch something, or listen to anything just to pass time. that day was different. not because I woke up differently. I woke up normally. I did everything normally. but I did not hold my phone. it was just me and my thoughts.
 
 A real and honest moment happened there with myself. one I will never forget. I was telling myself, please let someone tell me that I am wrong. I begged for it. I wanted someone to stop me, to tell me to wake up. I felt like I had been living my life doing everything alone, with no one questioning what I do.
