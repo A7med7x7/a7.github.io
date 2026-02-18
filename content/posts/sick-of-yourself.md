@@ -6,8 +6,8 @@ descsription = 'most times, real change does not begin with ideas. it begins whe
 categories = ['growth', 'patterns', 'discipline']
 +++
 There is a catalyst behind every better decision you have ever made., it is the urge for change.
-
-It is one of the most important hidden [internal weapons]() you can have if you want to ascend. without it, you do not really have a reason to improve. this is not just normal intrinsic motivation. it is stronger. it is the kind of push that moves you when nothing else works. sometimes it feels like the only visible way out of your suffering.
+<!--more-->
+It is one of the most important hidden [internal weapons](https://a7med7x7.github.io/posts/veteran-of-the-world-defeated-inside/#:~:text=Losing%20one%20of%20my%20inner%20weapons) you can have if you want to ascend. without it, you do not really have a reason to improve. this is not just normal intrinsic motivation. it is stronger. it is the kind of push that moves you when nothing else works. sometimes it feels like the only visible way out of your suffering.
 
 It does not begin with intellectual clarity. it does not begin with fully seeing [how miserable you are](https://a7med7x7.github.io/posts/the-condition-of-seeing/). it does not begin with mastering the art of [moving through uncertainty](https://a7med7x7.github.io/posts/choosing-not-to-drift/).
 

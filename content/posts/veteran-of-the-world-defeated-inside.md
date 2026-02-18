@@ -6,9 +6,9 @@ tags = ['writing', 'faith', 'conflict']
 categories = ['reflection']
 +++
  
-hardships of life are less hard to endure than living in my head.  
-than having an internal conflict.
-
+Hardships of life are less hard to endure than living in my head.  
+Than having an internal conflict.
+<!--more-->
 I'm a veteran to the external world.  
 I can ace whatever you put me through.  
 The difficulties i can navigate.
