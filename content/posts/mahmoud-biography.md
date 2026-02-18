@@ -5,7 +5,7 @@ title = 'Mahmoud Biography'
 +++
 
 I have had a unique friendship with someone who, on the surface, could not be more different from me. his name is Mahmoud. when I first met him at the university of Khartoum, I was almost certain that we would never become close. not because of conflict, not because of incompatibility in values, but because he represented something I was instinctively afraid of.
-
+<!--more-->
 I am quiet by nature. I avoid the spotlight. I find comfort in discipline, in order, in structure. Mahmoud was the opposite of everything I believed myself to be. he was loud without trying. he attracted attention without asking for it. he moved through spaces as if the world was already aware of him. his randomness unsettled me. his presence filled rooms in ways mine never did.
 
 I remember the first day clearly. everyone else seemed measured, cautious, adjusting to the new environment. Mahmoud walked into class late, not just late, but as if time itself did not concern him. his walk was awkward, not bizarre, but confident in a way that felt unearned. he had long hair, was tall, and carried himself as though he had already decided who he was. everything about him drew attention. and I resented that immediately.

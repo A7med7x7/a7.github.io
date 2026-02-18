@@ -1,5 +1,5 @@
 +++
-date = '2026-03-16T09:00:00+03:00'
+date = '2026-02-16T09:00:00+03:00'
 draft = false
 title = 'Sick of Yourself'
 descsription = 'most times, real change does not begin with ideas. it begins when you feel it in your bones. when staying the same becomes more painful than evolving. until then, growth is optional.'
