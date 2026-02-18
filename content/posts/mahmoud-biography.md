@@ -1,6 +1,6 @@
 +++
 date = '2026-02-14T03:13:17+03:00'
-draft = true
+draft = false
 title = 'Mahmoud Biography'
 +++
 

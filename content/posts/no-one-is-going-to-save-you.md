@@ -6,7 +6,7 @@ tags = ['introspection', 'avoidance', 'ego', 'growth', 'relationships']
 +++
 
 We carry this thought in the back of our heads. it is subtle. it is subconscious. it is so invisible that even when you write and write, trying to drag it from the subconscious into the conscious, it refuses to show itself clearly. instead, you only feel the symptoms, the void, the emptiness, the sense of being lost. but beneath all of that, there is something deeply rooted.
-
+<!--more-->
 The desire to be saved.
 
 It exists on a spectrum. there are people who admit it, and people who do not. for those who do not, it is an ego battle. admitting that you want someone to save you feels like shrinking. it feels like betrayal of the identity you built around strength. it breaks your pride. as we grow older, we see everyone performing [hyper independence](https://a7med7x7.github.io/posts/asking-for-help/). no one seems to need saving. everyone appears self sufficient, self regulated, self contained.
