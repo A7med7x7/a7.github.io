@@ -1,6 +1,6 @@
 +++
 date = '2026-01-25T16:30:00+03:00'
-draft = true
+draft = false 
 title = 'Veteran Of The World, Defeated Inside'
 tags = ['writing', 'faith', 'conflict']
 categories = ['reflection']
