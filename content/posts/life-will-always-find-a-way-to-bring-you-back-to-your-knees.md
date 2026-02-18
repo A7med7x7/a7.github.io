@@ -6,7 +6,7 @@ categories = ['reflection']
 +++
 
 Life will always find a way to bring you back to your knees, not with something dramatic. not with a perfectly timed tragedy. sometimes it is something small. something unexpected. something careless in its timing. a single comment. a memory. a failure. and suddenly you are back inside your head, remembering how hard it used to be to live there.
-
+<!--more-->
 It drags you to a middle point you thought you had already left behind. a place you spent months slowly walking away from. step by step. effort by effort. and in one night, it feels like all those steps disappear, in those moments, perspective collapses.
 
 You cannot zoom out. you cannot see how fortunate you are. you cannot calculate how statistically lucky your life might be. [gratitude](https://a7med7x7.github.io/posts/gratitude-register/) feels artificial. logic feels distant. your [reasoning becomes cloudy](https://a7med7x7.github.io/posts/never-losing-control-between-good-and-bad/#:~:text=there%20were%20moments%20when%20emotion%20clouded%20my%20reasoning), almost unreachable.

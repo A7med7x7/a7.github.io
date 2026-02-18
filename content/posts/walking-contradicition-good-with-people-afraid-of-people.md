@@ -6,7 +6,7 @@ categories = ['identity', 'relationships', 'reflection']
 +++
 
 Recently, a friend (North) told me something that summarized almost every failed attempt I had at explaining myself in relationships. he said although I wonder around and communicate, I am not dependent on being loved, and I am not dependent on being liked by everyone. and indeed I do not move through life chasing validation or needing reassurance that I matter.
-
+<!--more-->
 He began describing how some personality types, like ENTPs, form relationships effortlessly and move through them without much internal conflict. then he pointed at something about me. I am introverted, but not in the awkward or withdrawn way people expect. I can hold conversations. I can engage. I can speak clearly and [diplomatically](https://a7med7x7.github.io/posts/2025-in-five-words/#:~:text=the%20five%20words.-,Diplomacy,-Looking%20back%2C%20I). in many social settings, I can even appear extroverted. yes, social events drain my energy, but you would not necessarily see that from the outside.
 
 That is where the contradiction starts, when I am around people, they often think we could make [really good friends](https://a7med7x7.github.io/posts/being-kind-doesnt-mean-i-want-to-be-close/). and honestly, they are not wrong. I can connect well. I can understand people deeply. I can be present and attentive. from the outside, I look like someone emotionally available and socially capable.

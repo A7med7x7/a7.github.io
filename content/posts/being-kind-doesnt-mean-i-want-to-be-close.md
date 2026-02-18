@@ -1,5 +1,5 @@
 +++
-date = '2026-02-07T14:00:00+03:00'
+date = '2026-01-07T14:00:00+03:00'
 draft = false
 title = "Being Kind Doesn't Mean I Want to Be Close"
 tags = ['reflection', 'boundaries', 'kindness']
