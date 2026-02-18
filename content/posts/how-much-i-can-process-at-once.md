@@ -5,7 +5,9 @@ title = 'How Much Can I Process at Once'
 description = 'This part is a note on between obsession and Avoidance, I can either obsess over everything that is broken inside me, or pretend none of it exists. I have tried both. neither extremes works. this is me figuring out the middle.'
 +++
 
-There is so much to think about and to process. sometimes it feels as if my mind is a hallway filled with doors, and each door contains a different version of my past. every time I open one, it demands attention. it does not politely wait. it spills out memories, emotions, patterns, unfinished conversations, hidden grief. and the problem is not that I cannot open the doors. the problem is that once one is open, I cannot open another without closing the first.
+There is so much to think about and to process. sometimes it feels as if my mind is a hallway filled with doors, and each door contains a different version of my past. every time I open one, it demands attention. it does not politely wait.
+<!--more-->
+it spills out memories, emotions, patterns, unfinished conversations, hidden grief. and the problem is not that I cannot open the doors. the problem is that once one is open, I cannot open another without closing the first.
 
 If I try to open two at the same time, I collapse. the weight becomes unbearable. the thoughts begin to overlap. the emotions bleed into each other. I start to feel mental pressure that is hard to endure. it is not dramatic madness. it is quieter than that. it is exhaustion. the kind that sits in the body before it reaches the mind.
 

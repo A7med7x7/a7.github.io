@@ -1,7 +1,7 @@
 +++
 date = '2026-03-17T05:10:00+03:00'
-draft = true
 title = 'No One Is Going To Save You'
+draft = true
 tags = ['introspection', 'avoidance', 'ego', 'growth', 'relationships']
 +++
 
@@ -33,7 +33,7 @@ Back in 2019, I resonated deeply with a quote that said:
 
 > sometimes I disappear, but in reality, what I really want, is to be found.
 
-At the time, I did not fully understand why it struck me so hard. now I do. when I examine my constant [avoidance pattern](https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/) that harmed all [my relationships](https://a7med7x7.github.io/posts/i_keep_failing_the_people_i_care_about/), I see that at its core was not indifference. it was fear mixed with desire. avoidant people disappear when emotions intensify. when attachment grows. when fear creeps in. they withdraw but they are still human. they still want someone to notice their absence. they still want someone to understand the parts they cannot articulate. they still want help understanding themselves so they do not feel lost inside their own architecture.
+At the time, I did not fully understand why it struck me so hard. now I do. when I examine my constant [avoidance pattern](https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/) that harmed all [my relationships](https://a7med7x7.github.io/posts/i-keep-failing-the-people-i-care-about/), I see that at its core was not indifference. it was fear mixed with desire. avoidant people disappear when emotions intensify. when attachment grows. when fear creeps in. they withdraw but they are still human. they still want someone to notice their absence. they still want someone to understand the parts they cannot articulate. they still want help understanding themselves so they do not feel lost inside their own architecture.
 
 The contradiction is painful, you push people away, yet you want them to find you. you close doors, yet you hope someone will knock persistently enough. you project independence, yet you crave rescue. and because this contradiction is uncomfortable, you often deny it.
 
