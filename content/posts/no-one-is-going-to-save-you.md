@@ -1,7 +1,7 @@
 +++
-date = '2026-03-17T05:10:00+03:00'
+date = '2026-02-17T05:10:00+03:00'
 title = 'No One Is Going To Save You'
-draft = true
+draft = false
 tags = ['introspection', 'avoidance', 'ego', 'growth', 'relationships']
 +++
 

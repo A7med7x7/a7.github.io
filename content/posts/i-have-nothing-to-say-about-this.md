@@ -1,5 +1,5 @@
 +++
-date = '2026-03-17T00:21:00+03:00'
+date = '2026-02-14T00:21:00+03:00'
 draft = false
 title = 'I Have Nothing To Say About This'
 tags = ['reflection', 'uncertainty']

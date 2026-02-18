@@ -1,5 +1,5 @@
 +++
-date = '2026-03-16T07:10:00+03:00'
+date = '2026-02-16T07:10:00+03:00'
 draft = false
 title = 'Life Will Always Find a Way To Bring You Back To Your Knees'
 categories = ['reflection']
