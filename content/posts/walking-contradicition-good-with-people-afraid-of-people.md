@@ -1,7 +1,7 @@
 +++
 date = '2026-02-18T15:12:58+03:00'
 draft = false
-title = 'Walking Contradicition - Good With People, Afraid of People'
+title = 'Walking Contradiction - Good With People, Afraid of People'
 categories = ['identity', 'relationships', 'reflection']
 +++
 
@@ -13,7 +13,7 @@ That is where the contradiction starts, when I am around people, they often thin
 
 But internally, I am not looking for more relationships, this is the conflict I struggle with. I am naturally good with people, yet I do not actively want people. I can create warmth, yet I am [afraid of attachment](https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/). I can appear open, yet [I guard my space fiercely](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/#:~:text=The%20first%20fence%20in%20the%20system%20is%20crucial). I can build connection, and then disappear for months without explanation.
 
-again I'm a walking contradiction, in one sense, it is a gift. being socially competent makes life easier. people feel comfortable around me. conversations flow naturally. there is mutual understanding. I do not struggle to create bonds, and I'm thankful for that.
+again I'm a walking Contradiction, in one sense, it is a gift. being socially competent makes life easier. people feel comfortable around me. conversations flow naturally. there is mutual understanding. I do not struggle to create bonds, and I'm thankful for that.
 
 But the same gift becomes a burden when it creates expectations, what scares me is not rejection. what scares me is someone wanting more. wanting continuity. wanting emotional consistency. wanting commitment in the form of regular presence.
 
