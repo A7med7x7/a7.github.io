@@ -24,7 +24,7 @@ This piece is the first to encounter when searching for what this term means. I 
 
 - **they don't sit with the tension, and they don't face what they did and what actually happened** *This explains the [selective ignorance](https://a7med7x7.github.io/posts/consenting_to_the_game_rules/#:~:text=selectively%20ignorant%2C-,selectively%20ignorant,-If%20you%20can) that I adapt* 
     
-- **they retreat into the one thing that makes them feel safe, which is disconnection**, *this explains many of my [disappearances](https://a7med7x7.github.io/posts/i_fear_the_person_i_will_become/#:~:text=ultimately%20the%20time%20with%20my%20loved)*
+- **they retreat into the one thing that makes them feel safe, which is disconnection**, *this explains many of my [disappearances](https://a7med7x7.github.io/posts/i-fear-the-person-i-will-become/#:~:text=ultimately%20the%20time%20with%20my%20loved)*
     
 - **because for an avoidant, the guilt, the loss, the shame, all of it, it doesn't hit them right in the same moment that it hits you**,*this explains my writing [state of numbness](https://a7med7x7.github.io/posts/state-of-numbness/)*
     

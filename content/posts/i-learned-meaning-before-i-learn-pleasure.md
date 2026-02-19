@@ -105,7 +105,7 @@ I try to ignore it. It only leads to more thinking. But it keeps knocking, relen
 
 > *When a tender affection has rooted itself in us over many years, the idea of exchanging it feels like a cheapening of life. We guard our affections and our constancy as we guard other treasures.*
 
-This [constant reshaping of my beliefs](https://a7med7x7.github.io/posts/i_fear_the_person_i_will_become/) and identity is exhausting.  I want to rest.  
+This [constant reshaping of my beliefs](https://a7med7x7.github.io/posts/i-fear-the-person-i-will-become/) and identity is exhausting.  I want to rest.  
 I am far beyond discovering small truths about myself. I am deep inside it now, and the this time the exchange of my feelings has never been harder.
 
 
