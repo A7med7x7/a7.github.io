@@ -1,7 +1,7 @@
 +++
 date = '2026-01-15T19:25:00+03:00'
 draft = false
-title = 'allowing myself to get lost'
+title = 'Allow Yourself to Get Lost'
 tags = ['reflection']
 +++
 
