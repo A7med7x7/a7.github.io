@@ -1,6 +1,6 @@
 +++
 date = '2026-02-17T16:45:29+03:00'
-draft = true
+draft = false
 title = 'Not Broken, Just SubOptimal'
 +++
 I do not complain about the life I am living.  
