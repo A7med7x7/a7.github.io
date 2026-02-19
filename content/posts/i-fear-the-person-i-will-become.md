@@ -1,7 +1,7 @@
 +++
 date = '2025-11-20T07:38:35+03:00'
 draft = false
-title = 'I fear the person I will become'
+title = 'I Fear The Person I Will Become'
 categories = ['reflection']
 +++
 The velocity at which I'm updating my beliefs about the world has never been known to be slow; saying "Oops" and updating my beliefs implies updating my behavior if needed. This oscillating pattern of behavior has been defining the kind and amount of love I receive in this world, updating a behavior is either bringing me joy by interacting with people, loving myself, or appreciating the world, or has led me to a series of overwhelm led by the need to solve the questions I’m cornered with.

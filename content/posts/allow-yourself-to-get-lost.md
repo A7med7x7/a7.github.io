@@ -1,0 +1,26 @@
++++
+date = '2026-01-15T19:25:00+03:00'
+draft = false
+title = 'allowing myself to get lost'
+tags = ['reflection']
++++
+
+A friend of mine called [Mahmoud](https://a7med7x7.github.io/posts/mahmoud-biography), I have loved this friend so much. unfortunately he was also a [victim of my constant avoidance](https://a7med7x7.github.io/posts/i-ran-because-you-mattered), but we are good now. Mahmoud and I were completely different personalities, yet something linked us at the core. thankfully to this relationship, I finally had a name for it. we were the only ones who allowed themselves to get lost.
+
+Since I was a kid, I carried this idea that I am a truth seeker. I wanted objective reality. I did not want to create my own version of it, and I did not want perception disguised as comfort.  I did not want culture local myths, I wanted what is real, even if it was uncomfortable. little me had no idea how difficult it is to make reality surface, so I clung to every tool that could help, theology, philosophy, logic, maths, rationality and any internal weapon that could sharpen my mental machinery to see what I could not see about myself or about the world.
+
+If I could not make sense of something, I would not [pick suboptimal answers](https://a7med7x7.github.io/posts/consenting_to_the_game_rules/#:~:text=in%20the%20future.-,That%20Will%20do,-My%20second%20advice) just to feel relief. I could not accept answers for comfort. I wanted answers I could believe in because they were true, and I refused to [ignore the questions](https://a7med7x7.github.io/posts/consenting_to_the_game_rules/#:~:text=selectively%20ignorant%2C-,Selectively%20Ignorant,-If%20you%20can). that was my curse. later I learned to be selectively ignorant for two reasons. I did not yet have the tools, and I did not want to dismiss the questions, so I kept them quietly in the back of my mind. at the same time, I could not live peacefully with answers that felt unstable.
+
+This tension created a [state of uncertainty](https://a7med7x7.github.io/posts/uncertainity) that followed me for years. confusion was always there. only later did I learn how to use selective ignorance and even temporary place holder answers in a healthier way, because sometimes there is no other way. that was when I truly started allowing myself to get lost. or should I say, getting lost was bearable
+
+I was around fifteen when I accepted that I do not have the answers yet, and that this is fine. I will keep wondering and wandering until I find them. allowing yourself to get lost means refusing to cling to beliefs and workarounds that have no solid reason to stand. many people cannot tolerate that space. they rush to hold onto something, anything, just to silence the noise in their heads.
+
+I realized early that feeling lost is terrifying. no one wants to walk around without answers. so people desperately look for something that feels stable. they create their own version of reality or cling to beliefs offered by culture or authority, not necessarily because they are accurate, but because uncertainty feels unbearable. since I was sixteen, I kept repeating one sentence: getting lost is a part of the journey.
+
+I knew that if I never allowed myself to get lost, I would never find what I was looking for. I was never interested in what simply made me feel good. I was interested in what was real, even if it scared me. that choice shaped the way I move through the world, it shaped the person I'm today.
+
+Now I see fear shaping many lives around me. people start courses, learn to code, choose niches, not because they wandered long enough to discover them, but because they are afraid of [sitting with their thoughts](https://a7med7x7.github.io/posts/the-condition-of-seeing/#:~:text=and%20just%20see%20reality%20as%20it%20is) and asking the harder questions. is this what I truly want. is this choice coming from certainty or from fear, am I doing it because I'm afraid of being missed out. those questions only appear when you allow yourself to get lost and admit that you do not know.
+
+I have walked most of my life [carrying questions without answers](https://a7med7x7.github.io/posts/i-have-nothing-to-say-about-this/). at first I thought something was wrong with me. maybe I was detached or slow. now I see that I was simply patient with uncertainty. I was not drifting aimlessly. I was searching for answers that could withstand doubt.
+
+If you do not have the workarounds for the skills you want, nor have the truths about the questions you seek, keep searching. validate what works and understand why it works. do not accept the first solution just because you are afraid of being lost. admit that you are lost. admit that you do not know yet. find friends who can say it out loud without shame. once you build resistance toward the fear of uncertainty, once you accept that everyone has different tolerance zones and different timelines, only then do you become unstoppable. only then you free yourself from fear.
