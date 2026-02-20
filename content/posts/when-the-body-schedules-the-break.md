@@ -18,7 +18,7 @@ What happened to me was what is called [psychosomatic manifestation](https://en.
 
 ## Heat Sink
 
-I've highlighted this phase of my life in [this writing](https://a7med7x7.github.io/posts/days_that_i_didnt_understand/). looking back, my body was clearly trying to warn me. everyone around me was warning me as well. they were warning me about the kind of lifestyle I was living.
+I've highlighted this phase of my life in [this writing](https://a7med7x7.github.io/posts/days-i-still-dont-understand/). looking back, my body was clearly trying to warn me. everyone around me was warning me as well. they were warning me about the kind of lifestyle I was living.
 
 I mentioned my brother and a friend of mine who both told me to go out, to see something beyond bombarding myself into work and self improvement.
 

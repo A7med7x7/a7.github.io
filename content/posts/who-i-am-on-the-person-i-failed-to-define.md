@@ -37,7 +37,7 @@ So I composed my own definition:
 
 It sounded reasonable. The personality type people kept tagging me with: INTP, seemed to fit: I rely on my own observations, I don’t take opinions easily, and my thinking is very inward, simply I don't trust people opinions at all. but some stereotypes didn’t match me at all. I wasn’t the person who hid from people out of fear, so I felt more “extroverted in behavior” compared to the descriptions I kept reading about how autistic INTP's are.
 
-Eventually, the whole MBTI framework stopped making sense. It couldn’t explain certain things I was going through. it turns out I might be even more autistic than average INTPs, I might even be a psychopathic, when I first experienced [social anxiety](https://a7med7x7.github.io/posts/days_that_i_didnt_understand/) in my life, it contradicted everything I thought I had figured out. It became clear that the framework didn’t have the complexity required to describe what was happening inside me.
+Eventually, the whole MBTI framework stopped making sense. It couldn’t explain certain things I was going through. it turns out I might be even more autistic than average INTPs, I might even be a psychopathic, when I first experienced [social anxiety](https://a7med7x7.github.io/posts/days-i-still-dont-understand/) in my life, it contradicted everything I thought I had figured out. It became clear that the framework didn’t have the complexity required to describe what was happening inside me.
 
 ## **I Don’t fit to Categories**
 
@@ -49,7 +49,7 @@ The complexity of my behavior needed something with more randomness, something w
 
 ## Appear as You Are, or Be as You Appear 2022
 
-Although experiencing social anxiety and noticing how introverted I am did help me believe more that I was finally confirmed as introverted and an INTP. but the framework had more holes in it, and I didn’t want to return to it. The second reason is that these recent experiences of sudden [shifts](https://a7med7x7.github.io/posts/days_that_i_didnt_understand/) in my personality and behavior added more complexity that needs a complex framework to unpack. back then, I was around 18 and really didn’t have the arsenal to dig deep, but I remember resonating with this quote from Rumi in search of who I am:
+Although experiencing social anxiety and noticing how introverted I am did help me believe more that I was finally confirmed as introverted and an INTP. but the framework had more holes in it, and I didn’t want to return to it. The second reason is that these recent experiences of sudden [shifts](https://a7med7x7.github.io/posts/days-i-still-dont-understand/) in my personality and behavior added more complexity that needs a complex framework to unpack. back then, I was around 18 and really didn’t have the arsenal to dig deep, but I remember resonating with this quote from Rumi in search of who I am:
 
 > Appear as you are, or be as you appear.
 

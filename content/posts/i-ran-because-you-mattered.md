@@ -5,7 +5,7 @@ title = 'I Ran Because You Mattered'
 +++
 
 A friend sent a link to our group chat at midnight on the last day of 2025. I joined along with everyone else. [Mahmoud](https://a7med7x7.github.io/posts/mahmoud-biography) was there. it had been a long time since we were all in one place, even if it was virtual. the call lasted three hours. we caught up, we laughed, we updated each other on life in the casual way people do when they pretend time has not passed.
-
+<!--more-->
 When most of them left, only four of us remained. Mahmoud was among them. the energy shifted. it was quieter. more personal. they asked me what I had been doing recently. it was a simple question, but I knew the honest answer immediately. I had been writing. almost obsessively. yes, there were other things in my life, but writing had become my priority.
 
 I told them something I had not told anyone so directly before. I told them I was finally starting to understand myself, yhen I shared something harder.

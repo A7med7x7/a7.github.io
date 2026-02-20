@@ -8,7 +8,7 @@ tags = ['relationships', 'independence']
 > What is the bravest thing you've ever said?
 > Help. Asking for help isn't giving up. It's refusing to give up.
 ― Charlie Mackesy  
-
+<!--more-->
 I have many thoughts about this. if I am honest, asking for help might have been the hardest skill I ever had to learn. there were situations where I was trapped, overwhelmed, or confused, yet the idea of asking for help never naturally appeared in my mind. it was not that there were no people around me. I had family. I had friends. I had older brothers. I had people who cared deeply. but asking for help felt foreign, almost unnatural.
 
 I think this traces back to how I grew up. I learned independence early. I handled things alone. I processed internally. I solved what I could quietly and endured what I could not. somewhere along the way, self-reliance became part of my identity. and identity is dangerous when it becomes rigid. because once you start seeing yourself as “the independent one,” asking for help feels like betrayal of who you think you are.

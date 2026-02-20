@@ -7,7 +7,7 @@ title = 'I Didnt Know it Was Hope'
 Looking back and comparing the now, I thought I've lost both hope and faith.
 Not the religious kind of faith, but the faith that there exists a way to make things out.  
 That there exists a way.
-
+<!--more-->
 Hope is a word that I've never stopped and thought about what it means.
 I don't see myself as someone hoping for things to go good.
 And I couldn't remember if I ever did.

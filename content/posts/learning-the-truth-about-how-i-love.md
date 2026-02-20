@@ -22,7 +22,7 @@ Your avoidant isn't fine, they're just numb, to you it registers as indifference
 
 This piece is the first to encounter when searching for what this term means. I find it very accurate to the point I feel discomfort that there is someone out there is able to describe me in words, to have the words and explanation that I didn't have, that I was searching for almost my entire life. I can see my own patterns here, by distilling this piece:
 
-- **they don't sit with the tension, and they don't face what they did and what actually happened** *This explains the [selective ignorance](https://a7med7x7.github.io/posts/consenting_to_the_game_rules/#:~:text=selectively%20ignorant%2C-,selectively%20ignorant,-If%20you%20can) that I adapt* 
+- **they don't sit with the tension, and they don't face what they did and what actually happened** *This explains the [selective ignorance](https://a7med7x7.github.io/posts/consenting-to-the-game-rules/#:~:text=selectively%20ignorant%2C-,selectively%20ignorant,-If%20you%20can) that I adapt* 
     
 - **they retreat into the one thing that makes them feel safe, which is disconnection**, *this explains many of my [disappearances](https://a7med7x7.github.io/posts/i-fear-the-person-i-will-become/#:~:text=ultimately%20the%20time%20with%20my%20loved)*
     

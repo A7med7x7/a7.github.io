@@ -1,5 +1,5 @@
 +++
-title = "Days That I Don’t Understand"
+title = "Days I Still Don’t Understand"
 date = "2025-11-21T00:00:00+03:00"
 draft = false
 tags = ["anxiety", "personal"]

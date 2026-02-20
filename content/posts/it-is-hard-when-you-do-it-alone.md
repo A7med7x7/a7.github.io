@@ -5,7 +5,7 @@ title = 'It is Hard When You Do It Alone'
 +++
 
 There is something that can make everything harder. take a problem that is manageable, something you can think through, something you can slowly untangle. now add one variable to it. add doing it alone. suddenly the same situation feels heavier. the same thoughts feel darker. the same obstacle feels impossible. changing alone, healing alone, fighting yourself alone, these do not simply double the weight. they multiply it.
-
+<!--more-->
 Whenever I try to overcome something that has always blocked me, I feel that weight clearly. it is not only the problem itself. it is the loneliness around it. the weight of doing it alone. the silence that amplifies every doubt. there is something exhausting about trying to outgrow yourself in isolation.
 
 One pattern I recognized early in my life is that living in my head is directly proportional to my isolation. they work in both directions. when I am not socially active, I drown in my thoughts. when I drown in my thoughts, I withdraw socially. it becomes a loop. I would sit in my room trying to make sense of something I could not even properly name. the thoughts would grow larger, heavier, more dramatic than they probably were.

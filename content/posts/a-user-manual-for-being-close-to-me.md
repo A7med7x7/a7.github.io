@@ -6,6 +6,7 @@ title = 'A User Manual for Being Close to Me'
 categories = ['personal']
 tags = [ 'relationships']
 +++
+
 I basically [ruined all the friendships](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=All%20the%20cool%20friends%20I%20could%E2%80%99ve%20made) I had since I was a kid, and it is me who is the problem, not the people, although I kept myself busy to the point where I don’t [feel it](https://a7med7x7.github.io/posts/state-of-numbness/) most of the time, alongside guilt and fear of making new friendships.
 <!--more-->
 I started to drop people before [the cycle](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=then%20stop%20trying.-,This%20cycle,-of%20people%20showing) of me starting to get cold and avoidant begins, which would eventually ruin the friendships or relationships anyway.

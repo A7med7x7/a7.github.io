@@ -14,7 +14,7 @@ I went to the airport feeling completely [numb](https://a7med7x7.github.io/posts
 
 For the first time, my feelings rushed without control, without regulation, without avoidance; I got to see how vulnerable I was. With everything I had repressed before, the very distinct thought in my head was translated as: _“I don’t know what to do with my life anymore.”_ It felt like I had lost myself. It felt like there was an important definition in my life that was suddenly gone. Even though the tears subside, writing this was never easy. I’ve tried to interpret what happened that day many times before, but most of the time I avoided thinking about it. Even now, while writing this, remembering it makes me cry like a child.
 
-The days after he left were empty. I felt depressed and had no motivation to do anything. This eventually developed into severe [social anxiety](https://a7med7x7.github.io/posts/days_that_i_didnt_understand/). I dragged myself into a cycle of illnesses and panic attacks that didn’t stop.
+The days after he left were empty. I felt depressed and had no motivation to do anything. This eventually developed into severe [social anxiety](https://a7med7x7.github.io/posts/days-i-still-dont-understand/). I dragged myself into a cycle of illnesses and panic attacks that didn’t stop.
 
 For almost four years, I hid my pain from him, how the days felt when he wasn’t around. I focused on how happy he seemed exploring a new world. I wanted to match his happy feelings, but two months ago, during a FaceTime call, the conversation suddenly shifted to the day he left. I was triggered and cried like a child again. I had never healed from the emotions I kept avoiding; they were always there, repressed.
 

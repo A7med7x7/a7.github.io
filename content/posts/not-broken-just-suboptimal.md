@@ -10,7 +10,7 @@ now I look inward and stay there.
 and sometimes a quiet question rises.  
 what if I never stopped blaming the world and allowed it to carry my pain for me.  
 what if naming the environment was easier than naming myself.
-
+<!--more-->
 I am good at building a small bubble where I have autonomy.  
 I choose carefully.  
 I cherry pick moments, people, ideas.  

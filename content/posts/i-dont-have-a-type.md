@@ -6,7 +6,7 @@ categories = ['friendship', 'identity', 'reflection']
 +++
 
 People often mistake my quiet and nerdy appearance for having a specific type. they assume I prefer introverted friends, or that I naturally gravitate toward people who love science, numbers, psychology, and all the things I seem to be interested in. they think similarity is the easiest way to reach me.
-
+<!--more-->
 But the truth is much simpler than that. I do not have a particular type of people. I am not picky about my friends. in fact, most of my friends are quite the opposite of me. they are loud, playful, extroverted, and often into anything but science and numbers. and I genuinely enjoy that. I do not need similarity to feel connected.
 
 Sometimes I even feel sorry. when disciplined and nerdy people approach me thinking that if they talk about technical topics or intellectual ideas, that will automatically interest me and create a bridge between us. when I am not fully engaged, I feel like I am disappointing them. I do not like that feeling.
