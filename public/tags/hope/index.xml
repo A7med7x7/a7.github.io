@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hope on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/tags/hope/</link>
+    <description>Recent content in Hope on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Fri, 28 Nov 2025 07:38:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hope/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helping as an Escape</title>
+      <link>http://localhost:1313/posts/helping-as-an-escape/</link>
+      <pubDate>Fri, 28 Nov 2025 07:38:35 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/helping-as-an-escape/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Sister Calderon: I don&amp;rsquo;t know but..whenever we happen to meet you&amp;rsquo;re always helping people and smiling.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

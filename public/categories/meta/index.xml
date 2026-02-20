@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/categories/meta/</link>
+    <description>Recent content in Meta on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Mon, 08 Dec 2025 13:32:58 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Learned Meaning Before I Learn Pleasure</title>
+      <link>http://localhost:1313/posts/i-learned-meaning-before-i-learn-pleasure/</link>
+      <pubDate>Mon, 08 Dec 2025 13:32:58 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/i-learned-meaning-before-i-learn-pleasure/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;There is a famous Viktor Frankl quote:&lt;br&gt;&#xA;&lt;em&gt;“When a man can’t find a deep sense of meaning, he distracts himself with pleasure.”&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Where You Are Allowed To Be You</title>
+      <link>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</link>
+      <pubDate>Thu, 06 Nov 2025 23:15:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/where_you_are_allowed_to_be_you/</guid>
+      <description>&lt;p&gt;To nerd out and talk about a particular topic that you are deeply interested in/ obsessed with, requires you to unveil part of yourself. Your personality, your affection, your love for that topic. Often, it feels like dancing in the symphony of that subject(my analogy is very consumed, but I feel it holds true here).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I’m Sharing Notes - Reflection </title>
+      <link>http://localhost:1313/posts/why-i-do-this/</link>
+      <pubDate>Thu, 04 Sep 2025 09:32:11 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/why-i-do-this/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;do things badly&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;As the years pass by, I find myself adapting to different reasons to keep living, and to share, I&amp;rsquo;m not as clear as I used to be about why I should be posting something publicly, but looking back over the years, I recall how writing started. How reasons changed.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

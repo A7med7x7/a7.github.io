@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Draft on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/tags/draft/</link>
+    <description>Recent content in Draft on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Tue, 06 May 2025 12:19:23 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/draft/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>21</title>
+      <link>http://localhost:1313/posts/21/</link>
+      <pubDate>Tue, 06 May 2025 12:19:23 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/21/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s May 6, and I will be turning 21 in less than a month.&#xA;I used to document at this time of the year, where I try as much as possible to reflect on the progress made this year, perhaps my learning process.&#xA;Alhamdullah, I have learned a lot. And I have tales to tell, but hopefully, choosing the most significant one will find a wider audience and fit.&#xA;I will talk in 3s three categories and 3 notes&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

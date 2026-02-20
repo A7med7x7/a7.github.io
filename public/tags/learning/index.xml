@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/tags/learning/</link>
+    <description>Recent content in Learning on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Wed, 29 Oct 2025 15:31:42 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I&#39;m Sharing Notes - Cognitive Overload</title>
+      <link>http://localhost:1313/posts/why-im-sharing-notes-cognitive-overload/</link>
+      <pubDate>Wed, 29 Oct 2025 15:31:42 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/why-im-sharing-notes-cognitive-overload/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;Learn to write, I’m dead serious about that, because… pick some hard problems and learn to write very, very carefully. when I say pay attention to the word, I mean that pick the right words, organize them into the right phrases and get your sentences straight. read and write everyday and see if you can discover what is true.&lt;/p&gt;&#xA;&lt;p&gt;Jordan Peterson&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>A Quiet Advantage Of Being Left Handed</title>
+      <link>http://localhost:1313/posts/a-quite-advantage-of-being-left-handed/</link>
+      <pubDate>Wed, 03 Jul 2024 23:00:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/a-quite-advantage-of-being-left-handed/</guid>
+      <description>&lt;p&gt;It took me about a month to realize something small but surprisingly important. being left handed is a quiet advantage if you are a teacher, a professor, or anyone who lectures using a board.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

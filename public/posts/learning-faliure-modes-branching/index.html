@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>
+Learning Faliure Modes - Branching | A.Alghali
+</title>
+
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Personal notes on technical experiments, reflections, and field reports by Ahmed Alghali.">
+
+<meta name="generator" content="Hugo 0.148.2">
+
+
+<link rel="canonical" href="http://localhost:1313/posts/learning-faliure-modes-branching/" >
+
+
+
+
+<link href="/css/style.min.2d352d65524351c933d4a977fa362bc0a4b8089ae4b813426ccbcf92d5d19d04.css" rel="stylesheet">
+
+
+<link href="https://db.onlinewebfonts.com/c/e08e1402197c87523c042e4fcb918b83?family=WarnockPro-Regular" rel="stylesheet" type="text/css"/>
+
+<link href="https://db.onlinewebfonts.com/c/da37ece2c2d94c1b6b00561df8435b3f?family=Warnock+Pro+Bold+Display" rel="stylesheet" type="text/css"/>
+
+<link href="https://db.onlinewebfonts.com/c/italic-font-link" rel="stylesheet" type="text/css"/>
+
+
+<style>
+    :root {
+        --theme-color: blue;
+    }
+</style>
+
+
+<style>
+    body {
+        font-family: "WarnockPro-Regular", serif;
+    }
+
+    h1, h2, h3, h4, h5, h6, strong {
+        font-family: "Warnock Pro Bold Display", serif;
+    }
+
+    em, i {
+        font-family: "WarnockPro-Italic", serif;
+    }
+</style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+<link href="https://db.onlinewebfonts.com/c/e08e1402197c87523c042e4fcb918b83?family=WarnockPro-Regular" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="/css/custom-ui.css?v=20260214-7">
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:1313/posts/learning-faliure-modes-branching/">
+<meta property="og:site_name" content="Ahmed Alghali Blog">
+<meta property="og:title" content="Learning Faliure Modes - Branching">
+<meta property="og:description" content="This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying …">
+
+
+
+  
+  
+  
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <meta property="og:image" content="https://placehold.co/1200x630/111827/F9FAFB/png?font=playfair-display&amp;text=Learning&#43;Faliure&#43;Modes&#43;-&#43;Branching%0AApril&#43;12%2C&#43;2024">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Learning Faliure Modes - Branching">
+
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://localhost:1313/posts/learning-faliure-modes-branching/">
+<meta property="twitter:title" content="Learning Faliure Modes - Branching">
+<meta property="twitter:description" content="This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying …">
+<meta property="twitter:image" content="https://placehold.co/1200x630/111827/F9FAFB/png?font=playfair-display&amp;text=Learning&#43;Faliure&#43;Modes&#43;-&#43;Branching%0AApril&#43;12%2C&#43;2024">
+<meta property="twitter:image:alt" content="Learning Faliure Modes - Branching">
+
+
+
+</head>
+
+<body>
+
+    <div class="flexWrapper">
+        <header class="headerWrapper">
+    <div class="header">
+        <div>
+            <a class="terminal" href="/">
+                <span>a7@github.io ~ $</span>
+            </a>
+        </div>
+        <input class="side-menu" type="checkbox" id="side-menu">
+        <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+        <nav class="headerLinks">
+            <ul>
+                
+                <li>
+                    <a href="http://localhost:1313/posts" title="" >
+                        ~/blogs</a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</header>
+
+
+        <div class="content">
+            <main class="main">
+                
+<div class="postWrapper">
+    <h1 class="postPageTitle">Learning Faliure Modes - Branching</h1>
+    
+
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <section class="postMetadata">
+        <dl>
+            
+            
+            
+                
+<dt>categories</dt>
+<dd><span></span>
+    <a href="/categories/field-notes/">Field Notes</a></dd>
+            
+            
+                <dt>published</dt>
+                
+                <dd><time datetime="2024-04-12">April 12, 2024</time></dd>
+            
+            
+                <dt>reading time</dt>
+                <dd>6 minutes</dd>
+            
+        </dl>
+    </section>
+    
+    <div class="postBody">
+        <p>This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying useful techniques.</p>
+<p>Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. and I plan to study neuroscience some day, but as for now I want to share what I&rsquo;ve learned by myself, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. the road of learnign was lonely, paved with faliure moods, it was an experimentation based road.</p>
+<p>These lessons are carefully tested, and they worked many times for me. they were filtered among many others. they might not be as solid as those relying on science and proof. unfortunately, I don’t have data to show you. my experience is the data.</p>
+<h2 id="branching--about-the-problem">Branching – About the problem</h2>
+<p>Have you ever wanted to read about one particular topic, let’s say the 
+<a href="https://en.wikipedia.org/wiki/Mitochondrion" target="_blank" rel="noopener">mitochondria</a>
+, but only 10 minutes later you found yourself reading about 
+<a href="https://en.wikipedia.org/wiki/Universe" target="_blank" rel="noopener">how the universe started</a>
+?, do you see yourself as someone who keeps adding more courses to their enrollment list, barely finishing one?</p>
+<p>You might be watching a lecture intended for machine learning, then applying it practically to a fluid dynamics problem in physics. soon, you find yourself wanting to understand how fluid dynamics actually work, and you might spend a week or two studying it. this is what I call the <em>branching problem</em>. I named it this way because branching implies deviating from the origin.</p>
+<p>This does not necessarily mean that visiting branches results in no information, nor should it be seen as pure distraction. In fact, this is what makes it a hidden trap. You feel productive and even special by branching into topics, and you may never feel that you are doing anything wrong.</p>
+<p>What you read on the side often deepens your understanding of the original topic, it feeds your curiosity and exploration drive. This is why the problem is subtle and invisible.</p>
+<p>The tactics I learned here helped me mitigate this issue.</p>
+<h2 id="what-is-bad-about-it">What is bad about it</h2>
+<p>It keeps you from finishing what you started.
+It adds more complexity than needed.<br>
+It expands the time you spend learning a topic.<br>
+When you finally finish, you realize you barely scratched the surface.</p>
+<h2 id="diagnosis">Diagnosis</h2>
+<p>The reasons I can caount to fell into this branching trap are:</p>
+<ul>
+<li>
+<p><strong>Self-taught</strong><br>
+I learned how to study by myself from an early age. This led me to apply the freedom I felt while taking online courses at my own pace to the real world. I would deeply search niche topics that were sometimes irrelevant to what I was supposed to study.<br>
+I assume this happens most when you are not rushed by an academic semester, paper deadlines, or projects. I consider this the root of the problem, the freedom.</p>
+</li>
+<li>
+<p><strong>Curiosity</strong><br>
+Curiosity is the fuel of exploration. naturally curious people cannot easily ignore the voices in their heads. they start investigating interesting topics they hear about, and this leads to branching.<br>
+You hear about something interesting, and suddenly you are hooked. ten minutes later, you are in a new subject out of curiosity. you know why they say curiosity killed the cat.</p>
+</li>
+<li>
+<p><strong>Perfectionism</strong><br>
+Sometimes this comes from fear. it might be rooted in childhood experiences, such as being asked a question during a presentation and not knowing the answer.<br>
+this can lead you to read everything linked to your topic because you fear being judged for a lack of understanding or depth, often disguised as fear of a lack of professionalism.</p>
+</li>
+<li>
+<p><strong>Mastery</strong><br>
+This is the obsession with knowing everything related to a topic. I can’t clearly categorize it as healthy or unhealthy, but it is different from perfectionism.</p>
+</li>
+<li>
+<p><strong>Generalist mentality</strong><br>
+If you believe that reading everything is useful and aspire to become a polymath, you may fall into this trap due to poor content management. the more you branch, the more productive you feel.</p>
+</li>
+<li>
+<p><strong>Exploration</strong><br>
+I find this to be the least problematic reason. ror example, if you are trying to choose a master’s program and can’t find the right niche, your branching might continue until you do.
+In this case, branching can actually help. just be careful if you are doing it subconsciously.</p>
+</li>
+<li>
+<p><strong>Boredom</strong>
+Sometimes it is a dopamine issue. you keep branching until you find something interesting. this is usually temporary and less relevant.<br>
+But if low dopamine levels consistently lead you to branch, you might want to reflect on that behavior.</p>
+</li>
+</ul>
+<p>These reasons, filtered through critical thinking, can explain why you fall into the branching problem.</p>
+<h2 id="the-solution">The solution</h2>
+<p>There are two approaches I found useful.</p>
+<h2 id="selective-ignorance">Selective ignorance</h2>
+<p>Selective ignorance means deliberately ignoring branches for later. you tell yourself, <em>I will worry about this later</em>, either when it becomes urgent or when you have free time after reaching a milestone.
+Silencing your mind is not something you can do immediately. you train yourself over time. you make a commitment that when reading, you will not follow hyperlinks and will finish the main material first. it took me around four months to master this after deciding to change this pattern.</p>
+<h3 id="how-to-apply">How to apply</h3>
+<p>The idea is not to ignore knowledge forever, but to prioritize what is important <em>now</em>. I silence the internal voices that push me to branch. over time, you develop a sense of when you are falling into this pattern. the only way out is to deliberately ignore those voices.</p>
+<h3 id="about-the-added-complexity">About the added complexity</h3>
+<p>When you branch without finishing the topic at hand, you add unnecessary complexity and lose your way in understanding the topic. when you are learning the sequence of topics actually matters, lets say you are studying the machine learning and this is the plan you found online</p>
+<ol>
+<li>Data collection and reading</li>
+<li>Data cleaning and preprocessing</li>
+<li>Model selection (baseline)</li>
+<li>Training</li>
+<li>Evaluation</li>
+</ol>
+<p>If you follow this sequence, each step answers questions raised by the previous one, If instead, while learning preprocessing, you branch into optimization theory, then convex analysis, and then orthogonal matrices, you quickly introduce massive complexity. soon, you may start questioning everything. this is similar to how people passionate about game development eventually find themselves studying eigenvalues and eigenvectors. by the time you return to preprocessing, you have surface level knowledge of many advanced ideas but no clear mental model of <em>why preprocessing exists in the pipeline</em>.</p>
+<blockquote>
+<p>The complexity wasn’t inherent to machine learning.<br>
+It was <strong>introduced by breaking the learning order</strong>.</p></blockquote>
+<p>This leads to the frustration you already know.</p>
+<h2 id="surgical-understanding">Surgical understanding</h2>
+<p>Sometimes you cannot move strictly sequentially. some topics genuinely depend on branching, or you feel a strong urge to look behind the curtain. in this case, branching should be surgical. you answer only basic questions: <em>what is this</em>, and <em>how does it relate to what I’m learning right now</em>.</p>
+<p>I learned this after practicing selective ignorance. looking back, the emergence of LLMs helped, as they make it easy to get a concept in a nutshell. however, surgical understanding will never give you a full explanation, especially if you are driven by mastery or perfectionism. these summaries can tease you into deeper exploration.</p>
+<p>The key is to avoid falling into infinite searching and branching.</p>
+    </div>
+</div>
+
+            </main>
+        </div>
+
+
+        <footer class="footer">
+    
+        <span>
+            © 2026 A.Alghali, Built with
+            <a href="https://gohugo.io" class="footerLink">Hugo</a> and
+            <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme
+        </span>
+    
+</footer>
+    </div>
+
+</body>
+
+</html>

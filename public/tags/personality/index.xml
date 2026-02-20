@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personality on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/tags/personality/</link>
+    <description>Recent content in Personality on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Fri, 20 Feb 2026 04:15:10 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personality/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>For the Once Who Where Build to Explore</title>
+      <link>http://localhost:1313/posts/for-the-once-who-where-build-to-explore/</link>
+      <pubDate>Fri, 20 Feb 2026 04:15:10 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/for-the-once-who-where-build-to-explore/</guid>
+      <description>&lt;p&gt;There is something interesting about a certain kind of people. they are flexible in a way that makes them difficult to categorize. as if they were not built to fit into a single rule, a single system, or a single identity. I still cannot give them a perfect name, because they blend too many traits at once. they are curious, exploratory, internally alive, purposeful, often generalists, and deeply adaptive. they are not built for a narrow lane. they are built for terrain.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

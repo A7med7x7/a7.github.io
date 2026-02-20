@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Philosphy on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/tags/personal-philosphy/</link>
+    <description>Recent content in Personal Philosphy on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Thu, 06 Nov 2025 22:30:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/personal-philosphy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Limits of the Regret Minimization Framework</title>
+      <link>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</link>
+      <pubDate>Thu, 06 Nov 2025 22:30:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/</guid>
+      <description>&lt;p&gt;When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to determine which event we should choose. Some people study the implications of each decision and measure how rewarding or penalizing the outcomes might be. Picking the least penalty is a tactic for choosing a decision under this scenario.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

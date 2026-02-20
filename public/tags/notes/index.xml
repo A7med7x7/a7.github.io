@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on Ahmed Alghali Blog</title>
+    <link>http://localhost:1313/tags/notes/</link>
+    <description>Recent content in Notes on Ahmed Alghali Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>ahmed@offsechq.com (A.Alghali)</managingEditor>
+    <webMaster>ahmed@offsechq.com (A.Alghali)</webMaster>
+    <lastBuildDate>Sat, 14 Feb 2026 21:35:00 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes on Writing - Connecting Notes</title>
+      <link>http://localhost:1313/posts/notes-on-writing-connecting-notes/</link>
+      <pubDate>Sat, 14 Feb 2026 21:35:00 +0300</pubDate><author>ahmed@offsechq.com (A.Alghali)</author>
+      <guid>http://localhost:1313/posts/notes-on-writing-connecting-notes/</guid>
+      <description>&lt;p&gt;Some of the things that force clarity of mind in writing are not the words only and the choice of words, but the links between them. linking notes is not a decorative feature. it is structural. it allows thought to move from being scattered into being shaped. this is something that can hardly be utilized in regular note taking apps, but when you use a more sophisticated system or a personal blog, you allow this feature to exist naturally.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

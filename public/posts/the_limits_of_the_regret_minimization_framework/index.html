@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <title>
+The Limits of the Regret Minimization Framework | A.Alghali
+</title>
+
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Personal notes on technical experiments, reflections, and field reports by Ahmed Alghali.">
+
+<meta name="generator" content="Hugo 0.148.2">
+
+
+<link rel="canonical" href="http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/" >
+
+
+
+
+<link href="/css/style.min.2d352d65524351c933d4a977fa362bc0a4b8089ae4b813426ccbcf92d5d19d04.css" rel="stylesheet">
+
+
+<link href="https://db.onlinewebfonts.com/c/e08e1402197c87523c042e4fcb918b83?family=WarnockPro-Regular" rel="stylesheet" type="text/css"/>
+
+<link href="https://db.onlinewebfonts.com/c/da37ece2c2d94c1b6b00561df8435b3f?family=Warnock+Pro+Bold+Display" rel="stylesheet" type="text/css"/>
+
+<link href="https://db.onlinewebfonts.com/c/italic-font-link" rel="stylesheet" type="text/css"/>
+
+
+<style>
+    :root {
+        --theme-color: blue;
+    }
+</style>
+
+
+<style>
+    body {
+        font-family: "WarnockPro-Regular", serif;
+    }
+
+    h1, h2, h3, h4, h5, h6, strong {
+        font-family: "Warnock Pro Bold Display", serif;
+    }
+
+    em, i {
+        font-family: "WarnockPro-Italic", serif;
+    }
+</style>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+<link href="https://db.onlinewebfonts.com/c/e08e1402197c87523c042e4fcb918b83?family=WarnockPro-Regular" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="/css/custom-ui.css?v=20260214-7">
+
+
+
+
+
+
+
+  
+    
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/">
+<meta property="og:site_name" content="Ahmed Alghali Blog">
+<meta property="og:title" content="The Limits of the Regret Minimization Framework">
+<meta property="og:description" content="When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to …">
+
+
+
+  
+  
+  
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <meta property="og:image" content="https://placehold.co/1200x630/111827/F9FAFB/png?font=playfair-display&amp;text=The&#43;Limits&#43;of&#43;the&#43;Regret&#43;Minimization&#43;Framework%0ANovember&#43;6%2C&#43;2025">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="The Limits of the Regret Minimization Framework">
+
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://localhost:1313/posts/the_limits_of_the_regret_minimization_framework/">
+<meta property="twitter:title" content="The Limits of the Regret Minimization Framework">
+<meta property="twitter:description" content="When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to …">
+<meta property="twitter:image" content="https://placehold.co/1200x630/111827/F9FAFB/png?font=playfair-display&amp;text=The&#43;Limits&#43;of&#43;the&#43;Regret&#43;Minimization&#43;Framework%0ANovember&#43;6%2C&#43;2025">
+<meta property="twitter:image:alt" content="The Limits of the Regret Minimization Framework">
+
+
+
+</head>
+
+<body>
+
+    <div class="flexWrapper">
+        <header class="headerWrapper">
+    <div class="header">
+        <div>
+            <a class="terminal" href="/">
+                <span>a7@github.io ~ $</span>
+            </a>
+        </div>
+        <input class="side-menu" type="checkbox" id="side-menu">
+        <label class="hamb" for="side-menu"><span class="hamb-line"></span></label>
+        <nav class="headerLinks">
+            <ul>
+                
+                <li>
+                    <a href="http://localhost:1313/posts" title="" >
+                        ~/blogs</a>
+                </li>
+                
+            </ul>
+        </nav>
+    </div>
+</header>
+
+
+        <div class="content">
+            <main class="main">
+                
+<div class="postWrapper">
+    <h1 class="postPageTitle">The Limits of the Regret Minimization Framework</h1>
+    
+
+    
+        
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <section class="postMetadata">
+        <dl>
+            
+                
+<dt>tags</dt>
+<dd><span></span>
+    <a href="/tags/decision-making/">#Decision Making</a><span></span>
+    <a href="/tags/personal-philosphy/">#Personal Philosphy</a><span></span>
+    <a href="/tags/frameworks/">#Frameworks</a></dd>
+            
+            
+            
+                
+<dt>categories</dt>
+<dd><span></span>
+    <a href="/categories/thought/">Thought</a></dd>
+            
+            
+                <dt>published</dt>
+                
+                <dd><time datetime="2025-11-06">November 6, 2025</time></dd>
+            
+            
+                <dt>reading time</dt>
+                <dd>2 minutes</dd>
+            
+        </dl>
+    </section>
+    
+    <div class="postBody">
+        <p>When making decisions in life, especially when we are faced with selecting between two events, we find ourselves comparing how important they are in order to determine which event we should choose. Some people study the implications of each decision and measure how rewarding or penalizing the outcomes might be. Picking the least penalty is a tactic for choosing a decision under this scenario.</p>
+<p>I first encountered this three years ago in one of Jeff Bezos’s interviews. he called it the <em>
+<a href="https://youtu.be/jwG_qR6XmDQ?si=A_cH7C8Bqqwh94Zc" target="_blank" rel="noopener">Regret Minimization Framework.</a>
+</em></p>
+<p>This tactic can be used on a smaller scale, even in daily decisions like getting out of bed or not. I’m sure you’ve used this tactic today in your own decision making process as a kind of mental tool. Usually, it helps me clarify priorities and take action with confidence. But what I’m here to share is a funny story: for the very first time, I was unable to use this utility in my decision making process.</p>
+<p>Two events were taking place in the same hour block the next morning (8:00 AM). To make a decision, I defaulted my brain to use the regret minimization method. Unfortunately, the two events were equally likely in their consequences, at least from what my mind could list. Of course, life can have consequences that shows the advantages of one selection over the another, but I’m yet to know this and I need to make decisions under what I only know, and able to consider at the particular time I’m given this.</p>
+<p>It felt exactly like how mathematical reasoning falls apart when dividing by zero, or how classical physics fails to explain things at small scales. This dilemma, of having two equally important events with either equally likely outcomes or vague consequences, made the regret minimization method fail completely. And honestly, that was a funny realization, because I’m rarely hesitant in making decisions. I know exactly what if I want to make a decision over another.</p>
+<p>Maybe I expected too much from this method,or misused it,but that’s not really the point I want to highlight.
+Perhaps this reflection doesn’t offer a grand piece of wisdom, but you can still take something from it: explore new ways of making decisions in your own life. Experiment with frameworks or tactics that help you choose the optimal option more often.
+And most importantly, pick an option, don’t stay up until <em>(3:42 AM)</em> like me, still undecided and unable to sleep.</p>
+    </div>
+</div>
+
+            </main>
+        </div>
+
+
+        <footer class="footer">
+    
+        <span>
+            © 2026 A.Alghali, Built with
+            <a href="https://gohugo.io" class="footerLink">Hugo</a> and
+            <a href="https://github.com/LordMathis/hugo-theme-nightfall" class="footerLink">Nightfall</a> theme
+        </span>
+    
+</footer>
+    </div>
+
+</body>
+
+</html>
