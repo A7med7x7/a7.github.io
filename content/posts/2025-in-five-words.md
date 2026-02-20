@@ -38,7 +38,7 @@ Allah opened another window for me: my uncle from my father’s side, Abdalrahma
 
 I regret how I handled my relationships, I keep avoiding and pushing away the people I love. toward the end of the year, I had conversations with different people, potential friends, good people, some already in my life, but whom I never allowed myself the time to truly know.
 
-Part of this was because of a [bizarre system](<https://a7med7x7.github.io/posts/adding_new_friends_system/>) I built for adding new friends, My real regret isn’t that I stepped away to fight my darkness. It’s that I didn’t let their light in sooner, I felt too broken to sit at their table. I didn’t realize they had saved my seat the whole time. what saddens me most is not that they forgave me, but that I still struggle to forgive myself.
+Part of this was because of a [bizarre system](<https://a7med7x7.github.io/posts/adding-new-friends-system/>) I built for adding new friends, My real regret isn’t that I stepped away to fight my darkness. It’s that I didn’t let their light in sooner, I felt too broken to sit at their table. I didn’t realize they had saved my seat the whole time. what saddens me most is not that they forgave me, but that I still struggle to forgive myself.
 
 ## Autonomy
 

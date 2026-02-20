@@ -14,13 +14,13 @@ Although my previous blog post was expected to be an explanation of what I assum
 
 > but I have never revised the list since a while
 > - *Adding new friends system*
-I never expected the system to be perfect, or that I was doing what is ultimately right. The reason why I felt I should be listing this legacy system of adding new friends by writing the [blog post](https://a7med7x7.github.io/posts/adding_new_friends_system/), is because I felt it was the time to rethink it. I wasn’t explicit about this, (meaning it took me time to realize that I really need to rethink it.), but I felt this shouldn’t continue. The case analysis is not as good as it used to be in helping classifying people, many cases violated the rules, but the system still pulls me back to use its methods.
+I never expected the system to be perfect, or that I was doing what is ultimately right. The reason why I felt I should be listing this legacy system of adding new friends by writing the [blog post](https://a7med7x7.github.io/posts/adding-new-friends-system/), is because I felt it was the time to rethink it. I wasn’t explicit about this, (meaning it took me time to realize that I really need to rethink it.), but I felt this shouldn’t continue. The case analysis is not as good as it used to be in helping classifying people, many cases violated the rules, but the system still pulls me back to use its methods.
 
 > [!IMPORTANT] I will be using the terms **system** and **legacy system** interchangeably. The term *legacy system* refers to an outdated but still functional computer system, software, or hardware that continues to be used because it performs its original, essential tasks, even as newer technologies emerge.
 
 > [!NOTE] I deliberately selected the term *value* when saying assigning the name “Friend”, because it is not just a word, I consider it a *value*. Calling you a friend adds the values that require me to “allow myself to fall, to invest my emotions.”
 
-by this elboration I hope to clear the misconceptions that might accure from my previous writing, it build on top of the previous blog post [Adding new friends system](https://a7med7x7.github.io/posts/adding_new_friends_system/), you might want to take a look if you haven't. this conversation will particularly discuss the cases where the system is not good enough, why I was still using it?, how it is so bad to the people who should be friends.
+by this elboration I hope to clear the misconceptions that might accure from my previous writing, it build on top of the previous blog post [Adding new friends system](https://a7med7x7.github.io/posts/adding-new-friends-system/), you might want to take a look if you haven't. this conversation will particularly discuss the cases where the system is not good enough, why I was still using it?, how it is so bad to the people who should be friends.
 
 ## Why so many rules? Life is meant to be simple.
 
@@ -131,7 +131,7 @@ Some questions the system simply can’t answer well:
   I remember a friend, culturally a friend, but I never really invested in him. He was great, but I didn’t want to allow myself to fall into that bond. Poor him, what did he have to do with my hormones? Again, the system didn’t help.  
 
 - **404 Not Found:**  
-  Sometimes I fail to migrate relationships outside the scope of the *[greater good](https://a7med7x7.github.io/posts/adding_new_friends_system/#:~:text=Another%20reason%20is%20to%20be%20mindful%20of%20the%20greater%20good)*, that shared purpose that once connected us.  
+  Sometimes I fail to migrate relationships outside the scope of the *[greater good](https://a7med7x7.github.io/posts/adding-new-friends-system/#:~:text=Another%20reason%20is%20to%20be%20mindful%20of%20the%20greater%20good)*, that shared purpose that once connected us.  
 
   I meet cool people in cool places; we like each other. But once the shared context is gone, I can’t find a new reason to stay connected.  
 

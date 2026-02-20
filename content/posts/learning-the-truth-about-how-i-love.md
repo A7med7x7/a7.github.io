@@ -12,7 +12,7 @@ It’s never simple to confront an insecurity you’ve never recognized before, 
 
 > Avoidant attachment is a pattern where you feel uncomfortable with emotional closeness and tend to pull away or shut down when relationships start to feel too vulnerable. Deep down, you may still want connection, but it feels safer to stay distant, guarded, or independent.
 
-This is the first time I've heard of this term “Avoidant attachment,” and it is crazy how accurately it sums up and explains the recurrence of my patterns,  [Adding new friends systems](https://a7med7x7.github.io/posts/adding_new_friends_system/) , [Elaborate Adding new friends system](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/)
+This is the first time I've heard of this term “Avoidant attachment,” and it is crazy how accurately it sums up and explains the recurrence of my patterns,  [Adding new friends systems](https://a7med7x7.github.io/posts/adding-new-friends-system/) , [Elaborate Adding new friends system](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/)
 
 ## On Avoidant Attachment
 
@@ -28,7 +28,7 @@ This piece is the first to encounter when searching for what this term means. I 
     
 - **because for an avoidant, the guilt, the loss, the shame, all of it, it doesn't hit them right in the same moment that it hits you**,*this explains my writing [state of numbness](https://a7med7x7.github.io/posts/state-of-numbness/)*
     
-- **When the dust has settled, when the thread of closeness is gone**; *this explains why I avoided establishing direct relationship (closeness), and decided to use [society buckets](https://a7med7x7.github.io/posts/adding_new_friends_system/#:~:text=Luckily%2C%20society%20gave%20us%20names%20as%20placeholders%20for%20people%20that%20even%20can%20help%20define%20the%20interactions%20and%20limits%20of%20relationships%20to%20have%20with%20people)*
+- **When the dust has settled, when the thread of closeness is gone**; *this explains why I avoided establishing direct relationship (closeness), and decided to use [society buckets](https://a7med7x7.github.io/posts/adding-new-friends-system/#:~:text=Luckily%2C%20society%20gave%20us%20names%20as%20placeholders%20for%20people%20that%20even%20can%20help%20define%20the%20interactions%20and%20limits%20of%20relationships%20to%20have%20with%20people)*
 
 ---
 

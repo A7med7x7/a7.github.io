@@ -48,7 +48,7 @@ People had tried to tell me what I should change. for years, they argued. they i
 
 Many people tried to change me. many were persistent. they believed that if they could just sit down with Ahmed and offer him solutions, more love, they could manage to fix him, the truth is, it was almost impossible. It still is.
 
-This is another reason why the [cycle of dropping people](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/#:~:text=2.%20a-,double%2Dedged%20sword,-.) kept repeating itself, back then, I knew people would never be able to change me. I thought I was saving them time, that they should never invest in me. I wasn’t explicit about it. I usually just avoided them.
+This is another reason why the [cycle of dropping people](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=2.%20a-,double%2Dedged%20sword,-.) kept repeating itself, back then, I knew people would never be able to change me. I thought I was saving them time, that they should never invest in me. I wasn’t explicit about it. I usually just avoided them.
 
 I let go when I saw the glare in their eyes, the way they looked at me through potential, through who I could become, through the expectations they would expect from me, if only they could fix me. I didn’t understand what they were trying to tell me.
 

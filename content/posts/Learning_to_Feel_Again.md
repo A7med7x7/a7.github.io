@@ -11,7 +11,7 @@ categories = ['personal']
 
 <!--more-->
 
-For a while, I hesitated to do a lot of things. I [hesitated to make new friendships](https://a7med7x7.github.io/posts/adding_new_friends_system/), I hesitated to [share my writings publicly](https://a7med7x7.github.io/posts/why-i-do-this/#:~:text=but%20I%20got%20demons%E2%80%A6.%20that%20were%20holding%20me%20from%20writing).  
+For a while, I hesitated to do a lot of things. I [hesitated to make new friendships](https://a7med7x7.github.io/posts/adding-new-friends-system/), I hesitated to [share my writings publicly](https://a7med7x7.github.io/posts/why-i-do-this/#:~:text=but%20I%20got%20demons%E2%80%A6.%20that%20were%20holding%20me%20from%20writing).  
 
 The reason is I was, and to this very day [concerned with the questions](https://a7med7x7.github.io/posts/i-fear-the-person-i-will-become/#:~:text=The%20cycle%20starts%20with%20me%20being%20very%20concerned%20with%20a%20question) that deviated me from being socially active. One of these questions is:  
 

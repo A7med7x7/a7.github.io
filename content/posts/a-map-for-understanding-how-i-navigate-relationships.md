@@ -4,11 +4,11 @@ draft = false
 title = 'A Map for Understanding How I Navigate Relationships'
 +++
 
-It started with a friend (North) asking me a simple question about how I form relationships. something I had never stopped and wondered about. that led to me doing some introspection, and I wrote this at the time: [Adding New Friends Systems](https://a7med7x7.github.io/posts/adding_new_friends_system/).
+It started with a friend (North) asking me a simple question about how I form relationships. something I had never stopped and wondered about. that led to me doing some introspection, and I wrote this at the time: [Adding New Friends Systems](https://a7med7x7.github.io/posts/adding-new-friends-system/).
+<!--more-->
+After a while, I got to see this system as legacy. I had changed. time had changed. I had been on this system since I was little. maybe it was time for me to critique and interrogate it. so I did some analysis on the system of adding new friends by writing this: [Elaborate on Adding New Friends System](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/). I got to discover this was something I had never really cared about. relationships were my least important priority. this led me to investigate myself further, and I discovered what I was writing and thinking about genuinely was just the tail. the tail of a monster with teeth. big teeth.
 
-After a while, I got to see this system as legacy. I had changed. time had changed. I had been on this system since I was little. maybe it was time for me to critique and interrogate it. so I did some analysis on the system of adding new friends by writing this: [Elaborate on Adding New Friends System](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/). I got to discover this was something I had never really cared about. relationships were my least important priority. this led me to investigate myself further, and I discovered what I was writing and thinking about genuinely was just the tail. the tail of a monster with teeth. big teeth.
-
-A month later, I discovered something profound that I once never paid attention to. my behavior of handling relationships has a name. this pattern is precisely described in the psychology of attachment. I got to discover this and wrote about it: [Learning The Truth About How I Love](https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/). I went a few days trying to imagine, now I have this definition about myself. it wasn't clear in terms of introspection, but it was accurate when I first got to name it. all I did was name a symptom, but it also revealed insight.
+A month later, I discovered something profound that I once never paid attention to. my behavior of handling relationships has a name. this pattern is precisely described in the psychology of attachment. I got to discover this and wrote about it: [Learning The Truth About How I Love](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/). I went a few days trying to imagine, now I have this definition about myself. it wasn't clear in terms of introspection, but it was accurate when I first got to name it. all I did was name a symptom, but it also revealed insight.
 
 So I thought, maybe now I can imagine my kind of needs in relationships and how I would want them to be. so I wrote this after: [A User Manual For Being Close To Me](https://a7med7x7.github.io/posts/a-user-manual-for-being-close-to-me/). writing about what my needs could be and everything. although this still blended the reality that the legacy system was still partially in me, it was a good attempt to help understand myself and how I should approach relationships.
 
@@ -23,9 +23,9 @@ The overarching theme is this: I'm simply not built for relationships the way mo
 
 ### shorter version
 
-1. **Start here:** [Adding New Friends Systems](https://a7med7x7.github.io/posts/adding_new_friends_system/) : how I unconsciously filtered people for years
-2. **Then read:** [Elaborate on Adding New Friends System](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/) : realizing the system was broken and outdated
-3. **Core discovery:** [Learning The Truth About How I Love](https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/) : naming the attachment pattern that explains everything
+1. **Start here:** [Adding New Friends Systems](https://a7med7x7.github.io/posts/adding-new-friends-system/) : how I unconsciously filtered people for years
+2. **Then read:** [Elaborate on Adding New Friends System](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/) : realizing the system was broken and outdated
+3. **Core discovery:** [Learning The Truth About How I Love](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/) : naming the attachment pattern that explains everything
 4. **What I need:** [A User Manual For Being Close To Me](https://a7med7x7.github.io/posts/a-user-manual-for-being-close-to-me/) : how to actually be close to me without overwhelming me
 5. **The contradiction:** [Walking Contradiction - Good With People, Afraid of People](https://a7med7x7.github.io/posts/walking-contradicition-good-with-people-afraid-of-people/) : why I appear open but fear closeness
 6. **The boundary:** [Being Kind Doesn't Mean I Want To Be Close](https://a7med7x7.github.io/posts/being-kind-doesnt-mean-i-want-to-be-close/) : don't mistake kindness for invitation

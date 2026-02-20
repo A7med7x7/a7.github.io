@@ -10,7 +10,7 @@ When most of them left, only four of us remained. Mahmoud was among them. the en
 
 I told them something I had not told anyone so directly before. I told them I was finally starting to understand myself, yhen I shared something harder.
 
-I told them I was sorry. sorry that they had all been victims of my [constant avoidance](https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/). I told them it was never personal. it was never about them lacking something. it was about [how I was built](https://a7med7x7.github.io/posts/not-build-for-relationships-the-way-you-think/). I explained again how closeness scared me. how intimacy triggered something defensive inside me. and then I stopped talking. I wanted to see if they understood.
+I told them I was sorry. sorry that they had all been victims of my [constant avoidance](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/). I told them it was never personal. it was never about them lacking something. it was about [how I was built](https://a7med7x7.github.io/posts/not-build-for-relationships-the-way-you-think/). I explained again how closeness scared me. how intimacy triggered something defensive inside me. and then I stopped talking. I wanted to see if they understood.
 
 Mahmoud responded.
 
@@ -18,7 +18,7 @@ He said something that reopened a wound I did not know was still raw. he said th
 
 He said right after that moment I disappeared, he said it was better that I left. because because of me, he explored parts of himself he would not have explored otherwise. because of my absence, he discovered other paths.
 
-When I heard that, I felt suffocated. it was [grief](https://a7med7x7.github.io/posts/a_grief_i_didnt_expect/#:~:text=but%20in%20reality%2C-,I%20have%20hurt%20people,-%2C%20a%20lot%20of) again. the kind of grief that comes from realizing you were the architect of your own loss.
+When I heard that, I felt suffocated. it was [grief](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/#:~:text=but%20in%20reality%2C-,I%20have%20hurt%20people,-%2C%20a%20lot%20of) again. the kind of grief that comes from realizing you were the architect of your own loss.
 
 I told him something I had never admitted out loud. I told him that I remember that same exact image on the bridge. the river. the clouds. the university in the distance. and him laughing. I told him that when I looked at him that day, I recognized something core. I recognized that he was the kind of friend I wanted for life. the kind of friend you build stupid dreams with. the kind of friend you grow alongside. the kind of friend who challenges you without diminishing you.
 
