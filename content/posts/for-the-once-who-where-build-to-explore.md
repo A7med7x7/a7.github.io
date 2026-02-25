@@ -36,7 +36,7 @@ That is the core. they do not want to decide too early who they are or what they
 
 If you are this kind of person, you may have consumed endless productivity videos, trying to fix yourself. you may have tried to mimic steady progress models that do not match your natural rhythm. you may have blamed yourself for not sustaining someone else’s system. but forcing something that does not open naturally will only exhaust you.
 
-This does not mean waiting passively. it means learning to [balance](https://a7med7x7.github.io/posts/learning_to_feel_again/#:~:text=Life%20isn%E2%80%99t%20a,learn%20to%20balance.). not forcing rigid structure, and not dissolving into chaos. if a door is not opening naturally, it does not automatically mean you are inadequate. it may mean you do not yet have the right keys. and unlike others who were shaped to use institutional keys easily, you may need to craft your own.
+This does not mean waiting passively. it means learning to [balance](https://a7med7x7.github.io/posts/learning-to-feel-again/#:~:text=Life%20isn%E2%80%99t%20a,learn%20to%20balance.). not forcing rigid structure, and not dissolving into chaos. if a door is not opening naturally, it does not automatically mean you are inadequate. it may mean you do not yet have the right keys. and unlike others who were shaped to use institutional keys easily, you may need to craft your own.
 
 Those keys, the way you unlock doors differently, that is precisely what makes you valuable. the world does not only need optimized executors. it also needs explorers. it needs people who see patterns before they are obvious. people who refuse premature certainty. people who stay alive internally even when the external world pressures them to narrow.
 
