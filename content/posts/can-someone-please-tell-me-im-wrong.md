@@ -14,7 +14,7 @@ A real and honest moment happened there with myself. one I will never forget. I 
 
 Please, someone wake me up. someone help me. I want someone to tell me that something I am doing is wrong. I wanted it to happen right there, right then. I cried silently. a few tears fell to the floor. no one noticed. I gathered myself and moved on with the day, wearing the mask.
 
-That day, I did not understand what had happened. I explained it temporarily as a need for real feedback. I even wrote about it [here](https://a7med7x7.github.io/posts//lack_of_real_feedback/). I thought I wanted people to tell me what I was doing wrong. badly. because everyone around me kept praising me, telling me how good or impressive I was.
+That day, I did not understand what had happened. I explained it temporarily as a need for real feedback. I even wrote about it [here](https://a7med7x7.github.io/posts//lack-of-real-feedback/). I thought I wanted people to tell me what I was doing wrong. badly. because everyone around me kept praising me, telling me how good or impressive I was.
 
 I could not accept their compliments. you cannot let love inside if you do not love yourself first. I took their words as appreciation, but I did not need them. I needed the opposite. I needed people who would challenge me. who would stop me.
 
