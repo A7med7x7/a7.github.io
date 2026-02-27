@@ -1,5 +1,5 @@
 +++
-date = '2026-02-17T16:45:29+03:00'
+date = '2026-01-17T16:45:29+03:00'
 draft = false
 title = 'Not Broken, Just SubOptimal'
 +++
