@@ -1,0 +1,15 @@
++++
+date = '2026-02-21T23:27:58+03:00'
+draft = true
+title = 'Learning to Respect Myself'
++++
+
+The image I held about myself was always vague. if I am being honest, I never truly liked myself. I never paused long enough to build a clear internal picture of who I was beyond performance and ambition. this whole psychology conversation about self image and inner narratives felt unnecessary to me. I did not have a defined understanding of self worth. when someone asked me if I believed I was worthy of love, I genuinely did not know how to answer. I did not spend time thinking about those questions. they did not feel practical. they would not buy me the Lamborghini I wanted, so why should they occupy space in my mind. for the longest time, introspection felt like a luxury I don't want to invest in.
+
+Everyone who knows me understands that I am not naturally drawn to therapy language or deep internal analysis. I am action oriented. I measure progress in output, in results, in movement forward. seven months ago, conversations about self compassion would have ranked near the bottom of my priorities
+
+Something changed recently, and it did not change gradually. it changed in what felt like an exponential way. not because I sat down and decided to become self aware, but because life forced me into a mirror I could not ignore. and I chose to move, the more I understand myself the more the following surfaced.
+
+At first I almost lost the meaning of it. I confused self respect with ego, I wasn't good at knowing the distinction, I was afraid that If I drew the line of self respect ego would win, others will get hurt, and then again I was doing some form of self respect, I find myself leaving places I don't like, [being bothered](https://a7med7x7.github.io/posts/learning-to-be-bothered/) simply means I'm respecting myself, I'm not the kind of a weak and poor person, I'm quiet the opposite, but it wasn't fully self respect, it was protecting my peace and maximizing my productivity, but I started noticing a byproduct of this new level of self awareness weeks later. when you stop attacking yourself internally, you become more sensitive to how others treat you. when you are no longer your own enemy, you start recognizing external disrespect more clearly. and that was new for me. before, I tolerated certain behaviors because I was already treating myself worse in my own head. or not knowing how to treat myself, once that internal violence reduced, my tolerance shifted.
+
+Now I imagine it like there are two versions of me. it a duality, there is the one who makes decisions, and this is me, who moves, who builds, who navigates the world. and then there is a quieter version. a more pure self that simply exists. this second self does not negotiate ambition or productivity. it just wants dignity. it wants safety. it wants respect. and for the first time, I feel responsible for protecting it. I am not protecting my ego. I am protecting that core, I'm protecting myself. I'm respecting myself.

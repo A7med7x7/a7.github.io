@@ -5,7 +5,7 @@ title = 'I Fear The People Eyes'
 +++
 
 Growing up, every friendship I formed lived in oscillation. I would get close, then disappear. I would respond warmly for a while, then withdraw without warning. It became a pattern so consistent that it almost defined my relationships. Eventually, most people left, not because they hated me, but because disappearing repeatedly makes staying exhausting. you cannot hold on to someone who keeps stepping back into the shadows.
-
+<!--more-->
 There was only one exception, he was like a boomerang. That is the most accurate description I can give. no matter how distant I became, no matter how deliberately I pushed him away, he returned. I did not want people to know me, and I did not have the emotional capacity to know them either. even one friend felt like too much. I barely had space for him in my life. I enjoyed my time alone at home more than anything else. When he visited and I felt overwhelmed, I would ask my mother to tell him I was asleep. I hid from him inside my own house.
 
 He used to get angry at me for disappearing, for not telling him what I was going through, for vanishing without explanation. but surprisingly, he never left. he kept coming back.

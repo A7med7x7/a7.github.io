@@ -6,7 +6,7 @@ title = 'Forming Communities'
 
 > “They thought I’m one, but I’m many.”  
 > — Bakry
-
+<!--more-->
 Recently, I found myself collecting scattered notes about communities, the ones I joined, the ones I reshaped, and the ones I built from instinct and frustration. the more I reflected, the more I realized that my relationship with communities has never been passive. I rarely just participate. I observe, evaluate, and eventually attempt to restructure.
 
 When I entered university, many Sudanese tech communities followed a familiar model. they organized workshops, exhibitions, and speaker sessions. some were part of global initiatives like [Google Developer Student Clubs (GDSC)]([https://gdg.community.dev](https://gdg.community.dev/gdg-on-campus-university-of-khartoum-khartoum-sudan/), and others were local initiatives such as the [School Student Exhibition (SSE)](https://web.facebook.com/uofksse).  
