@@ -1,7 +1,7 @@
 +++
 date = '2026-02-18T15:12:58+03:00'
 draft = false
-title = 'Walking Contradiction - Good With People, Afraid of People'
+title = 'Walking Contradictions - Good With People, Afraid of People'
 categories = ['Walking Contradictions', 'relationships', 'reflection']
 +++
 
