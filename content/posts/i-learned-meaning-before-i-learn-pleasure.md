@@ -16,7 +16,7 @@ title = 'I Learned Meaning Before I Learn Pleasure'
 ### Why I Write (And Why I Can’t Stop)  
 
 Why writing?  
-I’ve written before about [regret](https://a7med7x7.github.io/posts/why-im-sharing-notes-regret/), [realizations](https://a7med7x7.github.io/posts/why-iam-sharing-notes/), and [stories](https://a7med7x7.github.io/posts/why-i-do-this/). I’ve even mentioned the catalysts. but beneath all of that, there has always been one reason driving me toward self reflection since childhood: the pursuit of meaning. And at the center of that pursuit sits confusion, confusion about myself.
+I’ve written before about [regret](https://a7med7x7.github.io/posts/why-im-sharing-notes-regret/), [realizations](https://a7med7x7.github.io/posts/why-im-sharing-notes-learned-too-late/), and [stories](https://a7med7x7.github.io/posts/why-i-do-this/). I’ve even mentioned the catalysts. but beneath all of that, there has always been one reason driving me toward self reflection since childhood: the pursuit of meaning. And at the center of that pursuit sits confusion, confusion about myself.
 
 I struggled to understand my feelings.  
 I struggled to accept genuine compliments.  
