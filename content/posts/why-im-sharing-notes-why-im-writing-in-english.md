@@ -1,5 +1,5 @@
 +++
-date = '2026-02-28T20:33:40+03:00'
+date = '2025-09-30T20:33:40+03:00'
 draft = false
 title = 'Why Im Sharing Notes - Why Im Writing in English'
 category = ['Meta','Archives']
