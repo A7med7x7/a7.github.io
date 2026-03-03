@@ -8,13 +8,13 @@ categories = ['Personal', 'Reflections']
 Oh, it always looked like you never cared about anything. just you and your computer.  
 <!--more-->
 people saw it as strength, you forget things easily.  
-you are friends with everyone, yet attached to no one.  
+you are friends with everyone, yet attached to none.  
 you are cold blooded, they said. nothing really harms you. nothing causes you pain.  
 we have never seen you lose your temper before.  
 it feels like you have no heart.
 
 but that was never power to me.  
-i was never proud of it from the inside.  
+I was never proud of it from the inside.  
 not being able to feel things is not power.  
 silencing my urges without effort is not power.  
 suppressing emotions is not power.  
