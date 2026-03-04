@@ -63,7 +63,7 @@ I was fine with you until you asked that question, I remember my answers clearly
 
 I never lied about my emotional state. the problem was not dishonesty. the problem was absence. I genuinely did not feel what others expected me to feel. between the ambiguity of my words and the honesty of my numbness, people got hurt deeply.
 
-It took me years to realize the amount of pain [I caused many of them](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/#:~:text=On%20The%20Harm%20I%20Caused%20Others). the [walls](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/) I built were not neutral. they protected me, yes, but they also injured others. I wanted people to respect my boundaries and remain present, but I did not offer them emotional access.
+It took me years to realize the amount of pain [I caused many of them](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/#:~:text=On%20The%20Harm%20I%20Caused%20Others). the [walls](https://a7med7x7.github.io/posts/elaborate-on-adding-new-friends-system/) I built were not neutral. they protected me, yes, but they also injured others. I wanted people to respect my boundaries and remain present, but I did not offer them emotional access.
 
 I was running the moment someone tried to enter my sphere. I wanted loyalty without vulnerability. presence without exposure. closeness without being known.
 
