@@ -1,5 +1,5 @@
 +++
-date = '2026-12-11T08:28:03+03:00'
+date = '2025-12-11T08:28:03+03:00'
 draft = false
 title = 'Before Joining University'
 +++
