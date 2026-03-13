@@ -1,7 +1,7 @@
 +++
 date = '2025-11-16T04:20:00+03:00'
 draft = false
-title = 'learning the opposite'
+title = 'Learning The Opposite'
 tags = ['reflection', 'mindset', 'balance']
 categories = ['reflection']
 +++

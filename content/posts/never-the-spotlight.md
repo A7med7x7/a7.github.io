@@ -19,18 +19,24 @@ At [SSE](https://web.facebook.com/uofksse), Mohammed (DePe) encouraged me to app
 When I walked out of that interview, I was hoping I wouldn’t be chosen. It wasn’t because I doubted the work or the team. It was because I could already imagine the visibility, the presentations, the expectations, the association of my name with every outcome. I imagined the weight of being identifiable.
 
 When I was selected, my first reaction wasn’t pride. It was anxiety. A quiet internal question asking why I had put myself in that position. Then the war started, and circumstances became unstable in ways none of us anticipated. Yet in the middle of that instability, we managed to collaborate with [IEEE](https://web.facebook.com/IEEE.UofK), the [FMS Student Association](https://web.facebook.com/FmsAssociation1), and present CyberClash, a cybersecurity bootcamp for students at the university.
+![Image](https://res.cloudinary.com/dkmutnahg/image/upload/v1773373832/IMG_8490_oudhfs.jpg)
+*First Meeting with newely formed SSE Team*
 
 People appreciated what we built. The work mattered. I loved the people I worked with, and I believe they trusted me. What surprises me now is that the spotlight did not destroy me. It did not expose incompetence. It did not unravel me. It simply made me uncomfortable.
 
 ## GDSC
 
 The same pattern appeared with [Google Developer Student Clubs (GDSC)](https://web.facebook.com/GDG.UofK). now known as Google Developer Groups I joined as a regular core member and later moved into the technical team. Over time, I became co lead. It wasn’t something I plotted. It evolved gradually, almost accidentally.
-
+![Image](https://res.cloudinary.com/dkmutnahg/image/upload/v1773373184/photo_2022-11-08_22.38.12_b1wqpo.jpg)
+*FMSI Computer Science Building Entrance, With GDSC 2022 Lead Ahmed Ali, and Mohammed Elhaj, Technical Team meet*
 The leader at the time, [Ahmed Ali](https://web.facebook.com/Ahmed.Hinso), trusted me more than I trusted myself. Responsibility expanded around me naturally. When a new leadership application opened, I was already in Egypt, still trying to process [days I still don’t understand](https://a7med7x7.github.io/posts/days-i-still-dont-understand/). My life felt unstable enough. Adding another visible role felt overwhelming.
 
 I actively searched for reasons not to apply. I magnified my weaknesses. I rehearsed internal arguments explaining why this wasn’t aligned with who I was. But then I thought about the students, the messages they had sent, and the impact the sessions had on them. I realized that if none of us stepped forward, the chapter might close or drift in a direction that would erase what had been built.
 
 The spotlight wasn’t the point. Continuity was. so I applied and was accepted. That period was dynamic, chaotic, and deeply human. I cared about the core team. I cared about the volunteers. I cared about the structure we were sustaining. I don’t regret stepping in. What I regret is how much energy I spent trying not to be seen while doing it.
+
+![Image](https://res.cloudinary.com/dkmutnahg/image/upload/v1773373094/20230315_105818924_iOS_h40itt.jpg)
+*Open Day for GDSC held at [Alturabi Hall](https://share.google/F0pxVaFNpYqxYXUYe), Engineering Department, [Ahmed Ali](https://www.facebook.com/Ahmed.Hinso), [TajEldeen](https://www.facebook.com/TajeldeenMohammeed), [Mustafa Elghazali](https://www.facebook.com/MuGhazali8), [Adam Logman](https://www.facebook.com/adam.logman) and I*
 
 ## The Way I Hid
 

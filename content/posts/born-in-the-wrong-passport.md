@@ -6,7 +6,7 @@ tags = ['disappointment', 'Sudan', 'opportunity', 'identity']
 +++
 
 This is a piece I have always wanted to write. not when I was inside it, not when the feeling was too loud and too close, when emotions clouded reasoning, but now, when enough distance has settled that I can finally lay it down without it burning my hands.
-
+<!--more-->
 People see me and say, hey, this is Ahmed, he is smart, he has done this and that, traveled here and there, been hosted in this place and that one. and I smile. because the version they see is already the filtered one, the one that made it through. what they don't see is the graveyard of invitations I was never able to accept. the trophies I could have held, but never did.
 
 I started learning how to code at sixteen. taught myself server side applications, studied theoretical machine learning before most people my age knew what it meant. and then the doors started opening, conferences and programs in Uganda, India, Saudi Arabia, the UAE, the UK, Germany, the US. I was selected, sometimes among thousands. nominated by people who believed I belonged in those rooms. and I did belong. I knew I did. but I couldn't go. not because I wasn't ready. not because I wasn't ready. not because I didn't work hard enough. but because of the passport I was born holding.

@@ -7,6 +7,9 @@ category = ['Archives', 'Personal']
 
 
 I remember coming back to Sudan from Saudi Arabia when [Abd Alwahab](https://www.facebook.com/abd.alwahab.alser) told me he had secured a scholarship in India and might travel to pursue it. After a lifelong friendship, growing up in the same district our entire lives, the time had finally come for him to leave for his undergraduate degree. I don’t recall thinking deeply about it at first, because it seemed that he hadn’t fully made up his mind yet. When I returned to Sudan, I got busy with university, and suddenly things became real on his side.
+
+![Image](https://res.cloudinary.com/dkmutnahg/image/upload/v1773372844/IMG_6492_q6ge2x.jpg)
+*Last selife*
 <!--more-->
 One day, I visited him at home and saw him packing up his bags, and some of his luggage was already packed. I was slightly irritated. he was so happy about his future, and I was happy for him too. Two years ago, I remember watching a video he shot that day, looking at myself, I could see how drowned I was in my thoughts, completely silent. Not many days passed before he booked his flight tickets.
 
