@@ -3,7 +3,7 @@ title = 'Lessons That Healed Me Then Series'
 date = '2025-12-17T22:48:00+03:00'
 draft = false
 categories = ['self']
-tags = ['healing', 'series', 'growth', 'identity']
+tags = ['healing', 'lessons-that-healed-me-then', 'growth', 'identity']
 +++
 When I turned thirteen, something shifted in me. it was not dramatic on the outside, but internally everything felt rearranged. I was lost in a way I could not articulate. I could not understand my emotions, nor my behavior, nor the sudden cynicism that began to color the way I saw the world. I became negative, sharp, and difficult, and I started affecting the people around me without even noticing.
 <!--more-->
