@@ -1,11 +1,10 @@
 +++
+title = 'Learning Faliure Modes - Branching'
 date = '2024-04-12T10:50:51+03:00'
 draft = false
-categories = ['Field Notes']
-title = 'Learning Faliure Modes - Branching'
+categories = ['learning']
+tags = ['psychology', 'growth', 'series']
 +++
-
-
 This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying useful techniques.
 
 Reading about neuroscience can help me save time instead of experimenting blindly and trying to see what works. and I plan to study neuroscience some day, but as for now I want to share what I've learned by myself, as I spent the first 19 years of my life learning how to learn. I never even signed up for the famous Coursera course on this topic. the road of learnign was lonely, paved with faliure moods, it was an experimentation based road.

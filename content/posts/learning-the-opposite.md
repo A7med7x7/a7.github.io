@@ -1,11 +1,10 @@
 +++
+title = 'Learning The Opposite'
 date = '2025-11-16T04:20:00+03:00'
 draft = false
-title = 'Learning The Opposite'
-tags = ['reflection', 'mindset', 'balance']
-categories = ['reflection']
+categories = ['learning']
+tags = ['growth', 'reflection', 'decision-making']
 +++
-
 > *There's a point at which everything you learn requires you to learn the opposite thing.*
 > *If you learn to be patient, then eventually you'll need to learn when to be impatient.*  
 > *If you learn to control your anger, then you'll have to learn when it's good to be angry.* 

@@ -1,10 +1,10 @@
 +++
+title = 'The greatest tragedy in life'
 date = '2024-06-29T08:43:00+03:00'
 draft = false
-title = 'The greatest tragedy in life'
-categories = ['Archives']
+categories = ['philosophy']
+tags = ['grief', 'growth', 'reflection']
 +++
-
 I once read:
 
 > _“one of the greatest tragedies in life is that you will always be loved more than you will ever know, someone in your class might find your presence inviting and warm even if you’ve exchanged a few words with them or maybe none at all, someone on the street loves your smile and it brightens their path for the next few blocks, someone who regularly comes to work is disappointed when you aren't there, someone missed you today, someone noticed when you’re gone, someone loves you when you’re there, someone loves you when you’re nowhere to be found at all, you might think you have always disappeared when you’re no longer in the picture, but you never left the frame”_

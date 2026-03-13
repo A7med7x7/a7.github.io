@@ -1,12 +1,11 @@
 +++
-date = '2025-06-02T20:04:03+03:00'
-draft = false
-description = "This note is an unfinished draft that I started but never completed. I felt uploading it, just as it is"
 title = 'The First 20 years of my life in a nutshell'
-categories = ['Drafts', 'Archives']
-tags = ['Drafts']
+date = '2025-06-02T20:04:03+03:00'
+description = 'This note is an unfinished draft that I started but never completed. I felt uploading it, just as it is'
+draft = false
+categories = ['self']
+tags = ['reflection', 'identity', 'memory', 'growth']
 +++
-
 Today I folded the first twenty one years of my life, years I can’t repeat or replay. I thank Allah for blessing me to live this long. Those first 21 years were upheavals.
 
 <!--more-->

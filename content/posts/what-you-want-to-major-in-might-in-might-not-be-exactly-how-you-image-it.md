@@ -1,8 +1,9 @@
 +++
+title = 'What you want to major in might not be exactly what you imagine it to be'
 date = '2025-03-21T18:55:53+03:00'
 draft = false
-category = ["Archives", 'Thought']
-title = 'What you want to major in might not be exactly what you imagine it to be'
+categories = ['learning']
+tags = ['decision-making', 'growth', 'reflection']
 +++
 >  *I’m not sure if it exactly look as I imagine it*
 

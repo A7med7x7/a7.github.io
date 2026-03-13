@@ -1,11 +1,10 @@
 +++
+title = 'Walking Contradictions – I Could Read You But Not Feel You'
 date = '2025-12-16T00:20:00+03:00'
 draft = false
-title = 'Walking Contradictions – I Could Read You But Not Feel You'
-tags = ['connection', 'self awareness', 'growth', 'reflection']
+categories = ['self']
+tags = ['contradictions', 'relationships', 'psychology', 'series']
 +++
-
-
 > No matter how open, peaceful or loving you are, others can only connect with you at the depth they have reached within themselves.
 
 This realization came to me at twenty one, and it was not gentle. it hurt to admit. I come from a spectrum of people who were never fully [able to see others clearly](https://a7med7x7.github.io/posts/21/#:~:text=Struggle%20to%20see%20things%20from%20their%20perspective), but I was not one of them. I was always good at analyzing people. I understood patterns, motives, insecurities. I even played the therapist role many times in my life, something I wrote about briefly [here](https://a7med7x7.github.io/posts/before-you-heal-someone/). understanding people was not magic. it is a basic human feature if you pay enough attention. the contradiction that confused me for years was this: I could understand almost everyone, yet I struggled to truly connect with them.

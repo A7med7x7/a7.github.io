@@ -1,10 +1,10 @@
 +++
+title = 'On Disappointment'
 date = '2026-02-28T00:00:00+03:00'
 draft = false
-title = 'On Disappointment'
-tags = ['Disappointment', 'Boundaries']
+categories = ['self']
+tags = ['emotions', 'psychology', 'avoidance']
 +++
-
 Among all the emotions I carry, disappointment sits in its own category, the one I least want to experience. I don't feel it often, and that is not an accident. I don't place people in positions where they can disappoint me, I don't expect much from anyone, and I don't let just anyone close enough to matter, something I've written about before in my [defensive nature](https://a7med7x7.github.io/posts/adding-new-friends-system). on top of that, I've built a bubble around myself, overly selective about my environment, deliberate about who gets near it. I wrote about this at the opening of [not broken but suboptimal](https://a7med7x7.github.io/posts/not-broken-just-suboptimal/). but none of that makes me immune. you cannot fully program your life. mistakes will happen. people you never invited will find their way in, and sometimes you won't notice until it's already too late.
 
 People get hurt every day, and not always by those who intended harm. not always by those they dislike. sometimes the damage comes from the ones who simply don't account for what they leave behind. the ones who never apologize. the ones who move through the world without once looking back at the mess they've made. I've been fortunate enough that people have generally treated me with a certain level of respect, and I've returned it without hesitation. I'm a straightforward person, I don't play games, and people tend to respond to that in kind. there's a reason for this, it has always been there, you don't mess with someone who holds boundaries out of genuine self respect, consciously or not, you read the signal and you adjust. and the more honest you are with yourself, the less you hide behind masks, and the more you show up as the version of you that doesn't need to harm others to feel whole.

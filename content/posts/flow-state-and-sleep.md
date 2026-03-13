@@ -1,11 +1,10 @@
 +++
+title = 'Flow State and Sleep'
 date = '2024-08-14T19:52:21+03:00'
 draft = false
-tags = ['Archives']
-categories = ["Archives"]
-title = 'Flow State and Sleep'
+categories = ['learning']
+tags = ['psychology', 'ai-and-tech', 'decision-making']
 +++
-
 Lately, I lost my ability to focus and maintain a flow state. I don’t sleep late, I eat relatively healthy food, and I’m not dopamine addicted. The problem comes down to practices that would align your efforts with what you want to achieve.
 <!--more-->
 Today, and after 15 days of nonsensical hard work (definitely I learned, but I wasn't comfortable learning), I get an hour with myself, having a lovely flow state, I will note and try to list all the things that I have done to get my focus back.  

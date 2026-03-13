@@ -1,9 +1,10 @@
 +++
+title = 'Learning to Respect Myself'
 date = '2026-02-21T23:27:58+03:00'
 draft = false
-title = 'Learning to Respect Myself'
+categories = ['self']
+tags = ['identity', 'healing', 'growth', 'psychology']
 +++
-
 The image I held about myself was always vague. if I am being honest, I never truly liked myself. I never paused long enough to build a clear internal picture of who I was beyond performance and ambition. this whole psychology conversation about self image and inner narratives felt unnecessary to me. I did not have a defined understanding of self worth. when someone asked me if I believed I was worthy of love, I genuinely did not know how to answer. I did not spend time thinking about those questions. they did not feel practical. they would not buy me the Lamborghini I wanted, so why should they occupy space in my mind. for the longest time, introspection felt like a luxury I don't want to invest in.
 
 Everyone who knows me understands that I am not naturally drawn to therapy language or deep internal analysis. I am action oriented. I measure progress in output, in results, in movement forward. seven months ago, conversations about self compassion would have ranked near the bottom of my priorities

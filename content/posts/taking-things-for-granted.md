@@ -1,11 +1,10 @@
 +++
+title = 'Taking Things For Granted'
 date = '2025-11-04T04:10:00+03:00'
 draft = false
-title = 'Taking Things For Granted'
-tags = ['reflection', 'gratitude', 'loss']
-categories = ['reflection']
+categories = ['self']
+tags = ['relationships', 'grief', 'reflection']
 +++
-
 I've taken things for granted before, and I always do. it doesn't mean I don't recognize the value of someone or something in my life, it's just that I'm mostly busy and never able to find time to reflect upon the things I have in my life.
 <!--more-->
 but through implicit actions and behavior, a friend of mine taught me how not to take things for granted. he had learned this lesson the hard way, and I get to open my eyes to this more and more.

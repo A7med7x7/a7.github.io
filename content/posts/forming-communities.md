@@ -1,9 +1,10 @@
 +++
+title = 'Forming Communities'
 date = '2025-04-30T23:11:45+03:00'
 draft = false
-title = 'Forming Communities'
+categories = ['relationships']
+tags = ['leadership', 'identity', 'relationships']
 +++
-
 > “They thought I’m one, but I’m many.”  
 > — Bakry
 <!--more-->

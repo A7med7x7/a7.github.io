@@ -1,11 +1,11 @@
 +++
-date = '2025-12-20T04:31:19+03:00'
-draft = false
-description = "on memory, delayed feelings, and the unexpected bond between a camera and the way I experience moments."
-Categories = ['Personal', 'Reflections']
 title = 'Feelings, Archived'
+date = '2025-12-20T04:31:19+03:00'
+description = 'on memory, delayed feelings, and the unexpected bond between a camera and the way I experience moments.'
+draft = false
+categories = ['self']
+tags = ['emotions', 'memory', 'reflection']
 +++
-
 I remember very distinctly how my elder brother Mohammed wanted me to pursue a career in media. he wanted me to become a photographer or a videographer, or whatever lived in that space. I do not know whether he saw my talent, or whether he simply noticed how much I loved it. the truth is I did love it. but at the time, I was lost in myself, I wasn’t clear about my love to this particular hobby, I was fooled by the glaring effect of science and progress. and to be fair, it is glaring.
 <!--more-->
 Now I understand why I keep memories the way I do, I have almost a hundred terabytes of raw videos and images, scattered across hard drives, cloud storage, and old MacBooks. I have always loved both the process and the result of taking a shot, it is something that I enjoyed and have previously talked about briefly [here](https://a7med7x7.github.io/posts/i-love-who-im-on-a7/). but it goes deeper than that. there is something deeply personal that connects me to filming and photography.

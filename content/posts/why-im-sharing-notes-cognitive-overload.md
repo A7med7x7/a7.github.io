@@ -1,12 +1,10 @@
 +++
+title = "Why I'm Sharing Notes - Cognitive Overload"
 date = '2025-10-29T15:31:42+03:00'
 draft = false
-title = "Why I'm Sharing Notes - Cognitive Overload"
-tags = ['writing','learning','cognition']  
-categories = ['reflection']  
+categories = ['learning']
+tags = ['writing', 'series', 'decision-making']
 +++
-
-
 > Learn to write, I’m dead serious about that, because… pick some hard problems and learn to write very, very carefully. when I say pay attention to the word, I mean that pick the right words, organize them into the right phrases and get your sentences straight. read and write everyday and see if you can discover what is true.
 > 
 > Jordan Peterson

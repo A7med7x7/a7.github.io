@@ -1,8 +1,9 @@
 +++
+title = 'Conversation With a Stranger'
 date = '2025-12-22T14:38:22+03:00'
 draft = false
-categories = ['Personal', 'Reflections']
-title = 'Conversation With a Stranger'
+categories = ['people']
+tags = ['biographical', 'relationships', 'reflection']
 +++
 Recently, I was in a meeting, and after the official hours ended, members usually stayed to catch up and chat a bit. one girl came up with a random question. It was something like: _what is something a stranger has told you that stuck with you?_ It wasn’t too long until that moment that I realized I actually had one.
 

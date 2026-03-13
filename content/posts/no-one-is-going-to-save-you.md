@@ -1,10 +1,10 @@
 +++
-date = '2026-02-17T05:10:00+03:00'
 title = 'No One Is Going To Save You'
+date = '2026-02-17T05:10:00+03:00'
 draft = false
-tags = ['introspection', 'avoidance', 'ego', 'growth', 'relationships']
+categories = ['philosophy']
+tags = ['identity', 'growth', 'psychology', 'healing']
 +++
-
 We carry this thought in the back of our heads. it is subtle. it is subconscious. it is so invisible that even when you write and write, trying to drag it from the subconscious into the conscious, it refuses to show itself clearly. instead, you only feel the symptoms, the void, the emptiness, the sense of being lost. but beneath all of that, there is something deeply rooted.
 <!--more-->
 The desire to be saved.

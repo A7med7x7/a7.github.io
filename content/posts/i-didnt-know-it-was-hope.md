@@ -1,9 +1,10 @@
 +++
+title = 'I Didnt Know it Was Hope'
 date = '2026-01-24T16:04:00+03:00'
 draft = true
-title = 'I Didnt Know it Was Hope'
+categories = ['self']
+tags = ['emotions', 'healing', 'reflection']
 +++
-
 Looking back and comparing the now, I thought I've lost both hope and faith.
 Not the religious kind of faith, but the faith that there exists a way to make things out.  
 That there exists a way.

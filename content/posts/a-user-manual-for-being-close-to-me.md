@@ -1,12 +1,11 @@
 +++
-date = '2025-12-15T15:53:08+03:00'
-draft = false
-description = "This is a pretty rough draft on why Relationships are not my playground. It helps unpack my needs. its both a disclaimer I should have given earlier to everyone before entering my life, and a manual for newcomers on how to Enter My Life. So far, it's a draft. I will keep maintaining this page"
 title = 'A User Manual for Being Close to Me'
-categories = ['personal']
-tags = [ 'relationships']
+date = '2025-12-15T15:53:08+03:00'
+description = "This is a pretty rough draft on why Relationships are not my playground. It helps unpack my needs. its both a disclaimer I should have given earlier to everyone before entering my life, and a manual for newcomers on how to Enter My Life. So far, it's a draft. I will keep maintaining this page"
+draft = false
+categories = ['relationships']
+tags = ['avoidance', 'identity', 'psychology', 'growth']
 +++
-
 I basically [ruined all the friendships](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=All%20the%20cool%20friends%20I%20could%E2%80%99ve%20made) I had since I was a kid, and it is me who is the problem, not the people, although I kept myself busy to the point where I don’t [feel it](https://a7med7x7.github.io/posts/state-of-numbness/) most of the time, alongside guilt and fear of making new friendships.
 <!--more-->
 I started to drop people before [the cycle](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=then%20stop%20trying.-,This%20cycle,-of%20people%20showing) of me starting to get cold and avoidant begins, which would eventually ruin the friendships or relationships anyway.

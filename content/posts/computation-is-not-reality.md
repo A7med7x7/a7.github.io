@@ -1,11 +1,11 @@
 +++
-date = '2025-09-22T22:22:27+03:00'
-draft = false
-categories = ['Field Notes', 'Unfinished Notes']
-description = "An attempt to clarify the distinction between learning how to compute and learning how the world behaves, and why computer science alone cannot replace domain knowledge of physical reality."
 title = 'Computation Is Not Reality'
+date = '2025-09-22T22:22:27+03:00'
+description = 'An attempt to clarify the distinction between learning how to compute and learning how the world behaves, and why computer science alone cannot replace domain knowledge of physical reality.'
+draft = false
+categories = ['learning']
+tags = ['ai-and-tech', 'identity', 'growth']
 +++
-
 Recently, I’ve been working on the reproducibility of machine learning research. In practice, this meant doing far more infrastructure work than actual machine learning modeling. I found myself digging into operating systems, containers, storage, and hardware details. and suddenly, I started questioning everything, not because it wasn’t interesting, but because I was drifting away from the kind of problems that originally made me fall in love with machine learning.
 <!--more-->
 What I loved about machine learning was the way it let me see the world through the lens of computation. many of the quantities we care about measuring can be framed as statistical problems. statistics doesn’t just help us measure what is directly observable; it also allows us to reason about things we cannot measure directly, using proxies and inference. wow, There is an entire scientific framework that helps us understand phenomena this way, which is statistics.

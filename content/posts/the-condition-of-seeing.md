@@ -1,12 +1,11 @@
-+++  
-date = '2024-09-09T16:00:00+03:00'  
-draft = false  
-description = 'A note on the blindness created by comfortable superficial life we live in, and the quiet condition that precedes change.'
-title = 'The Condition Of Seeing'  
-tags = ['reflection', 'mindset']  
-categories = ['thought']  
 +++
-
+title = 'The Condition Of Seeing'
+date = '2024-09-09T16:00:00+03:00'
+description = 'A note on the blindness created by comfortable superficial life we live in, and the quiet condition that precedes change.'
+draft = false
+categories = ['philosophy']
+tags = ['identity', 'growth', 'reflection']
++++
 It is almost always the case that I avoid giving productivity tips or life hacks, anything that would make someone life better through accomplishing a task, as I see that it has nothing to do with applying tips and tricks more than having a mindset. for example if someone is having the mindset of becoming better, they would pay attention to advices, and eventually sticking to habits would be easier.
 <!--more-->
 > *Motivation alone is not enough, if you have an idiot and you motivate him, now you have a motivated idiot.*

@@ -1,11 +1,10 @@
 +++
+title = 'When the body schedules the break'
 date = '2025-11-29T12:00:00+03:00'
 draft = false
-title = 'When the body schedules the break'
-tags = ['health', 'burnout', 'anxiety', 'reflection']
-categories = ['reflection']
+categories = ['self']
+tags = ['anxiety', 'healing', 'reflection']
 +++
-
 > if you don't schedule a break, your body will take one for you, and it probably won't be at a convenient time.
 
 <!--more-->

@@ -1,9 +1,9 @@
 +++
+title = 'Sick of Yourself'
 date = '2026-02-16T09:00:00+03:00'
 draft = false
-title = 'Sick of Yourself'
-descsription = 'most times, real change does not begin with ideas. it begins when you feel it in your bones. when staying the same becomes more painful than evolving. until then, growth is optional.'
-categories = ['growth', 'patterns', 'discipline']
+categories = ['self']
+tags = ['growth', 'psychology', 'healing']
 +++
 There is a catalyst behind every better decision you have ever made., it is the urge for change.
 <!--more-->

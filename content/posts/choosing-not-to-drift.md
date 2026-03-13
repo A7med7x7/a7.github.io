@@ -1,12 +1,11 @@
 +++
-date = '2026-02-01T04:20:00+03:00'
-draft = false
 title = 'Choosing Not To Drift'
-description = "a reflection on motion under uncertainty, truth seeking as a necessity, and resisting the pull of distraction and autopilot living."
-tags = ['reflection', 'mindset', 'balance']
-categories = ['reflection']
+date = '2026-02-01T04:20:00+03:00'
+description = 'a reflection on motion under uncertainty, truth seeking as a necessity, and resisting the pull of distraction and autopilot living.'
+draft = false
+categories = ['philosophy']
+tags = ['identity', 'growth', 'decision-making', 'solitude']
 +++
-
 The only real distinction between me and many of my friends is that I seek truth as a need, not as a pastime. I have spent most of my life trying to understand the world we live in, its physical reality, its existential questions, and its moral structure. what widens this distinction is that I do not treat understanding as an instrument for enjoyment or intellectual vanity. I seek it because I need it. I need it to make better decisions, and to quiet the confusion that once crowded my mind.
 <!--more-->
 I am no longer as foggy in my view of the world as I used to be, and therefore not as confused either. the quality that gave me the most confidence, and reduced my anxiety about [unanswered questions](https://a7med7x7.github.io/posts/consenting-to-the-game-rules/), was learning how to approach answers. through critique, comparison, and interpolation, I learned something more important than any conclusion. I learned that my own mental machinery is not always right.

@@ -1,11 +1,10 @@
 +++
+title = "I'm Afraid of What Awaits Ahead for My Friends"
 date = '2026-01-14T23:44:02+03:00'
 draft = false
-tags = ['writing', 'friends', 'growth', 'distance']
-categories = ['Reflections']
-title = "I'm Afraid of What Awaits Ahead for My Friends"
+categories = ['relationships']
+tags = ['relationships', 'growth', 'anxiety']
 +++
-
 >sometimes distance doesn’t change how much you know someone.  
 >It only changes how helpless you feel watching them from afar.
 

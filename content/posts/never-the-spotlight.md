@@ -1,9 +1,10 @@
 +++
+title = 'Never the Spotlight'
 date = '2026-03-01T22:24:46+03:00'
 draft = false
-title = 'Never the Spotlight'
+categories = ['self']
+tags = ['identity', 'avoidance', 'psychology', 'growth']
 +++
-
 Looking back at my experiences, I can now see that my pattern was never about avoiding responsibility itself. That was the story I told myself for years. The deeper concern was something else entirely. It was about avoiding the spotlight.
 <!--more-->
 Every time I found myself in a position of leadership, it was never something I actively chased. There was no calculated ambition, no strategic pursuit of authority. If anything, I instinctively tried to position myself slightly to the side, close enough to contribute meaningfully, but far enough to remain unseen. I wanted to be part of the structure without becoming its visible symbol.

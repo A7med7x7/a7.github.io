@@ -1,12 +1,11 @@
 +++
-date = '2026-01-07T14:00:00+03:00'
-draft = false
 title = "Being Kind Doesn't Mean I Want to Be Close"
-tags = ['reflection', 'boundaries', 'kindness']
-categories = ['reflection']
-description = "I am kind to everyone, close to none. kindness, for most people, is misunderstood as weakness or as something owed. for me, it is misunderstood as desire. people take politeness as permission. they see thoughtfulness and assume invitation. but I never gave permission to be known. I never asked for connection. and rejecting someone does not mean they are bad. it simply means I do not want to form a relationship. sometimes distance is the kindest thing I can offer"
+date = '2026-01-07T14:00:00+03:00'
+description = 'I am kind to everyone, close to none. kindness, for most people, is misunderstood as weakness or as something owed. for me, it is misunderstood as desire. people take politeness as permission. they see thoughtfulness and assume invitation. but I never gave permission to be known. I never asked for connection. and rejecting someone does not mean they are bad. it simply means I do not want to form a relationship. sometimes distance is the kindest thing I can offer'
+draft = false
+categories = ['relationships']
+tags = ['relationships', 'avoidance', 'identity']
 +++
-
 > They pose as humans even though they have no understanding of the human heart
 > 
 > Lawliet

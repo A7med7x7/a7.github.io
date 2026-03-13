@@ -1,10 +1,11 @@
 +++
-date = '2026-01-11T10:36:08+03:00'
-draft = false
-description = "A reflection on how comparing suffering can keep us functional while quietly dismissing our own pain, and how a useful tool turns fallacious when it becomes a substitute for care."
 title = 'On Comparing Pain Without Erasing It'
+date = '2026-01-11T10:36:08+03:00'
+description = 'A reflection on how comparing suffering can keep us functional while quietly dismissing our own pain, and how a useful tool turns fallacious when it becomes a substitute for care.'
+draft = false
+categories = ['self']
+tags = ['emotions', 'psychology', 'reflection']
 +++
-
 I’ve recently been thinking about [comparative suffering](https://a7med7x7.github.io/posts/comparative-suffering/). for me, the idea that there is a greater problem out there often helps me feel relief. It allows me to dismiss my own problems.
 <!--more-->
 at some point, I discovered that there is a logical fallacy that describes exactly this behavior. I had no idea that what I was doing could be wrong in any way, to be clear, a degree of comparison is sometimes necessary. we compare problems to prioritize them and decide what to work on first. but I also realized that there were times when I misused this comparison.

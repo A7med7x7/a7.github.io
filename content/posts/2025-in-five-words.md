@@ -1,11 +1,10 @@
 +++
+title = '2025 in Five Words'
 date = '2026-01-04T17:41:53+03:00'
 draft = false
-title = '2025 in Five Words'
-tags = ['reflection', 'loss', 'growth']
-categories = ['Reflections']
+categories = ['self']
+tags = ['reflection', 'identity', 'growth']
 +++
-
 At the start of the year, I had to catch up with a team I’m part of. we wanted to escape the dull rhythm of formal meetings and genuinely check in on how everyone had lived through 2025.I asked a simple question:
 
 <!--more-->

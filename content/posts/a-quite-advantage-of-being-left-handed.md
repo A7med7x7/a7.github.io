@@ -1,11 +1,10 @@
 +++
+title = 'A Quiet Advantage Of Being Left Handed'
 date = '2024-07-03T23:00:00+03:00'
 draft = false
-title = 'A Quiet Advantage Of Being Left Handed'
-tags = ['teaching', 'learning', 'details']
-categories = ['reflections']
+categories = ['learning']
+tags = ['identity', 'reflection', 'growth']
 +++
-
 It took me about a month to realize something small but surprisingly important. being left handed is a quiet advantage if you are a teacher, a professor, or anyone who lectures using a board.
 <!--more-->
 this becomes especially noticeable in fields that rely heavily on mathematical derivations or step by step written explanations.

@@ -1,12 +1,10 @@
 +++
+title = 'Elaborate: Adding New Friends System'
 date = '2025-11-10T18:40:00+03:00'
 draft = false
-title = 'Elaborate: Adding New Friends System'
-tags = ['reflection', 'friendship', 'legacy-systems']
-feature_image = "https://github.com/A7med7x7/a7.github.io/blob/main/static/images/why_the_legacy_system_still.png?raw=true"  
-categories = ['personal']
+categories = ['relationships']
+tags = ['relationships', 'growth', 'series']
 +++
-
 > *You don’t know about real loss, because that only occurs when you love something more than you love yourself. I doubt you’ve ever dared to love anybody that much.*  
 > _Sean, Good Will Hunting (Park Bench Scene)_
 <!--more-->

@@ -1,11 +1,10 @@
 +++
+title = 'Gratitude Register'
 date = '2025-11-06T22:00:00+03:00'
 draft = false
-title = 'Gratitude Register'
-tags = ['reflection', 'gratitude', 'belief']
-categories = ['Thought']
+categories = ['self']
+tags = ['emotions', 'reflection', 'growth']
 +++
-
 > *Everyone is atheist until the plane starts falling.*
 > I have no clue who said this.
 <!--more-->

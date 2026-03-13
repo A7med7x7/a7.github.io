@@ -1,10 +1,10 @@
 +++
+title = 'It Was Never Power to Me'
 date = '2025-12-24T19:46:35+03:00'
 draft = false
-title = 'It Was Never Power to Me'
-categories = ['Personal', 'Reflections']
+categories = ['self']
+tags = ['identity', 'growth', 'reflection']
 +++
-
 Oh, it always looked like you never cared about anything. just you and your computer.  
 <!--more-->
 people saw it as strength, you forget things easily.  

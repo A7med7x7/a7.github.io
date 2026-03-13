@@ -1,10 +1,10 @@
 +++
+title = 'Asking For Help'
 date = '2025-12-02T04:05:00+03:00'
 draft = false
-title = 'Asking For Help'
-tags = ['relationships', 'independence']
+categories = ['relationships']
+tags = ['relationships', 'emotions', 'growth']
 +++
-
 > What is the bravest thing you've ever said?
 > Help. Asking for help isn't giving up. It's refusing to give up.
 ― Charlie Mackesy  

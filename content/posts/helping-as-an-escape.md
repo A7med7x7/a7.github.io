@@ -1,12 +1,10 @@
 +++
+title = 'Helping as an Escape'
 date = '2025-11-28T07:38:35+03:00'
 draft = false
-title = 'Helping as an Escape'
-tags = ['helping', 'family', 'hope']
-categories = ['reflections']
+categories = ['self']
+tags = ['avoidance', 'emotions', 'reflection']
 +++
-
-
 > *Sister Calderon: I don't know but..whenever we happen to meet you're always helping people and smiling.*
 <!--more-->   
 > *Arthur: You're too smart for me sister..I guess I..I'm afraid.*

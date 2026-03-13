@@ -1,10 +1,10 @@
 +++
+title = 'Born in the Wrong Passport'
 date = '2026-03-02T18:49:44+03:00'
 draft = false
-title = 'Born in the Wrong Passport'
-tags = ['disappointment', 'Sudan', 'opportunity', 'identity']
+categories = ['self']
+tags = ['displacement', 'identity', 'emotions', 'reflection']
 +++
-
 This is a piece I have always wanted to write. not when I was inside it, not when the feeling was too loud and too close, when emotions clouded reasoning, but now, when enough distance has settled that I can finally lay it down without it burning my hands.
 <!--more-->
 People see me and say, hey, this is Ahmed, he is smart, he has done this and that, traveled here and there, been hosted in this place and that one. and I smile. because the version they see is already the filtered one, the one that made it through. what they don't see is the graveyard of invitations I was never able to accept. the trophies I could have held, but never did.

@@ -1,9 +1,10 @@
 +++
+title = 'Before Art, Literature After Metaphor'
 date = '2026-01-07T00:23:51+03:00'
 draft = false
-title = 'Before Art, Literature After Metaphor'
+categories = ['philosophy']
+tags = ['identity', 'writing', 'reflection']
 +++
-
 > *I'm starting to notice things I never saw before, or maybe I saw them, but I wasn’t paying attention. For some reason, everything has become a metaphor.*  
 > — Davis Mitchell
 <!--more-->

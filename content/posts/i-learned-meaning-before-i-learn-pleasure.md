@@ -1,11 +1,11 @@
 +++
-date = '2025-12-08T13:32:58+03:00'
-draft = false
-description = "This writing traces a long mistake: mistaking meaning for happiness. unable to access ease or simple enjoyment, I built a life organized around difficulty, discipline, and explanation. meaning became a substitute, not a source of joy. writing, in turn, became less an act of expression and more a way to survive what I could not feel."
-categories = ['Meta', 'personal']
 title = 'I Learned Meaning Before I Learn Pleasure'
+date = '2025-12-08T13:32:58+03:00'
+description = 'This writing traces a long mistake: mistaking meaning for happiness. unable to access ease or simple enjoyment, I built a life organized around difficulty, discipline, and explanation. meaning became a substitute, not a source of joy. writing, in turn, became less an act of expression and more a way to survive what I could not feel.'
+draft = false
+categories = ['philosophy']
+tags = ['growth', 'identity', 'psychology', 'healing']
 +++
-
 > There is a famous Viktor Frankl quote:  
 > _“When a man can’t find a deep sense of meaning, he distracts himself with pleasure.”_
 <!--more-->

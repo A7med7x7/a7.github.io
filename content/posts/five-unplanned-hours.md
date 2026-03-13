@@ -1,11 +1,11 @@
 +++
-date = '2025-12-20T22:56:44+03:00'
-draft = false
-description = "This piece documents a single day, unplanned and emotionally unprepared for, in which a long conversation with a friend quietly rearranged how I understand friendship, therapy, and myself. I didn’t go looking for answers that day. they arrived through someone else’s story, through listening rather than speaking, clarity, relief, and understanding without deliberate self exposure"
 title = 'Five Unplanned Hours - I learned myself by watching someone else arrive'
-categories = ['Personal', 'Reflections']
+date = '2025-12-20T22:56:44+03:00'
+description = 'This piece documents a single day, unplanned and emotionally unprepared for, in which a long conversation with a friend quietly rearranged how I understand friendship, therapy, and myself. I didn’t go looking for answers that day. they arrived through someone else’s story, through listening rather than speaking, clarity, relief, and understanding without deliberate self exposure'
+draft = false
+categories = ['relationships']
+tags = ['growth', 'identity', 'biographical', 'healing']
 +++
-
 Today, I spent five hours talking to Awab.
 
 It wasn’t planned. no intention, no emotional preparation. he texted me casually saying: _“VC in 2–3 hours?”_ the kind of message you expect to lead to small updates and shallow catching up as we usually do. Instead,it became one of the most profound conversations I’ve ever had. 

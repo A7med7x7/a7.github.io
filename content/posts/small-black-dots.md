@@ -1,11 +1,10 @@
 +++
+title = 'Small Black Dots'
 date = '2026-02-28T19:21:52+03:00'
 draft = false
-title = 'Small Black Dots'
-tags = ['Relationships']
+categories = ['relationships']
+tags = ['emotions', 'grief', 'psychology', 'growth']
 +++
-
-
 I have observed many stories. friendships. partnerships. families. I have even lived inside some of them. And I noticed something. Relationships rarely die from one dramatic moment. They die from a hidden cancer.
 
 It grows quietly. invisibly. accumulating over years. no one sees it. no one feels it. until one day, it is strong enough to turn love into resentment, and resentment into distance. I gave this cancer a name in February 2022. I called them *small black dots*. One black dot is harmless. almost invisible.

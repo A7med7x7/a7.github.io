@@ -1,10 +1,10 @@
 +++
+title = 'Learning Faliure Modes - Floating Information'
 date = '2024-04-12T10:50:51+04:00'
 draft = false
-categories = ['Field Notes']
-title = 'Learning Faliure Modes - Floating Information'
+categories = ['learning']
+tags = ['psychology', 'memory', 'series']
 +++
-
 I call this problem *floating information*. It is a literal translation of the Arabic word "طائفة", which means floating in space without connection. I first noticed that there is information that is not linked to anything. it has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.
 
 <!--more-->

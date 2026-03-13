@@ -1,11 +1,10 @@
 +++
+title = 'Before You Heal Someone'
 date = '2025-12-15T14:03:43+03:00'
 draft = false
-title = 'Before You Heal Someone'
-tags = ['reflection', 'relationships', 'growth']
-categories = ['Reflections']
+categories = ['relationships']
+tags = ['healing', 'relationships', 'growth', 'reflection']
 +++
-
 > Consider how hard it is to change yourself and you will understand how foolish it is to think you can change someone else.  
 > — Matthew Hussey
 

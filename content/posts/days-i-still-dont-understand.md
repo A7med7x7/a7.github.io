@@ -1,11 +1,10 @@
 +++
-title = "Days I Still Don’t Understand"
-date = "2025-11-21T00:00:00+03:00"
+title = 'Days I Still Don’t Understand'
+date = '2025-11-21T00:00:00+03:00'
 draft = false
-tags = ["anxiety", "personal"]
-categories = ["Reflections", "Archives"]
+categories = ['self']
+tags = ['anxiety', 'emotions', 'reflection']
 +++
-
 I had a friend I met online who struggled with social anxiety. He used to tell me how he panicked at the idea of going to the university. I knew he wasn’t lying, but part of me couldn’t truly believe it, that a psychological disorder could control someone that much. I was telling him: you just needed to stop overthinking that people will hurt you, remind yourself there’s no reason to be afraid, and call it a day. Yes, I was ignorant. I tried to convince him to change something he couldn’t change, to “overcome it,” as if these were only voices in his head.
 
 <!--more-->

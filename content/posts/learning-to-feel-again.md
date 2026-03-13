@@ -1,11 +1,10 @@
 +++
+title = 'Learning to Feel Again'
 date = '2025-11-21T08:00:00+03:00'
 draft = false
-title = 'Learning to Feel Again'
-tags = ['writing', 'feelings', 'reflection']
-categories = ['personal']
+categories = ['self']
+tags = ['healing', 'emotions', 'growth']
 +++
-
 > "I think it's important for people to present themselves as they are, which is messy, because to present yourself as perfect sets up an unfair standard for other people to live by."  
 > — Simon Sinek
 

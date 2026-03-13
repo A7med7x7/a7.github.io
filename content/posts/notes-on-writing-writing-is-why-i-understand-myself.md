@@ -1,10 +1,10 @@
 +++
+title = 'Notes on Writing - Writing is Why I Understand Myself'
 date = '2026-02-15T05:53:05+03:00'
 draft = false
-title = 'Notes on Writing - Writing is Why I Understand Myself'
+categories = ['learning']
+tags = ['writing', 'identity', 'series', 'growth']
 +++
-
-
 I once emphasized how I see [writing as a must](https://a7med7x7.github.io/posts/why-im-sharing-notes-cognitive-overload/), and how it helps me to [understand myself](https://a7med7x7.github.io/posts/i-learned-meaning-before-i-learn-pleasure/). I did not say that lightly. At the time, I thought I was already being radical in my statement. I thought calling writing a “must” was extreme enough. But I have come to a stronger conclusion since then, 
 <!--more-->
 Writing is the only reason that I understand myself.

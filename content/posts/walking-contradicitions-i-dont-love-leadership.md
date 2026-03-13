@@ -1,8 +1,9 @@
 +++
+title = 'Walking Contradictions - I Dont Love Leadership'
 date = '2026-02-20T23:34:31+03:00'
 draft = false
-title = 'Walking Contradictions - I Dont Love Leadership'
-tags = ['Walking Contradictions']
+categories = ['self']
+tags = ['leadership', 'contradictions', 'identity', 'series']
 +++
 There has been a contradiction in my life for years, and I have only recently started articulating it clearly. I have [led communities before](https://a7med7x7.github.io/posts/forming-communities). I have been part of founding teams. I have worked inside startups. I repeatedly find myself in environments where leadership, impact are either finds me or is quietly handed to me. yet despite this pattern, I do not think of myself as someone who loves leadership. In fact, if I am honest, I have often avoided it.
 

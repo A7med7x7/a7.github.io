@@ -1,7 +1,9 @@
 +++
+title = 'Not Broken, Just SubOptimal'
 date = '2026-01-17T16:45:29+03:00'
 draft = false
-title = 'Not Broken, Just SubOptimal'
+categories = ['self']
+tags = ['identity', 'growth', 'healing', 'psychology']
 +++
 I do not complain about the life I am living.  
 I do not point fingers at the surroundings anymore.  

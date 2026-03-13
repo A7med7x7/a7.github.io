@@ -1,11 +1,10 @@
 +++
+title = 'Adding New Friends System'
 date = '2025-11-08T00:00:00+03:00'
 draft = false
-title = 'Adding New Friends System'
-tags = ['relationships', 'reflection']
-categories = ['personal']
+categories = ['relationships']
+tags = ['relationships', 'reflection', 'growth']
 +++
-
 I get asked:
 
 How do you deal with ordinary people? The ones that don't bother you? and when does it start that they enter your life?

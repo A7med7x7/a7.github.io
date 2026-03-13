@@ -1,9 +1,10 @@
 +++
+title = 'It is Hard When You Do It Alone'
 date = '2025-12-19T18:59:48+03:00'
 draft = true
-title = 'It is Hard When You Do It Alone'
+categories = ['self']
+tags = ['solitude', 'growth', 'reflection']
 +++
-
 There is something that can make everything harder. take a problem that is manageable, something you can think through, something you can slowly untangle. now add one variable to it. add doing it alone. suddenly the same situation feels heavier. the same thoughts feel darker. the same obstacle feels impossible. changing alone, healing alone, fighting yourself alone, these do not simply double the weight. they multiply it.
 <!--more-->
 Whenever I try to overcome something that has always blocked me, I feel that weight clearly. it is not only the problem itself. it is the loneliness around it. the weight of doing it alone. the silence that amplifies every doubt. there is something exhausting about trying to outgrow yourself in isolation.

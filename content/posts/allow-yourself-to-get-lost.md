@@ -1,10 +1,10 @@
 +++
+title = 'Allow Yourself to Get Lost'
 date = '2026-01-15T19:25:00+03:00'
 draft = false
-title = 'Allow Yourself to Get Lost'
-tags = ['reflection']
+categories = ['philosophy']
+tags = ['identity', 'solitude', 'growth', 'relationships']
 +++
-
 A friend of mine called [Mahmoud](https://a7med7x7.github.io/posts/mahmoud-biography), I have loved this friend so much. unfortunately he was also a [victim of my constant avoidance](https://a7med7x7.github.io/posts/i-ran-because-you-mattered), but we are good now. Mahmoud and I were completely different personalities, yet something linked us at the core. thankfully to this relationship, I finally had a name for it. we were the only ones who allowed themselves to get lost.
 <!--more-->
 Since I was a kid, I carried this idea that I am a truth seeker. I wanted objective reality. I did not want to create my own version of it, and I did not want perception disguised as comfort.  I did not want culture local myths, I wanted what is real, even if it was uncomfortable. little me had no idea how difficult it is to make reality surface, so I clung to every tool that could help, theology, philosophy, logic, maths, rationality and any internal weapon that could sharpen my mental machinery to see what I could not see about myself or about the world.

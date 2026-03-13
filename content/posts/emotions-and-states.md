@@ -1,11 +1,10 @@
 +++
+title = 'Emotions and States'
 date = '2026-02-28T22:18:20+03:00'
 draft = false
-title = 'Emotions and States'
-tags = ['Emotions']
+categories = ['self']
+tags = ['emotions', 'psychology', 'identity']
 +++
-
-
 I’ve come to realize that not everything we “feel” belongs to the same category. Some emotions are momentary, they rise, peak, and then fade. Others are more persistent. They linger beneath the surface and shape our experience over time. The difference between an emotion and a state has become very clear to me.
 
 Take emptiness, for example. Emptiness is often described as a feeling, but it behaves more like a state. When you feel hollow inside, it isn’t just a passing wave like anger or excitement. It’s a sense that something is missing. You can distract yourself from it, you can silence it temporarily, but it doesn’t fully disappear. It waits. If you’ve ever truly felt emptiness, you know it has continuity. look and investigate inside every time and you will feel it. It’s not a spark, it does not vanish easily.

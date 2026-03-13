@@ -1,10 +1,10 @@
 +++
+title = "I Can't Accept Compliments"
 date = '2025-09-30T15:56:42+03:00'
 draft = false
-title = "I Can't Accept Compliments"
+categories = ['self']
+tags = ['psychology', 'identity', 'avoidance']
 +++
-
-
 I remember once posting on Facebook about how I dislike people who [compliment me](https://web.facebook.com/share/p/1Bw6NymosQ/), and I wrote something along the lines of: if you want to be a good friend of mine, do not give me compliments.
 <!--more-->
 It sounded rude. maybe it was rude. but it was honest, this writing might feel heavy, but I am not planning to soften it. the grace of people, in the form of praise and admiration, has never meant much to me. that does not mean I prefer walking around with everyone hating me. It does not mean I reject appreciation completely. a simple “thank you” feels natural. a few sincere words describing what you felt can be meaningful.

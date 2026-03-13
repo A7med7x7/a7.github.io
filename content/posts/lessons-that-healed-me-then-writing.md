@@ -1,11 +1,10 @@
 +++
+title = 'Lessons That Healed Me Then - Writing'
 date = '2025-12-24T12:19:51+03:00'
 draft = false
-tags = ['Lessons That Healed Me Then']
-category = ['Thought']
-title = 'Lessons That Healed Me Then - Writing'
+categories = ['learning']
+tags = ['writing', 'healing', 'series', 'growth']
 +++
-
 > *you go through life for a long time believing no one has ever suffered the way you have.*  
 > *and then, one day, you read something. or you hear something.*  
 > *and you realize your suffering does not isolate you.*

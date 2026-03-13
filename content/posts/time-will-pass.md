@@ -1,11 +1,10 @@
 +++
+title = 'Time Will Pass'
 date = '2026-02-03T04:00:00+03:00'
 draft = false
-title = 'Time Will Pass'
-tags = ['reflection', 'time', 'courage']
-categories = ['reflection']
+categories = ['philosophy']
+tags = ['memory', 'growth', 'reflection']
 +++
-
 I've learned since a young age that time will pass.  
 not moments with loved ones.  
 not revolutions and the race to wealth.  

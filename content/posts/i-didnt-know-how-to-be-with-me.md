@@ -1,9 +1,10 @@
 +++
+title = 'I Didnt Know How to Be With Me'
 date = '2026-01-02T15:00:45+03:00'
 draft = false
-title = 'I Didnt Know How to Be With Me'
+categories = ['self']
+tags = ['identity', 'solitude', 'reflection']
 +++
-
 The recent realizations I’ve had about myself, the [hard conversations that followed](https://a7med7x7.github.io/posts/five-unplanned-hours/), and the evidences I started linking together were pointing to something I didn’t even know existed.  
 they were slowly lighting the road in front of me.  not forcing me forward, just showing me that there _is_ a road. there is an interpretation it is not a random stochastic process.
 <!--more-->

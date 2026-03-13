@@ -1,10 +1,10 @@
 +++
+title = 'The Bias In My Advice'
 date = '2026-02-16T23:44:00+03:00'
 draft = false
-title = 'The Bias In My Advice'
-tags = ['reflection']
+categories = ['self']
+tags = ['psychology', 'identity', 'growth', 'relationships']
 +++
-
 I remember that over the years a kind of resistance began to form between me and giving advice to others. at first I thought it was because [they were too lost to see](https://a7med7x7.github.io/posts/the-condition-of-seeing/). sometimes I thought [they were not ready to heal](https://a7med7x7.github.io/posts/before-you-heal-someone/). but the truth is simpler and harder to admit. the resistance existed because I was different.
 
 I have learned something recently that I can finally say without arrogance. when you are naturally good at enduring something, you underestimate how heavy it feels for others. there is a friction that happens when your strength becomes someone else’s weakness. and instead of recognizing that difference, I was projecting my own structure onto them.

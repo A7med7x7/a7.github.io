@@ -1,10 +1,11 @@
 +++
-date = '2026-02-15T01:10:00+03:00'
-draft = true
 title = 'How Much Can I Process at Once'
+date = '2026-02-15T01:10:00+03:00'
 description = 'This part is a note on between obsession and Avoidance, I can either obsess over everything that is broken inside me, or pretend none of it exists. I have tried both. neither extremes works. this is me figuring out the middle.'
+draft = true
+categories = ['self']
+tags = ['psychology', 'growth', 'reflection']
 +++
-
 There is so much to think about and to process. sometimes it feels as if my mind is a hallway filled with doors, and each door contains a different version of my past. every time I open one, it demands attention. it does not politely wait.
 <!--more-->
 it spills out memories, emotions, patterns, unfinished conversations, hidden grief. and the problem is not that I cannot open the doors. the problem is that once one is open, I cannot open another without closing the first.

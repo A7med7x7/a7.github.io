@@ -1,10 +1,10 @@
 +++
+title = 'Not Built For Relationships The Way You Think'
 date = '2026-02-18T15:10:00+03:00'
 draft = false
-title = 'Not Built For Relationships The Way You Think'
-categories = ['relationships', 'identity', 'boundaries']
+categories = ['relationships']
+tags = ['avoidance', 'identity', 'psychology', 'growth']
 +++
-
 This month I have been seeking advice from people I trust about how to handle relationships in my life. there are a few relationships I deeply care about and genuinely want to preserve. but the majority of the tension I face comes from relationships I never consciously chose. they simply happened. I would find someone assuming we were friends, while I had [never said so](https://a7med7x7.github.io/posts/being-kind-doesnt-mean-i-want-to-be-close).
 <!--more-->
 Only after hearing what some people said about me, and reflecting on the patterns, did I begin to see things clearly. looking back, there were many times when I was simply enjoying good conversations or shared moments without naming anything. in university, I saw people as colleagues. at work, as coworkers. if we met randomly, then you were just someone I met randomly. I always [defaulted to the middle ground](https://a7med7x7.github.io/posts/adding-new-friends-system/#:~:text=Luckily%2C%20society%20gave%20us%20names%20as%20placeholders%20for%20people%20that%20even%20can%20help%20define%20the%20interactions%20and%20limits%20of%20relationships). no labels. no promises. no silent contracts.

@@ -1,11 +1,10 @@
 +++
+title = 'The First Whisper of quitting'
 date = '2025-11-19T18:30:25+03:00'
 draft = false
-title = 'The First Whisper of quitting'
-category=['Reflection']
+categories = ['self']
+tags = ['decision-making', 'growth', 'reflection']
 +++
-
-
 I used to think that if someone starts thinking about "quitting something," then they are already declining, and there won't be a lot of time until they quit. Here, I'm interested in quitting things you once desired or set for yourself, out of reliable or reliable intrinsic or extrinsic motivator.
 
 <!--more-->

@@ -1,9 +1,10 @@
 +++
+title = 'Losing Control Over My Thoughts'
 date = '2025-12-15T08:14:28+03:00'
 draft = false
-title = 'Losing Control Over My Thoughts'
+categories = ['self']
+tags = ['anxiety', 'psychology', 'memory', 'healing']
 +++
-
 This is a part I have always wanted to document and share but I never found the right words for it. it is the scariest feeling I have ever experienced, and it is mainly composed of fear. but it is also confusing in a way that, unless untangled slowly and honestly, it will remain confusing forever.
 
 The story goes back to 2023 when I was a student at the University of Khartoum. I wrote about that period before in a draft called [days that I still do not understand](https://a7med7x7.github.io/posts/days-i-still-dont-understand/). during that time, I was packed with fear. I was shaking for no obvious reason, living inside something I could not explain. I kept saying it was my sympathetic nervous system reacting because I was grinding too hard, as if my body had decided to pull the emergency brake for me. but that explanation slowly started to feel shallow. what triggered my nervous system in the first place? why was I already tense before the collapse? why was I restless long before everything fell apart?

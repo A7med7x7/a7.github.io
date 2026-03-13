@@ -1,10 +1,10 @@
 +++
+title = 'I Have Nothing To Say About This'
 date = '2026-02-14T00:21:00+03:00'
 draft = false
-title = 'I Have Nothing To Say About This'
-tags = ['reflection', 'uncertainty']
+categories = ['self']
+tags = ['identity', 'solitude', 'psychology']
 +++
-
 I don’t really find myself like everyone else. most times, I have no opinion on almost everything. I have no favorites. I don’t have a stance on almost anything that happens. I get asked, what’s your take on this? what’s your stance? and when I try to investigate myself within, I find none. there is no clear answer.
 <!--more-->
 These are not things related to the technical, materialistic sciences. I’m good with that part of the world, the part that is objective, measurable, structured. but I’m not good at things like moral good, personal preferences, political stances, human desires that seem natural to everyone else. they feel foreign to me. I cannot formulate words for my desires, opinions, or positions. not because I haven’t tried to know them, but because it feels as if they were never embedded in my system to begin with.

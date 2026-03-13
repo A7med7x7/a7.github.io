@@ -1,10 +1,10 @@
 +++
+title = 'Career Advice, AI and Learning How to Code'
 date = '2026-02-02T01:01:35+03:00'
 draft = false
-categories = ["Field Notes"]
-title = 'Career Advice, AI and Learning How to Code'
+categories = ['learning']
+tags = ['ai-and-tech', 'decision-making', 'growth']
 +++
-
 I remember my friend Awab sharing a thoughtful reading recommendation from the LessWrong community titled [You will be OK](https://www.lesswrong.com/posts/fwQburGDyGoSSweT9/you-will-be-ok). it is both a clarification and a gentle reminder of different ways to think and act under the existential threat of AI, written as a response to concerns raised by a young community member in [Turning 20 in the probable pre-apocalypse](https://www.lesswrong.com/posts/S5dnLsmRbj2JkLWvf/turning-20-in-the-probable-pre-apocalypse).
 <!--more-->
 I enjoyed both the posts and the comments sections. there was something deeply warming about seeing fear shared openly. it made me realize that I should not overthink this. I never really overthought this fog about the future before. I was busy doing my own things, focused on work and learning. but now, seeing how this uncertainty affects people, and hearing more personal stories, it feels scarier than I initially thought.

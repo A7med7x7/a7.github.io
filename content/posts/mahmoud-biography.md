@@ -1,9 +1,10 @@
 +++
+title = 'Mahmoud Biography'
 date = '2026-02-14T03:13:17+03:00'
 draft = false
-title = 'Mahmoud Biography'
+categories = ['people']
+tags = ['biographical', 'relationships', 'grief', 'memory']
 +++
-
 I have had a unique friendship with someone who, on the surface, could not be more different from me. his name is Mahmoud. when I first met him at the university of Khartoum, I was almost certain that we would never become close. not because of conflict, not because of incompatibility in values, but because he represented something I was instinctively afraid of.
 <!--more-->
 I am quiet by nature. I avoid the spotlight. I find comfort in discipline, in order, in structure. Mahmoud was the opposite of everything I believed myself to be. he was loud without trying. he attracted attention without asking for it. he moved through spaces as if the world was already aware of him. his randomness unsettled me. his presence filled rooms in ways mine never did.

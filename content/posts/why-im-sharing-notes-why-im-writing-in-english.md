@@ -1,10 +1,10 @@
 +++
+title = 'Why Im Sharing Notes - Why Im Writing in English'
 date = '2025-09-30T20:33:40+03:00'
 draft = false
-title = 'Why Im Sharing Notes - Why Im Writing in English'
-category = ['Meta','Archives']
+categories = ['learning']
+tags = ['writing', 'displacement', 'identity', 'series']
 +++
-
 Why I am writing in English and not Arabic.
 
 There is a guilt that comes with it. shame on me for writing in English while being Arab by mother and father. I have never fled to a western or European country. I was not obsessed with western movies, in fact I barely watch movies at all. I accidentally watched two movies in the past two years and that was it. yet I am still influenced by the west. that is simply the reality of the world we live in today. influence no longer requires migration. it travels through knowledge, through the internet, through science, through code.

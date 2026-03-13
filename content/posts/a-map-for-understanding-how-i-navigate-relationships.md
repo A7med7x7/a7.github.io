@@ -1,9 +1,10 @@
 +++
+title = 'A Map for Understanding How I Navigate Relationships'
 date = '2026-02-18T16:30:36+03:00'
 draft = false
-title = 'A Map for Understanding How I Navigate Relationships'
+categories = ['relationships']
+tags = ['psychology', 'identity', 'avoidance', 'growth']
 +++
-
 It started with a friend (North) asking me a simple question about how I form relationships. something I had never stopped and wondered about. that led to me doing some introspection, and I wrote this at the time: [Adding New Friends Systems](https://a7med7x7.github.io/posts/adding-new-friends-system/).
 <!--more-->
 After a while, I got to see this system as legacy. I had changed. time had changed. I had been on this system since I was little. maybe it was time for me to critique and interrogate it. so I did some analysis on the system of adding new friends by writing this: [Elaborate on Adding New Friends System](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/). I got to discover this was something I had never really cared about. relationships were my least important priority. this led me to investigate myself further, and I discovered what I was writing and thinking about genuinely was just the tail. the tail of a monster with teeth. big teeth.

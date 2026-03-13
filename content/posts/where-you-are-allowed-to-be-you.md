@@ -1,11 +1,10 @@
 +++
+title = 'Where You Are Allowed To Be You'
 date = '2025-11-06T23:15:00+03:00'
 draft = false
-title = 'Where You Are Allowed To Be You'
-tags = [ 'self-expression', 'culture']
-categories = ['Meta', 'Reflection']
+categories = ['self']
+tags = ['identity', 'reflection', 'growth']
 +++
-
 To nerd out and talk about a particular topic that you are deeply interested in/ obsessed with, requires you to unveil part of yourself. Your personality, your affection, your love for that topic. Often, it feels like dancing in the symphony of that subject(my analogy is very consumed, but I feel it holds true here).  
 
 <!--more-->

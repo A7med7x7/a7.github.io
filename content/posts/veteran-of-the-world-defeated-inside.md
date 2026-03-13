@@ -1,11 +1,10 @@
 +++
-date = '2026-01-25T16:30:00+03:00'
-draft = false 
 title = 'Veteran Of The World, Defeated Inside'
-tags = ['writing', 'faith', 'conflict']
-categories = ['reflection']
+date = '2026-01-25T16:30:00+03:00'
+draft = false
+categories = ['self']
+tags = ['identity', 'emotions', 'reflection']
 +++
- 
 Hardships of life are less hard to endure than living in my head.  
 Than having an internal conflict.
 <!--more-->

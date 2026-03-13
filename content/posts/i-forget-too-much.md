@@ -1,9 +1,10 @@
 +++
+title = 'I Forget Too Much'
 date = '2025-12-11T19:14:36+03:00'
 draft = false
-title = 'I Forget Too Much'
+categories = ['self']
+tags = ['memory', 'psychology', 'identity']
 +++
-
 > You're just forgetful.
 
 There is one attribute that almost all the people around me seem to know about, because I keep talking about it a lot: I find it difficult to remember both people and places, I forget things very easily.

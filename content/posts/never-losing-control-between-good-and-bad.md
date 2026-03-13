@@ -1,9 +1,10 @@
 +++
+title = 'Never Losing Control Between Good and Bad'
 date = '2026-01-24T19:51:17+03:00'
 draft = false
-title = 'Never Losing Control Between Good and Bad'
+categories = ['self']
+tags = ['emotions', 'psychology', 'growth']
 +++
-
 > *The most important of these skills, and power's crucial foundation, is the ability to master your emotions. An emotional response to a situation is the single greatest barrier to power,* <!--more-->
 > *a mistake that will cost you far more than any temporary satisfaction gained by expressing your feelings. Emotions cloud reason, and if you cannot see a situation clearly, you cannot prepare for it or respond with any degree of control. Anger is the most destructive of emotional responses, for it clouds vision the most. It also creates a ripple effect that makes situations less controllable and heightens your enemy’s resolve. If you are trying to defeat an enemy who has harmed you, it is far better to keep him off guard through restraint or feigned friendliness than by showing anger.*
 >

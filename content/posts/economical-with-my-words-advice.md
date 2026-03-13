@@ -1,12 +1,11 @@
 +++
+title = 'Economical With My Words - Advice'
 date = '2026-01-15T04:35:00+03:00'
-draft = false
 description = 'on giving advice and learning the opposite'
-title = "Economical With My Words - Advice"
-tags = ['reflection', 'advice', 'balance', 'relationships']
-categories = ['reflection']
+draft = false
+categories = ['self']
+tags = ['writing', 'relationships', 'reflection']
 +++
-
 when it comes to giving advice, I’ve become economical with my words. I take things slowly, often saying maybe later, or not now.
 <!--more-->
 I tell myself that I will give advice when it is needed, and only in the right dose. this feels healthy, especially because I once lived at the other extreme.

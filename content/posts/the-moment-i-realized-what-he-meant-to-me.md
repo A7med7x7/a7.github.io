@@ -1,11 +1,10 @@
 +++
+title = 'The Moment I Realized What He Meant to Me'
 date = '2025-12-11T16:06:01+03:00'
 draft = false
-title = 'The Moment I Realized What He Meant to Me'
-category = ['Archives', 'Personal']
+categories = ['people']
+tags = ['biographical', 'grief', 'relationships', 'memory']
 +++
-
-
 I remember coming back to Sudan from Saudi Arabia when [Abd Alwahab](https://www.facebook.com/abd.alwahab.alser) told me he had secured a scholarship in India and might travel to pursue it. After a lifelong friendship, growing up in the same district our entire lives, the time had finally come for him to leave for his undergraduate degree. I don’t recall thinking deeply about it at first, because it seemed that he hadn’t fully made up his mind yet. When I returned to Sudan, I got busy with university, and suddenly things became real on his side.
 
 ![Image](https://res.cloudinary.com/dkmutnahg/image/upload/v1773372844/IMG_6492_q6ge2x.jpg)

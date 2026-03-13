@@ -1,10 +1,10 @@
 +++
-date = '2025-03-25T19:12:13+03:00'
-draft = false 
-categories = ["Archives"]
 title = 'I Keep Failing the People I Care About'
+date = '2025-03-25T19:12:13+03:00'
+draft = false
+categories = ['relationships']
+tags = ['avoidance', 'grief', 'growth', 'healing']
 +++
-
 ### Things I was wrong about
 
 Recently, I came to the realization: I’m not giving people what they deserve. I don’t make it easy for them to stay close to me, not only strangers, but even the people who care about me the most. I build walls, my mood is forever changing around them, and constantly not around. And I know this is wrong. I noticed that at the beginning of relationships, I can match people’s energy effortlessly, but over time I gradually drift back into being distant and cold. It feels unfair, it's hypocrisy. either I shouldn’t appear friendly in the first place, or I should remain consistent with the way I start. which is being friendly forever.

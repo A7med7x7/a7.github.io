@@ -1,10 +1,10 @@
 +++
+title = 'Before Joining University'
 date = '2025-12-11T08:28:03+03:00'
 draft = false
-title = 'Before Joining University'
+categories = ['self']
+tags = ['memory', 'identity', 'reflection']
 +++
-
-
 I was waiting so badly to join university, high school had not been kind to me. It was not catastrophic, but it was deeply unpleasing. I did not feel at home there. I felt like I was passing through something I had to endure rather than something I could grow inside. I didn't like it at all.
 <!--more-->
 So when the time came to enter the University of Khartoum, I felt something close to relief. this was not just any university. It was *the* place. the University of Khartoum was the spot I loved the most in Sudan. It was where my inner child was shaped. I used to visit the campus when I was a kid with my older brothers. both of them studied engineering there. I remember walking through the buildings, feeling the weight of history in the walls, sensing something larger than myself.

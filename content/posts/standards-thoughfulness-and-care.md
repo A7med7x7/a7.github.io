@@ -1,10 +1,11 @@
 +++
-date = '2026-02-02T23:59:20+03:00'
-draft = false
-description = "on being a high performer, thoughtfulness, and why intentional work is never just about productivity but about how we choose to live."
 title = 'Standards, Thoughfulness and Care'
+date = '2026-02-02T23:59:20+03:00'
+description = 'on being a high performer, thoughtfulness, and why intentional work is never just about productivity but about how we choose to live.'
+draft = false
+categories = ['self']
+tags = ['identity', 'growth', 'reflection']
 +++
-
 Working with me used to be difficult, I am a high performer. I tend to do things with care, down to the small details, and I expect a basic level of thoughtfulness from the people I work with. not to overcomplicate life, and not to control others, but to make sure things are done properly.
 <!--more-->
 At the same time, working with me is still flexible. I do not micromanage. I dislike rigid schedules that account for every single hour. I value autonomy. I give people space and freedom to choose how they work.

@@ -1,10 +1,10 @@
 +++
+title = 'Search For What is Missing'
 date = '2026-03-16T06:00:00+03:00'
 draft = false
-title = 'Search For What is Missing'
-tags = ['suboptimality', 'friends', 'growth', 'introspection', 'wholeness']
+categories = ['self']
+tags = ['growth', 'identity', 'reflection']
 +++
-
 Most of the time we are afraid that we are not living in the [best chapter of our lives.](https://a7med7x7.github.io/posts/good-times-for-a-change) there is this quiet suspicion that something greater exists somewhere else, and that we are currently settling. so we cope. we gather friends around us to feel whole. we build [small bubbles](https://a7med7x7.github.io/posts/not-broken-just-suboptimal) where we cherry pick moments, conversations, and people that make us feel temporarily complete.
 <!--more-->
 To be selective often means choosing what feels slightly above average, slightly beyond what is normally available. you tell yourself this is enough. these people are good. these memories are meaningful. this job is fine. and yet, after the laughter fades and the moment dissolves, you return to the same internal point. you feel hollow. empty. or just slightly off.

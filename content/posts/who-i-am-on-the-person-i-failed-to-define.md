@@ -1,12 +1,11 @@
 +++
-date = '2025-12-12T20:40:54+03:00'
-draft = false
-description = "A reflection on eight years of notes, trying to understand who I am. From ancestry and identity myths, to personality frameworks, introversion, Stoicism, antifragility, and the patterns of disappearance that shaped my relationships, this is the story of how every definition failed, what each framework tried to explain, and why the question “Who am I?” has remained the hardest to answer."
 title = 'Who I Am : on the Person I Failed to Define'
-categories = ['Personal']
+date = '2025-12-12T20:40:54+03:00'
+description = 'A reflection on eight years of notes, trying to understand who I am. From ancestry and identity myths, to personality frameworks, introversion, Stoicism, antifragility, and the patterns of disappearance that shaped my relationships, this is the story of how every definition failed, what each framework tried to explain, and why the question “Who am I?” has remained the hardest to answer.'
+draft = false
+categories = ['self']
+tags = ['identity', 'psychology', 'relationships', 'growth']
 +++
-
-
 This question is by far the hardest for me to answer. I’ve tried for years, and every attempt was prone to failure. A big part of the struggle wasn’t just about identity itself, but about how strange my relationships were, unstable, confusing, always shifting. It’s hard to know who you are when the people around you [don’t stay long enough](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=This%20cycle%20of%20people%20showing%20genuine%20interest%20in%20me%2C%20then%20suddenly%20losing%20it%2C%20is%20hard), for you to see your reflection in them.
 <!--more-->
 This writing sums all my previous attempts in the search for who I am. I’ve been taking notes on what I believe about myself, the frameworks I adopted, and the ways I tried to describe the person I thought I was. What you’ll read here is a reflection and a summary of those notes, up to today.

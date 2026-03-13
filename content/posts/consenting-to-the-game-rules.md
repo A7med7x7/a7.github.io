@@ -1,11 +1,10 @@
 +++
+title = 'Consenting to the Game Rules'
 date = '2025-12-05T03:00:00+03:00'
 draft = false
-title = 'Consenting to the Game Rules'
-tags = ['reflection', 'thinking']
-categories = ['Thought']
+categories = ['philosophy']
+tags = ['decision-making', 'identity', 'growth']
 +++
-
 This piece of writing was part of an article I’m writing, about how I would help someone answering the question of “what do I want to do”, where I discuss how to pick a major and what helps you to define the way you contribute to this world. I found the draft of the article to be very lengthy, I may expected the reader to be aware of different notions upfront, so I preferred this topic to be referenced here. As many of my drafts are pointing to it.
 
 <!--more-->

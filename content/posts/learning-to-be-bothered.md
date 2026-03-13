@@ -1,11 +1,10 @@
 +++
+title = 'Learning To Be Bothered'
 date = '2026-01-28T23:00:00+03:00'
 draft = false
-title = 'Learning To Be Bothered'
-tags = ['reflection', 'emotions', 'self respect']
-categories = ['reflections']
+categories = ['self']
+tags = ['growth', 'psychology', 'emotions']
 +++
-
 Either at work or in daily life, car horns for no reason. someone dragging their feet without lifting them. cutting a public service queue. leaving clothes in the gym changing room instead of the locker. a bank agent typing five words per minute. an uber driver talking on the phone. someone playing a video on the metro without headphones.
 <!--more-->
 Inwardly, I get bothered easily by the small inconsistencies surrounding us. sometimes they even flare up my IBS. I wonder how someone can be so unaware while doing something so uncivilized.

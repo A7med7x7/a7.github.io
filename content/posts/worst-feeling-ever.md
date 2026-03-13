@@ -1,9 +1,10 @@
 +++
-date = '2026-01-24T21:52:38+03:00'
-draft = false 
 title = 'Worst Feeling Ever'
+date = '2026-01-24T21:52:38+03:00'
+draft = false
+categories = ['self']
+tags = ['emotions', 'psychology', 'anxiety', 'healing']
 +++
-
 If you were to ask me what the worst feeling is, I would not choose one single emotion. it is not anger alone. not grief alone. not sadness or longing by themselves. the worst feeling is when they all gather at once. tension born from emotional suppression. confusion layered over alienation. longing mixed with hopelessness. pressure sitting beside grief. anger tangled with sadness. it is not one storm. it is many storms colliding in the same sky.
 
 The difficulty is not that they exist. I can sense them. I know they are there. deep down they move, almost breaking free, almost demanding expression. but they do not come out fully. they remain suspended inside me. and maybe the reason is simple. there are too many of them at once. when emotions stack on top of each other, they lose their individual shape. I cannot isolate one and say this is anger. this is grief. this is fear. they blur into one heavy mass.

@@ -1,13 +1,10 @@
 +++
+title = 'State of Numbness'
 date = '2025-06-22T17:43:34+03:00'
 draft = false
-title = 'State of Numbness'
-tags = ['writing', 'feelings']
-categories = ['reflection']
+categories = ['self']
+tags = ['emotions', 'anxiety', 'reflection']
 +++
-
-
-
 >*Early to rise early to bed, makes a man healthy but socially dead*
  
 <!--more-->

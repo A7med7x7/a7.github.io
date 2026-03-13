@@ -1,10 +1,10 @@
 +++
+title = 'Lessons That Healed Me Then Series'
 date = '2025-12-17T22:48:00+03:00'
 draft = false
-title = 'Lessons That Healed Me Then Series'
-tags = ['Lessons That Healed Me Then']
+categories = ['self']
+tags = ['healing', 'series', 'growth', 'identity']
 +++
-
 When I turned thirteen, something shifted in me. it was not dramatic on the outside, but internally everything felt rearranged. I was lost in a way I could not articulate. I could not understand my emotions, nor my behavior, nor the sudden cynicism that began to color the way I saw the world. I became negative, sharp, and difficult, and I started affecting the people around me without even noticing.
 <!--more-->
 That period lasted for nearly three years. it is blurry when I try to remember how it started, but I know what it felt like. every sunny day looked grey. I spent most of my time in my room doing nothing in particular. I slept excessively and was always physically drained. my most repeated sentence was I am tired, even when I had done nothing to deserve that exhaustion.

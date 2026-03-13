@@ -1,11 +1,10 @@
-+++  
-date = '2026-01-19T18:00:00+03:00'  
-draft = false  
-title = "Can Someone Please Tell Me I'm Wrong"  
-tags = ['reflection','university','memory']  
-categories = ['Reflections']  
 +++
-
+title = "Can Someone Please Tell Me I'm Wrong"
+date = '2026-01-19T18:00:00+03:00'
+draft = false
+categories = ['self']
+tags = ['identity', 'anxiety', 'growth']
++++
 I remember that particular day. I was heading to the University Of Khartoum. I took the city train. I was standing. there were no seats left. my head was facing the floor, and the train was moving. I was just there.
 <!--more-->
 I was not looking at my phone. usually, I read a book on the way, or watch something, or listen to anything just to pass time. that day was different. not because I woke up differently. I woke up normally. I did everything normally. but I did not hold my phone. it was just me and my thoughts.

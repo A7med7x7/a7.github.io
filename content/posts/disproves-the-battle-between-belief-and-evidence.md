@@ -1,9 +1,10 @@
 +++
+title = 'Disproves - the Battle Between Belief and Evidence'
 date = '2026-01-08T06:54:34+03:00'
 draft = false
-title = 'Disproves - the Battle Between Belief and Evidence'
+categories = ['philosophy']
+tags = ['identity', 'psychology', 'growth']
 +++
-
 > And then I'm surprised because... I guess I'm surprised because people care, cause I think, when I was young growing up, I felt like nobody cared, and you put up all these things inside of you because nobody cares, and then you happen upon a small moment where somebody really cares, and it just disproves everything you ever knew about the world, and that is surprising.
 > Theo von
 <!--more-->

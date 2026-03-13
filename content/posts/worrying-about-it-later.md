@@ -1,10 +1,10 @@
 +++
+title = 'Worrying About It Later'
 date = '2026-02-02T00:57:56+03:00'
 draft = false
-categories = ["Thought", "Reflections"]
-title = 'Worrying About It Later'
+categories = ['philosophy']
+tags = ['decision-making', 'psychology', 'anxiety']
 +++
-
 I do not remember exactly whereIfirst learned the sentence “worry about it later”. but over time, it revealed itself as something deeper than advice. it describes a mental mechanism that works almost automatically in my mind. a form of being [selectively ignorant](https://a7med7x7.github.io/posts/consenting-to-the-game-rules/#:~:text=selectively%20ignorant%2C-,Selectively%20Ignorant,-If%20you%20can) about certain things, not because they do not matter, but because they do not matter _now_.
 
 <!--more-->

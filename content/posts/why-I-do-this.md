@@ -1,11 +1,11 @@
 +++
+title = 'Why I’m Sharing Notes - Reflection'
 date = '2025-09-04T09:32:11+03:00'
-title = "Why I’m Sharing Notes - Reflection "
 description = 'A personal reflection on my writing journey and the demons that held me back'
-tags = ['writing', 'personal']
-categories = ['Meta']
+draft = false
+categories = ['learning']
+tags = ['writing', 'identity', 'reflection']
 +++
-
 > *do things badly*
 
 As the years pass by, I find myself adapting to different reasons to keep living, and to share, I'm not as clear as I used to be about why I should be posting something publicly, but looking back over the years, I recall how writing started. How reasons changed.
