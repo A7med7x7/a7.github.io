@@ -6,11 +6,11 @@ categories = ['relationships']
 tags = ['grief', 'growth']
 +++
 
-> Oh you don’t have to carry the guilt or to blame yourself for hurting others, they say. 
+> Oh you don’t have to carry the guilt or to blame yourself for hurting others, they say.
 
 and I smile because I wish that landed somewhere in me. I can’t, my friend. you are looking at me but you are not seeing what I am seeing, and that is not your fault, you were not there, you did not live what I lived, you came into my life somewhere in the middle of the story and missed everything that happened before the page you opened on.
 
-It is strange, the way time splits the people who know you. the ones who are new don’t carry the weight of who you were. and the ones who left never got to see who you became. so you exist in pieces across different people’s memories, and none of them hold the whole thing. I have hurt people. not strangers in the abstract, real ones, people I loved, people who trusted me with something soft in themselves. 
+It is strange, the way time splits the people who know you. the ones who are new don’t carry the weight of who you were. and the ones who left never got to see who you became. so you exist in pieces across different people’s memories, and none of them hold the whole thing. I have hurt people. not strangers in the abstract, real ones, people I loved, people who trusted me with something soft in themselves.
 
 I was careless, I genuinely could not feel the edges of other people, could not locate where I ended and where their pain began. so I moved through them without noticing the damage. it was not malicious, It wasn’t intentional. but it was mine.
 
