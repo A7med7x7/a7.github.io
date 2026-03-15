@@ -10,6 +10,14 @@ I basically [ruined all the friendships](https://a7med7x7.github.io/posts/elabor
 <!--more-->
 I started to drop people before [the cycle](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=then%20stop%20trying.-,This%20cycle,-of%20people%20showing) of me starting to get cold and avoidant begins, which would eventually ruin the friendships or relationships anyway.
 
+<div style="text-align: center;">
+
+![Image](https://res.cloudinary.com/dkmutnahg/image/upload/v1773569053/Screenshot_20220801-130138_tbku9e.jpg)
+
+*A screenshot dates back to 2022 (that was toxic and childish)*
+
+</div>
+
 I thought it was a problem related to understanding [the person I am](https://a7med7x7.github.io/posts/who-i-am-on-the-person-i-failed-to-define/), which is a question that was always freaking me out, and you can see my failures [here](https://a7med7x7.github.io/posts/who-i-am-on-the-person-i-failed-to-define/). I abandoned creating relationships and started to grind solo, as I’m naturally capable of doing, but [some people are just there](https://a7med7x7.github.io/posts/elaborate_on_adding-new-friends-system/#:~:text=What%20should%20I%20do%20with%20pending%20requests%3F), waiting for me, and it is very bad to leave them hanging.
 
 Meeting new people is always fun, but having a relationship of any kind with people is where I start to get anxious. This is not my playground. The good news is that I’m slowly starting to understand the [person I am in relationships](https://a7med7x7.github.io/posts/learning-the-truth-about-how-i-love/), and this has come after a long journey of self reflection and experiments. I’m not very happy, but I’m also a bit optimistic that I will finally draft something regarding this topic, about how you can enter my life, how my friends managed to penetrate my sphere, for a while I thought it was magic, that they were just there for me all the time and time made it happen, but in reality there is an explanation, a great part is the person who I'm and my needs in relationships.  

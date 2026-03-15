@@ -55,7 +55,6 @@ The real problem was deeper, I was not interested in people. or at least that’
 
 it wasn’t that me and people didn’t get along. It was that I didn’t want to need them.
 
-
 ### The Real Fear
 
 Before university, I overthought many things, but not grades, not lectures, not academic competition.
