@@ -35,7 +35,7 @@ The blog uses a fixed vocabulary for categorization to ensure clarity and consis
 | `growth` | A realization or shift changed how I see myself or the world |
 | `grief` | Loss, missing people, what time or distance takes away |
 | `writing` | Meta-posts about the act of writing, note-taking, or why I share |
-| `decision-making` | Frameworks, choices, timing, how you decide things in life |
+| `decision-making` | Frameworks, choices, timing, how I decide things in life |
 | `memory` | Forgetting, nostalgia, recalling the past |
 | `psychology` | The post names or examines a psychological phenomenon (comparative suffering, flow state, etc.) |
 | `leadership` | my complicated relationship with leading, communities, founding teams |
@@ -46,7 +46,8 @@ The blog uses a fixed vocabulary for categorization to ensure clarity and consis
 | `biographical` | The post is primarily a portrait of a specific real person in your life |
 | `reflection` | Annual or milestone reflections (birthday posts, year-in-review, looking back across a period) |
 | `anxiety` | Fear, worry, losing control of thoughts, existential dread |
-| `healing` | Posts explicitly about recovery, understanding yourself better, getting better |
-| `relationships` | Use as a tag when a non-relationship post meaningfully touches how you connect with others |
+| `healing` | Posts explicitly about recovery, understanding myself better, getting better |
+| `relationships` | a non-relationship post meaningfully touches how I connect with others |
+| `letters` | The post is a letter I wrote for someone, mostly friends and shared it publicly because it made sense |
 
 You can access the blogs [here](https://a7med7x7.github.io/a7.github.io) or in the GitHub repo about section.
