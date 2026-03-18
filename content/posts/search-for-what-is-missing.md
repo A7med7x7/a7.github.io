@@ -1,6 +1,6 @@
 +++
 title = 'Search For What is Missing'
-date = '2026-03-16T06:00:00+03:00'
+date = '2026-02-16T06:00:00+03:00'
 draft = false
 categories = ['self']
 tags = ['growth', 'identity', 'reflection']
