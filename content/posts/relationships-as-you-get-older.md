@@ -3,8 +3,7 @@ date = '2026-03-07T00:00:00+03:00'
 draft = false 
 title = 'relationships as you go older' 
 category = ['self'] 
-tags = 
-['relationships', 'relationships', 'growth', 'contradictions'] 
+tags = ['relationships', 'relationships', 'growth', 'contradictions'] 
 +++
 
 I have had this realization, knowing I almost ruined all my relationships. my childhood, teenage years and early twenties are all lessons of detachment and isolation, and I kind of never been hungry for relationships although I wasn't so fully into them either, and that paradox was what confused me. that all this independence should lead to some desire of feeling what it's like to feel the dependence you would feel in all sorts of relationships, all this alone time means I might need at least one loyal friend who I would need to talk to about everything. and it really isn't that strange, but this was another form of walking contradiction. it confused me, but not that much. attributing factors worked as explanations, I might be fulfilled with the close circle I have, and indeed I have a very small circle where I'm fulfilled with life, satisfied mentally, intellectually and emotionally. my very few friends and family are all I need so I don't look outside. but then also I shouldn't cheapen bonding myself with others this much, and I wasn't, I was genuinely fine in forming healthy relationships with others, but it was so messy. not the kind of messy that comes from a dynamic relationship, but in the [mechanism I had of making new ones](https://a7med7x7.github.io/posts/elaborate_on_adding_new_friends_system/) and then when I realized all the things that were holding me back from maintaining and establishing new relationships in my life, it was because of being emotionally detached.

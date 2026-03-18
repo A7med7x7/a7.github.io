@@ -1,5 +1,5 @@
 +++
-date = '2026-12-24T00:00:00+03:00'
+date = '2025-12-24T00:00:00+03:00'
 draft = false
 title = 'Forgetful'
 category = 'self'
