@@ -7,7 +7,10 @@ tags = ['identity', 'emotions', 'contradictions']
 +++
 
 
-This writing might seem a bit negative or apathetic, and to be honest, I don't like to show this part of me. People look at my bright eyes and don't notice sometimes that it is just a performance. And it kills me when they don't notice, because if I were actually impressed, I would have stayed, or given an honest opinion. But I can't blame them, That makes me two sided, a hypocrite. But that is never my intention. My intention is to get through the day without making someone feel the hurt of my honest words. A cheerful face, a compliment here and there, that's all I need to survive the day. Yes, your project is great. Yes, you're clearly a hard worker. But there are things I've never said out loud.
+This writing might seem a bit negative or apathetic, and to be honest, I don't like to show this part of me. People look at my bright eyes and don't notice sometimes that it is just a performance. And it kills me when they don't notice, because if I were actually impressed, I would have stayed, or given an honest opinion. 
+ <!--more-->
+ 
+But I can't blame them, That makes me two sided, a hypocrite. But that is never my intention. My intention is to get through the day without making someone feel the hurt of my honest words. A cheerful face, a compliment here and there, that's all I need to survive the day. Yes, your project is great. Yes, you're clearly a hard worker. But there are things I've never said out loud.
 
 Don't take the project to me hoping to impress me with your personality. I don't care about your achievements. Those medals, that ability to write differential equations, they're genuinely good, and I respect the discipline it took to earn them. But they don't impress me. I came from a background where I've seen whole rooms full of brilliant, nerds, self driven people, so finding more of them doesn't really add anything new to my world. That doesn't make your skills worth less, or mean an abundance of people like you makes you cheaper, no. You should be proud. But please don't assume I'll be wowed by it. I wish I could be. I genuinely wish I were easier to impress.
 
