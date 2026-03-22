@@ -12,4 +12,11 @@ He used to be the only colorful thing in my grey days. and this Eid I felt his a
 
 I can't think that even if I had known the entire world, anyone would bring back what I feel with him. my days are woven with him. my childhood, my memories, my brightest memories live somewhere near him. and no matter where I turn, I find myself longing for my friend, his presence, the specific color he gave to ordinary days, the version of me that existed easily when he was around.
 
+<div style=text-align:center;>
+
 ويُرجعني إليك وإن تناءت دياري عنك تجربةُ الرجالِ
+
+</div>
+
+
+![](https://res.cloudinary.com/dkmutnahg/image/upload/v1774210069/5bdcce09-074b-499b-8f26-2e6826c0e7e2_werz1r.jpg)
