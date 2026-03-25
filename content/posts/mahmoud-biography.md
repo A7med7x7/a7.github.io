@@ -19,7 +19,7 @@ But slowly, something began to shift. he was not loud in the way I had assumed. 
 
 Small interactions accumulated. he initiated outings. he gathered people. not for shallow entertainment, but for discovery, for curiosity, for life. he had this way of turning ordinary days into experiences. he was leading our batch (mostly the boys), not through dominance, but through invitation. eighteen year old me did not have the language for it, but now I understand. he was alive in a way that was not loudness. it was vitality. and I began to see him differently.
 
-Our friendship did not begin with emotion. it began with utility. I was the smartest in programming and computers among our colleagues. Mahmoud was the smartest in mathematics. I was never fortunate enough [to be good at maths](). he was exceptional at it, not by nature, but he taught himself. and strangely, he did not look like the archetype of a math prodigy. he did not wear seriousness on his face. he did not carry the aesthetic of intellectual rigidity. he looked like someone who should not care about science at all. yet he dominated it.
+Our friendship did not begin with emotion. it began with utility. I was the smartest in programming and computers among our colleagues. Mahmoud was the smartest in mathematics. I was never fortunate enough [to be good at maths](http://a7med7x7.github.io/posts/place-holder). he was exceptional at it, not by nature, but he taught himself. and strangely, he did not look like the archetype of a math prodigy. he did not wear seriousness on his face. he did not carry the aesthetic of intellectual rigidity. he looked like someone who should not care about science at all. yet he dominated it.
 
 He had one weakness: he did not know how to use computers. he had never programmed before. so we made an unspoken agreement. he would teach me mathematics, and I would teach him programming. he was the kind of person who learned best by teaching others, just like me.
 
@@ -30,6 +30,9 @@ We sat together. he began explaining. I remember it was a problem involving limi
 Time passed, and I traveled outside Sudan for the rest of the semester. we were not the kind of friends who communicated online. our bond existed in physical proximity. when I was away, I assumed he gravitated toward other colleagues.
 
 Before finals, I returned to Sudan and decided to host a boot camp at my home so we could study together continuously. it was ambitious and chaotic. I had never hosted that many friends before. but it happened. for over a week, my house transformed into a collaborative ecosystem.
+
+![](https://res.cloudinary.com/dkmutnahg/image/upload/v1774454743/IMG_8644_tmthn7.jpg)
+*[Salah Eldirdiri](https://www.facebook.com/salah.dardiri), [Ahmed Sufyan](https://www.facebook.com/ahmed.sufyan.232031), Ahmed Altayeb, [Mohammed Yousif](https://www.facebook.com/mohammed.yousif.50309), Khalid and I*
 
 We divided responsibilities naturally. those who were strong in slide based subjects led those sessions. [Omar Munir]([https://web.facebook.com/omunirr](https://web.facebook.com/omunirr)) supported structured topics. [Mohammed Yousif]([https://web.facebook.com/mohammed.yousif.50309](https://web.facebook.com/mohammed.yousif.50309)) became our discrete mathematics instructor. [Mahmoud](https://web.facebook.com/iMahmodz) helped in Math, and I took responsibility for programming languages, Python at the time.
 
@@ -42,5 +45,8 @@ We laughed more than we should have studied that night. for the first time in a 
 Everyone fell asleep quickly from exhaustion. I was in the middle of the row of beds. Mahmoud was near the edge. we could not see each other in the dark, but we both remained awake, staring at the sky. we began talking. we discussed serious questions, life, meaning, doubt, ambition maybe. the words flowed quietly into the night. they were not rehearsed thoughts. they were investigative whispers, testing whether the other mind operated similarly. that night, Mahmoud clicked differently again.
 
 The next morning, or perhaps the day after, my memory blurs, something small happened. Mohammed dropped his phone, and the screen shattered. it was a minor misfortune before an exam. we decided to take the city train to the university. some of us had never tried it before. there was a station near our house.
+
+![](https://res.cloudinary.com/dkmutnahg/image/upload/v1774454939/Screenshot_2026-03-25_at_7.08.38_PM_jsczfi.png)
+*Saying Goodbye to Abdallah Sayed and Mohammed Yousif*
 
 Mahmoud managed to relieve from what happened, and In the middle of the bridge crossing the Nile, a frame froze in my mind. the river below us. the clouds scattered above. the green trees along the banks. the university in the distance. and Mahmoud laughing beside me about something I can no longer remember. that image remains sharper than any other. I do not remember the exam. I do not remember what we discussed that morning. but I remember that bridge.
