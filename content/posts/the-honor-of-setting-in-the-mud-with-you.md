@@ -6,7 +6,7 @@ category = 'relationships'
 tags = ['grief', 'memory', 'letters', 'relationships', 'biographical']
 +++
 
-> And I remember telling one of my closest friends, hey just out of the blue it hit me i turned to him and I said: you now, you are one of those friends if I was really in the shit I Would call you, and his reaction, is he didn't say thank you, he said, I'd be mad if you didn't, when you don't call me and say I'm in  the mud, you deny me the opportunity, the honor of setting in mud with you. - *Simon Sinek*
+> And I remember telling one of my closest friends, hey just out of the blue it hit me I turned to him and I said: you now, you are one of those friends if I was really in the shit I Would call you, and his reaction, is he didn't say thank you, he said, I'd be mad if you didn't, when you don't call me and say I'm in  the mud, you deny me the opportunity, the honor of setting in mud with you. - *Simon Sinek*
 
 Every time I hear that, I think of Abdalwahab. We used to pray at the same small mosque near my home, nothing more than a hall, really, a modest room that held the neighborhood together. and then I would disappear. just gone, the way I always went, my patterns pulling me inward for weeks or months at a time. and when I came back I wouldn't think I had done anything wrong. I'd return to the mosque, to the street, to the familiar corners, and find that everyone was fine. no one had noticed. and I hadn't expected them to. I didn't even fully understand what had happened, only that I had needed time alone and taken it, the way I always did, without announcement.
 

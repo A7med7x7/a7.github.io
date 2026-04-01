@@ -10,13 +10,13 @@ Than having an internal conflict.
 <!--more-->
 I'm a veteran to the external world.  
 I can ace whatever you put me through.  
-The difficulties i can navigate.
+The difficulties I can navigate.
 
 But not my internals.  
 There, I'm not good.  
 I'm always beaten inside.
 
-I've had this quote with me since i was 14.
+I've had this quote with me since I was 14.
 
 > faith sees best in the dark
 
@@ -46,7 +46,7 @@ This kind of darkness is eating the light.
 Losing one of my inner weapons, one of my tools, brings this kind of grief.
 Faith used to help me see the future.  
 it helped tell my brain that this pain is temporary.  
-That i can trust the later.
+That I can trust the later.
 But not these kinds of battles.
 I cannot imagine a winning future.  
 My mind scans possibilities and finds none.

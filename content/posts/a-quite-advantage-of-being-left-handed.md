@@ -19,7 +19,7 @@ A left handed lecturer writing left to right stands slightly to the right of the
 
 it is a small physical detail, but in teaching, small frictions accumulate. losing sight of a formula halfway through derivation breaks concentration. clarity on the board directly affects clarity in the mind.
 
-this realization stayed with me. if i ever become a lecturer, my students will not have to struggle to see what i just wrote. not because i am a better explainer, but because my body will not stand between them and the idea.
+this realization stayed with me. if I ever become a lecturer, my students will not have to struggle to see what I just wrote. not because I am a better explainer, but because my body will not stand between them and the idea.
 
 Sometimes advantages are not skills. sometimes they are about alignment. between motion and medium. between body and space.
 
