@@ -1,5 +1,5 @@
 +++ 
-date = '2026-04-01T13:00:00+03:00' 
+date = '2026-02-22T13:00:00+03:00' 
 draft = false 
 title = 'Walking Contradictions: I Hate Managing. I Keep Leading. ' 
 tags = ['identity', 'leadership', 'contradictions', 'anxiety', 'growth', 'series'] 
@@ -10,7 +10,7 @@ People have a habit of reading me as someone who is chasing something I'm not. t
 
 That reading has always been a little off. I was never the one who applied. I was nominated, referenced, recommended. I got pulled in. and the reason that distinction matters is because it points to the actual motive, which was never money, and never the feeling of being supreme over others. I don't love controlling people. I genuinely don't. not out of shyness, not out of some performed humility, but because responsibility is something I fear, and because I have always preferred being a contributor over being a manager. a contributor does the work. a manager mostly speaks about how the work is progressing. I despised that image of leadership since I was young.
 
-The first time I built something, the [advertising agency]() at sixteen, the motive wasn't financial independence or market opportunity. it was simpler and less impressive than that: I could see talent around me, I could see a gap that talent could fill, and I wanted to connect the two. the fact that it generated money was secondary. almost incidental.
+The first time I built something, the [advertising agency](https://a7med7x7.github.io/posts/on-video-editing/#:~:text=felt%20genuinely%20good.-,Dart,-At%20some%20point) at sixteen, the motive wasn't financial independence or market opportunity. it was simpler and less impressive than that: I could see talent around me, I could see a gap that talent could fill, and I wanted to connect the two. the fact that it generated money was secondary. almost incidental.
 
 ## The Slow Accumulation
 
