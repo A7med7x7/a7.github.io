@@ -1,5 +1,5 @@
 +++ 
-date = '2026-01-01T14:00:00+03:00' 
+date = '2026-01-18T14:00:00+03:00' 
 draft = false 
 title = 'Startup Culture and Motives' 
 tags = ['identity', 'leadership', 'contradictions', 'growth', 'series'] 
