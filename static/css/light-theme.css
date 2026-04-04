@@ -1,0 +1,189 @@
+@media (prefers-color-scheme: light) {
+  :root {
+    --ui-shell-bg: #f9f7f4;
+    --ui-surface: #f1ede6;
+    --ui-surface-soft: #e8e3da;
+    --ui-ink: #1a1916;
+    --ui-ink-muted: #6b6560;
+    --ui-line: #ddd8cf;
+    --ui-card-bg: #f1ede6;
+    --ui-card-line: #ddd8cf;
+    --ui-link-blue: #5f4b8b;
+  }
+
+  body {
+    background-color: var(--ui-shell-bg) !important;
+    color: var(--ui-ink) !important;
+  }
+
+  /* Header and Navigation */
+  .headerWrapper {
+    background: var(--ui-shell-bg) !important;
+    border-bottom-color: var(--ui-line) !important;
+  }
+
+  .terminal,
+  .terminal:hover {
+    color: var(--ui-ink) !important;
+  }
+
+  .headerLinks ul li a {
+    color: var(--ui-ink-muted) !important;
+  }
+
+  .headerLinks ul li a:hover,
+  .headerLinks ul li a:focus-visible {
+    color: var(--ui-ink) !important;
+  }
+
+  .hamb {
+    background: rgba(26, 25, 22, 0.03) !important;
+    border-color: var(--ui-line) !important;
+  }
+
+  .hamb-line,
+  .hamb-line::before,
+  .hamb-line::after {
+    background: rgba(26, 25, 22, 0.92) !important;
+  }
+
+  /* Post List and Cards */
+  .postListItem {
+    background: var(--ui-card-bg) !important;
+    border-color: var(--ui-card-line) !important;
+  }
+
+  .postListLink:hover .postListItem,
+  .postListLink:focus-visible .postListItem {
+    background: var(--ui-surface-soft) !important;
+    border-color: rgba(26, 25, 22, 0.18) !important;
+  }
+
+  .postTitle {
+    color: var(--ui-ink) !important;
+  }
+
+  .postDate,
+  .postExcerpt,
+  .listContent {
+    color: var(--ui-ink-muted) !important;
+  }
+
+  /* Post Content */
+  .postBody {
+    color: var(--ui-ink) !important;
+  }
+
+  .postMetadata {
+    background: transparent !important;
+    border-color: var(--ui-card-line) !important;
+    color: var(--ui-ink-muted) !important;
+  }
+
+  .postMetadata dt {
+    color: var(--ui-ink-muted) !important;
+  }
+
+  .post-feature-image {
+    background: var(--ui-surface) !important;
+    border-color: var(--ui-card-line) !important;
+  }
+
+  .postBody blockquote {
+    border-left-color: var(--ui-line) !important;
+    color: var(--ui-ink-muted) !important;
+  }
+
+  /* Links */
+  a {
+    color: var(--ui-link-blue) !important;
+  }
+
+  a:hover {
+    color: #3d2f66 !important; /* Link hover */
+  }
+
+  .postBody a {
+    text-decoration-color: rgba(95, 75, 139, 0.4) !important;
+  }
+
+  .postBody a:hover {
+    text-decoration-color: #3d2f66 !important;
+  }
+
+  /* Footer */
+  .footer {
+    background: var(--ui-shell-bg) !important;
+    border-top-color: var(--ui-line) !important;
+    color: var(--ui-ink-muted) !important;
+  }
+
+  .footerLink {
+    color: var(--ui-ink) !important;
+    text-decoration-color: rgba(26, 25, 22, 0.2) !important;
+  }
+
+  .footerLink:hover {
+    text-decoration-color: rgba(26, 25, 22, 0.6) !important;
+  }
+
+  /* Code Blocks */
+  pre code, code {
+    background: #f3f0eb !important;
+    color: #1a1916 !important;
+  }
+
+  /* Social Navbar */
+  .socialNavbar a {
+    color: var(--ui-ink-muted) !important;
+  }
+
+  .socialNavbar a:hover {
+    color: var(--ui-ink) !important;
+    border-color: rgba(26, 25, 22, 0.3) !important;
+  }
+
+  /* Search Page Overrides */
+  .search-title {
+    color: var(--ui-ink) !important;
+  }
+
+  .search-input {
+    background: var(--ui-surface) !important;
+    border-color: var(--ui-line) !important;
+    color: var(--ui-ink) !important;
+  }
+
+  .search-input:focus {
+    background: var(--ui-surface-soft) !important;
+    border-color: #9e9890 !important;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.05) !important;
+  }
+
+  .search-result-item {
+    background: var(--ui-surface) !important;
+    border-color: transparent !important;
+  }
+
+  .search-result-item:hover {
+    background: var(--ui-surface-soft) !important;
+    border-color: var(--ui-line) !important;
+  }
+
+  .result-title {
+    color: var(--ui-ink) !important;
+  }
+
+  .result-excerpt {
+    color: var(--ui-ink-muted) !important;
+  }
+
+  mark {
+    background: rgba(95, 75, 139, 0.15) !important;
+    color: var(--ui-ink) !important;
+  }
+
+  .no-results {
+    color: var(--ui-ink-muted) !important;
+  }
+}
