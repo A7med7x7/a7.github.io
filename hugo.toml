@@ -61,10 +61,14 @@ color = "blue"
 
 [menu]
   [[menu.header]]
-    name = "blogs"
-    weight = 0
+    name = "posts"
+    weight = 10
     url = "/posts"
   [[menu.header]]
     name = "search"
-    weight = 1
+    weight = 20
     url = "/search"
+  [[menu.header]]
+    name = "about"
+    weight = 30
+    url = "/about"
