@@ -5,6 +5,8 @@ title = 'What Wren Carried — 05: From Confusion to Clarity'
 description = 'The diagnosis came back better than expected. and something in him had started to change, faster than I thought possible.'
 tags = ['what-wren-carried', 'series', 'healing', 'growth', 'relationships']
 category = 'people'
+series = ['what-wren-carried']
+series_order = 6
 +++
 
 Following up with Wren, and after consulting doctors, it turned out that on the same day I shared with him what a doctor had told me about his medical numbers, he received his latest diagnosis results. thankfully, his blood pressure had returned to normal. there was no persistent hypertension. it was also very unlikely that he was diabetic, as the doctors initially suggested.

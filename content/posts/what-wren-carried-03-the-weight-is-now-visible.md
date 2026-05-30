@@ -5,6 +5,8 @@ title = 'What Wren Carried — 03: The Weight Is Now Visible'
 description = "His body was speaking what his mouth couldn't. I was able to recognized the language because I once had to learn it myself."
 tags = ['what-wren-carried', 'series', 'psychology', 'healing', 'anxiety', 'avoidance']
 category = 'people'
+series = ['what-wren-carried']
+series_order = 4
 +++
 
 I followed up with him again after that. this time, he told me the latest diagnosis. high red blood cell count. elevated sugar levels, though not urgent, at least for now. he said he was not planning to tell his family. they worry too much.

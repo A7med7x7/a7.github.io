@@ -5,6 +5,8 @@ title = 'What Wren Carried — 04: Learning to Acknowledge'
 description = 'Wren was living inside his head with fears no one knew about, how to hold faith when your body is falling apart.'
 tags = ['what-wren-carried', 'series', 'identity', 'psychology', 'avoidance', 'healing']
 category = 'people'
+series = ['what-wren-carried']
+series_order = 5
 +++
 
 I discovered that wren was lost. he was living in his head. he carried fears and doubts that no one knew about. one of these fears was that he did not know how to look at god. not out of lack of faith, but because the way we learned religion did not include space for what a man can endure from the inside. the emphasis on this is either completely absent or very shallow. because of that, he struggled to understand what he was going through. is it good. is it punishment. the men of religion did not emphasize this enough.

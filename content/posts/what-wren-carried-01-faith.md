@@ -5,6 +5,8 @@ title = 'What Wren Carried — 01: Faith'
 description = "Wren crossed oceans carrying his faith intact. I watched from a distance as the weight of it began to show."
 tags = ['what-wren-carried', 'series', 'displacement', 'identity', 'psychology', 'healing']
 category = 'people'
+series = ['what-wren-carried']
+series_order = 2
 +++
 
 Wren's heart is deeply faithful. when we lived in the same building, I never once saw him miss a prayer at the mosque. not even Fajr. no matter the hour, he was always there.

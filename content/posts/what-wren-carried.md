@@ -5,6 +5,8 @@ title = 'What Wren Carried'
 description = "A witness document. Someone I know is quietly falling apart in a country that doesn't speak his language, and I'm watching from a distance."
 tags = ['what-wren-carried', 'series', 'biographical', 'grief', 'displacement']
 category = 'people'
+series = ['what-wren-carried']
+series_order = 1
 +++
 
 ## About This Series

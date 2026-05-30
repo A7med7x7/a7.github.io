@@ -5,6 +5,8 @@ title = 'What Wren Carried — 02: Who He Chose to Speak To'
 description = "He hadn't told his family. hadn't told his friends. he had only told me. and I hadn't even noticed he might need someone."
 tags = ['what-wren-carried', 'series', 'relationships', 'solitude', 'grief', 'guilt']
 category = 'people'
+series = ['what-wren-carried']
+series_order = 3
 +++
 
 

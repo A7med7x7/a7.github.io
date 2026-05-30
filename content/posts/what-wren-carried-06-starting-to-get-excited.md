@@ -5,6 +5,8 @@ title = 'What Wren Carried — 06: Starting to Get Excited'
 description = 'A month later, Wren is learning about anxiety and the human mind. I recognized the tone immediately — I had once spoken in it.'
 tags = ['what-wren-carried', 'series', 'psychology', 'identity', 'growth', 'memory']
 category = 'people'
+series = ['what-wren-carried']
+series_order = 7
 +++
 
 It is a month later now. Wren has been going through something that feels painfully familiar to me, something close to [the days I once lived without understanding](https://a7med7x7.github.io/posts/days_that_i_didnt_understand/). today he texted me, excited, talking about learning psychology and trying to understand the human mind and anxiety. I felt briefly happy for him. he sounded genuinely alive, like someone who had finally found a door he wanted to open.
