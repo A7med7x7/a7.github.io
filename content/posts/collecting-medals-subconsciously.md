@@ -3,7 +3,9 @@ date = '2026-03-14T00:00:00+03:00'
 draft = false
 title = 'Collecting Medals Subconsciously'
 category = 'self'
-tags = ['identity', 'psychology', 'growth'] 
+tags = ['identity', 'psychology', 'growth']
+series = ['the-long-way-around']
+series_order = 4
 +++
 
 You were taught, somewhere along the way, that needing people was a liability. maybe no one said it out loud. maybe life just kept rewarding you every time you didn't need anyone, every time you endured alone what others fell apart over, every time you moved on from something that should have broken you and didn't. the lesson compounded, without you knowing: detachment works. self sufficiency works. you are the proof.

@@ -4,6 +4,8 @@ date = '2024-08-14T19:52:21+03:00'
 draft = false
 categories = ['learning']
 tags = ['psychology', 'ai-and-tech', 'decision-making']
+series = ['practical-laws']
+series_order = 7
 +++
 Lately, I lost my ability to focus and maintain a flow state. I don’t sleep late, I eat relatively healthy food, and I’m not dopamine addicted. The problem comes down to practices that would align your efforts with what you want to achieve.
 <!--more-->

@@ -4,6 +4,8 @@ date = '2026-02-16T07:10:00+03:00'
 draft = false
 categories = ['philosophy']
 tags = ['grief', 'growth', 'reflection']
+series = ['small-laws']
+series_order = 6
 +++
 Life will always find a way to bring you back to your knees, not with something dramatic. not with a perfectly timed tragedy. sometimes it is something small. something unexpected. something careless in its timing. a single comment. a memory. a failure. and suddenly you are back inside your head, remembering how hard it used to be to live there.
 <!--more-->

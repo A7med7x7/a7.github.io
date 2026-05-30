@@ -4,6 +4,8 @@ date = '2024-04-12T10:50:51+03:00'
 draft = false
 categories = ['learning']
 tags = ['psychology', 'growth', 'series']
+series = ['practical-laws']
+series_order = 2
 +++
 This is part of a series of notes I’m taking to understand the person I am when learning something. most of them are about understanding myself and applying useful techniques.
 

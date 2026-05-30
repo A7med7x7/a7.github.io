@@ -5,6 +5,8 @@ title = 'To Karb - About the Way Forward'
 description = 'This is a letter I wrote for my friend (Karb is a name to keep their privacy), when he asked for an answer I wasn’t ready to give in person. It’s an exploration of fear, the necessity of the "climb," and the reality that healing isn’t a leap, but a series of small, intentional choices to stop running'
 category = 'relationships'
 tags = ['healing', 'growth', 'anxiety', 'avoidance', 'emotions', 'letters']
+series = ['when-the-wind-blows']
+series_order = 1
 +++
 
 You’ve asked me before.

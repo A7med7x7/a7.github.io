@@ -4,6 +4,8 @@ draft = false
 title = 'It Is Not About Time Management'
 tags = ['psychology', 'growth', 'identity']
 category = 'learning'
+series = ['practical-laws']
+series_order = 4
 +++
 
 

@@ -5,6 +5,8 @@ title = 'Context Switch'
 description = 'Yahia asked me how I handle jumping between completely different subjects in a single day. I had never given it a name. but the cost is real.'
 tags = ['generalist-notes', 'series', 'psychology', 'identity', 'growth']
 category = 'learning'
+series = ['practical-laws']
+series_order = 6
 +++
 
 My friend Yahia once asked me how I coordinate between everything on my plate. not how I manage the volume, he understood that part. what he wanted to know was how I handle the context switch. one hour I'm deep in SQL queries and database design. the next I'm reading a machine learning paper. how does that work, he asked. how does the mind move between places that different without losing something.

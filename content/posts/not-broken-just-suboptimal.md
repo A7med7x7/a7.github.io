@@ -4,6 +4,8 @@ date = '2026-01-17T16:45:29+03:00'
 draft = false
 categories = ['self']
 tags = ['identity', 'growth', 'healing', 'psychology']
+series = ['the-long-way-around']
+series_order = 6
 +++
 I do not complain about the life I am living.  
 I do not point fingers at the surroundings anymore.  

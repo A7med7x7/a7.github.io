@@ -4,6 +4,8 @@ date = '2025-12-25T03:11:01+03:00'
 draft = false
 categories = ['self']
 tags = ['psychology', 'emotions', 'growth', 'philosophy']
+series = ['the-long-way-around']
+series_order = 1
 +++
 > I used to lament having no shoes, until I met a man who had no feet.
 

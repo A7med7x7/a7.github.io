@@ -4,6 +4,8 @@ draft = false
 title = 'I Was the One Holding the Gun'
 tags = ['grief', 'avoidance', 'healing', 'emotions']
 category = 'self'
+series = ['texture-of-presence']
+series_order = 2
 +++
 
 I have this plant I keep giving water almost every week. I never forget, each time I see it, I water it. it became a quiet habit, reliable, automatic. today I was somewhere else entirely. I had fallen into rumination, that specific kind of thinking where the loop keeps running and you can't find the exit, and I needed anything to pull me out of my own head.

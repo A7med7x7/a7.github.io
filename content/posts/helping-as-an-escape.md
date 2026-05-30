@@ -4,6 +4,8 @@ date = '2025-11-28T07:38:35+03:00'
 draft = false
 categories = ['self']
 tags = ['avoidance', 'emotions', 'reflection']
+series = ['the-long-way-around']
+series_order = 3
 +++
 > *Sister Calderon: I don't know but..whenever we happen to meet you're always helping people and smiling.*
 <!--more-->   

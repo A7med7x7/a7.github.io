@@ -4,6 +4,8 @@ date = '2026-02-16T09:00:00+03:00'
 draft = false
 categories = ['self']
 tags = ['growth', 'psychology', 'healing']
+series = ['condition-of-seeing']
+series_order = 1
 +++
 There is a catalyst behind every better decision you have ever made., it is the urge for change.
 <!--more-->

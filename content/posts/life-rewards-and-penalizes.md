@@ -4,6 +4,8 @@ draft = false
 title = 'Life Rewards and Penalizes'
 category = 'philosophy'
 tags = ['emotions', 'psychology']
+series = ['small-laws']
+series_order = 5
 +++
 
 I'm not an expert in this, but I have a saying, when I surround myself with a certain kind of people, people who have very pure hearts, who don't fear feeling, who aren't guarded, who explore and live fully, they often end up being the ones who suffer the most in every situation. the one who love the most in every relationship. they carry the weight of every room they enter. and what makes this harder is that they rarely know how rare they are.

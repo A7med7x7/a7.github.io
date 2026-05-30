@@ -4,6 +4,8 @@ draft = false
 title = 'What Is Actually Draining You'
 tags = ['psychology', 'growth', 'learning']
 category = 'learning'
+series = ['practical-laws']
+series_order = 5
 +++
 
 If the first thing to accept is that you're not managing time, you're [managing energy](https://a7med7x7.github.io/posts/it-is-not-about-time-management), the second thing is asking where the energy is actually going. because it doesn't just disappear. it goes somewhere else. and most of the time it's going to things you'd never guess were costing you anything.

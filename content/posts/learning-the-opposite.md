@@ -4,6 +4,8 @@ date = '2025-11-16T04:20:00+03:00'
 draft = false
 categories = ['learning']
 tags = ['growth', 'reflection', 'decision-making']
+series = ['small-laws']
+series_order = 4
 +++
 > *There's a point at which everything you learn requires you to learn the opposite thing.*
 > *If you learn to be patient, then eventually you'll need to learn when to be impatient.*  

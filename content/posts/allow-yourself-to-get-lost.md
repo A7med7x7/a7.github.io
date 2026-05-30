@@ -4,6 +4,8 @@ date = '2026-01-15T19:25:00+03:00'
 draft = false
 categories = ['philosophy']
 tags = ['identity', 'solitude', 'growth', 'relationships']
+series = ['small-laws']
+series_order = 2
 +++
 A friend of mine called [Mahmoud](https://a7med7x7.github.io/posts/mahmoud-biography), I have loved this friend so much. unfortunately he was also a [victim of my constant avoidance](https://a7med7x7.github.io/posts/i-ran-because-you-mattered), but we are good now. Mahmoud and I were completely different personalities, yet something linked us at the core. thankfully to this relationship, I finally had a name for it. we were the only ones who allowed themselves to get lost.
 <!--more-->

@@ -4,6 +4,8 @@ date = '2024-04-12T10:50:51+04:00'
 draft = false
 categories = ['learning']
 tags = ['psychology', 'memory', 'series']
+series = ['practical-laws']
+series_order = 3
 +++
 I call this problem *floating information*. It is a literal translation of the Arabic word "طائفة", which means floating in space without connection. I first noticed that there is information that is not linked to anything. it has no context, it solves no problem, and this kind of information is the hardest to keep in my mind. I forget it very easily.
 

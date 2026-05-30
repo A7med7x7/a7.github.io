@@ -4,6 +4,8 @@ date = '2025-12-19T19:55:00+03:00'
 draft = false
 categories = ['self']
 tags = ['anxiety', 'psychology', 'decision-making', 'growth']
+series = ['condition-of-seeing']
+series_order = 4
 +++
 There was a time in my life when I allowed myself to be uncertain. uncertainty was my mindset. it did not affect the technical side of my questions, nor did it damage my daily decision making on the surface. but internally, I sometimes drowned in it. the paradox of choices embedded itself into my behavior, and [perfectionism](https://youtu.be/LYKqZ-fF4Uw?si=yTuteDZvwR0Yh8cy) became a side effect of refusing to pick what felt suboptimal. I lived inside my head more than I realized. this state was invisible to the external world. it was entirely internal. I was doubting my own internals.
 

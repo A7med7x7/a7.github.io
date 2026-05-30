@@ -5,6 +5,8 @@ title = 'Action Influences Thoughts'
 description = "Most self help tells you to fix your thoughts before you move. that's backwards. action doesn't follow clarity always, sometimes it creates it."
 tags = ['generalist-notes', 'series', 'growth', 'psychology', 'decision-making']
 category = 'learning'
+series = ['small-laws']
+series_order = 1
 +++
 
 

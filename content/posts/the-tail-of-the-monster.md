@@ -4,6 +4,8 @@ draft = false
 title = 'The Tail of the Monster'
 category = 'self'
 tags = ['avoidance', 'identity', 'psychology', 'healing']
+series = ['the-long-way-around']
+series_order = 8
 +++
 
 In the [five unplanned hours](https://a7med7x7.github.io/posts/five-unplanned-hours/) I've spent on calls with Awab, he mentioned once that he had started a course kind of on self discovery, presented by the author of _The Surrender Experiment_. as I remember they were nine chapters, online. Awab said he moved through the first few quickly, impatiently, because the material was already familiar to him. and then he reached the end of chapter six, where the instructor said: _in the next lecture, we'll be talking about x_. and Awab paused. he told me he knew, instinctively, that what came next was something he wasn't ready to hear. so he stopped. and he stayed stopped.

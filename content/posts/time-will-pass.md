@@ -4,6 +4,8 @@ date = '2026-02-03T04:00:00+03:00'
 draft = false
 categories = ['philosophy']
 tags = ['memory', 'growth', 'reflection']
+series = ['condition-of-seeing']
+series_order = 5
 +++
 I've learned since a young age that time will pass.  
 not moments with loved ones.  

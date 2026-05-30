@@ -5,6 +5,8 @@ description = 'A reflection on how comparing suffering can keep us functional wh
 draft = false
 categories = ['self']
 tags = ['emotions', 'psychology', 'reflection']
+series = ['the-long-way-around']
+series_order = 2
 +++
 I’ve recently been thinking about [comparative suffering](https://a7med7x7.github.io/posts/comparative-suffering/). for me, the idea that there is a greater problem out there often helps me feel relief. It allows me to dismiss my own problems.
 <!--more-->

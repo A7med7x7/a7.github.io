@@ -5,6 +5,8 @@ description = 'a reflection on motion under uncertainty, truth seeking as a nece
 draft = false
 categories = ['philosophy']
 tags = ['identity', 'growth', 'decision-making', 'solitude']
+series = ['when-the-wind-blows']
+series_order = 3
 +++
 The only real distinction between me and many of my friends is that I seek truth as a need, not as a pastime. I have spent most of my life trying to understand the world we live in, its physical reality, its existential questions, and its moral structure. what widens this distinction is that I do not treat understanding as an instrument for enjoyment or intellectual vanity. I seek it because I need it. I need it to make better decisions, and to quiet the confusion that once crowded my mind.
 <!--more-->

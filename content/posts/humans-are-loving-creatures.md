@@ -4,6 +4,8 @@ draft = false
 title = 'Humans Are Loving Creatures'
 tags = ['emotions', 'healing', 'relationships', 'growth']
 category = 'self'
+series = ['texture-of-presence']
+series_order = 1
 +++
 
 Humans are full of love. full of empathy at their core. they were born to love, not to hate. the state of hate costs a man more than loving ever could, loving prospers, hate drains. you can feel this in the texture of any given day. the meaning you pull from it, the power you feel inside it, it traces back almost always to the love you're carrying. for a mother, a father, a brother, a sister, a lover. a man is full of those emotions.

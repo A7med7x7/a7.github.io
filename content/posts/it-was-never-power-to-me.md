@@ -4,6 +4,8 @@ date = '2025-12-24T19:46:35+03:00'
 draft = false
 categories = ['self']
 tags = ['identity', 'growth', 'reflection']
+series = ['the-long-way-around']
+series_order = 5
 +++
 > Oh, it always looked like you never cared about anything. just you and your computer.  
 <!--more-->

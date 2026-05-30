@@ -4,6 +4,8 @@ date = '2026-01-28T19:51:17+03:00'
 draft = false
 categories = ['philosophy']
 tags = ['growth', 'decision-making', 'healing']
+series = ['when-the-wind-blows']
+series_order = 2
 +++
 Change is not only about will power. you can [fight your inner conflicts](https://a7med7x7.github.io/posts/choosing-not-to-drift/). you can [decide to improve](https://a7med7x7.github.io/posts/sick-of-yourself/). you can push yourself daily. but there is another factor that matters just as much: timing. some forms of change does not happen just because you want it to. it happens when life gives it space to grow. it happens when conditions are in favorable.
 <!--more-->

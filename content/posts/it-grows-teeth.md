@@ -4,6 +4,8 @@ draft = false
 title = 'It Grows Teeth'
 category = 'self'
 tags = ['avoidance', 'identity', 'psychology', 'healing', 'emotions']
+series = ['the-long-way-around']
+series_order = 7
 +++
 
 > _"What you can't say owns you. what you hide controls you."_ 
