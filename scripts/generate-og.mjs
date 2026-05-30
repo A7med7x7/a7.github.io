@@ -9,7 +9,6 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import satori from 'satori';
 import { Resvg } from '@resvg/resvg-js';
-import reshaper from 'arabic-reshaper';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -18,13 +17,16 @@ const OG_DIR    = join(ROOT, 'static', 'og');
 const FONTS_DIR = join(__dirname, '.fonts');
 
 // Static TTF sources only — Satori's font parser cannot read variable fonts
-// (the fvar table crashes opentype.js), and fontsource dropped TTF in v5.
-// We use Crimson Text (designed as an open-source EB Garamond sibling) in
-// OG images. The post pages themselves still render in real EB Garamond
-// via Google Fonts CSS; only OG previews substitute.
+// and fontsource dropped TTF in v5.
+//   Serif: Crimson Text (designed as an open-source EB Garamond sibling).
+//   Arabic: Tajawal (modern sans-serif Arabic). Chosen because its GSUB
+//     tables only use OpenType lookups Satori supports — Amiri's classical
+//     Naskh uses contextual substitution (lookup type 5) which crashes
+//     opentype.js. Tajawal renders correctly with Satori's native
+//     direction:rtl, so no reshape/reverse hack is needed.
 const FONT_URLS = {
-  serif: 'https://raw.githubusercontent.com/google/fonts/main/ofl/crimsontext/CrimsonText-SemiBold.ttf',
-  arabic: 'https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Regular.ttf',
+  serif:  'https://raw.githubusercontent.com/google/fonts/main/ofl/crimsontext/CrimsonText-SemiBold.ttf',
+  arabic: 'https://raw.githubusercontent.com/google/fonts/main/ofl/tajawal/Tajawal-Medium.ttf',
 };
 
 for (const dir of [OG_DIR, FONTS_DIR]) {
@@ -45,7 +47,7 @@ async function loadFont(name, url) {
 
 const [serifFont, arabicFont] = await Promise.all([
   loadFont('CrimsonText', FONT_URLS.serif),
-  loadFont('Amiri',       FONT_URLS.arabic),
+  loadFont('Tajawal',     FONT_URLS.arabic),
 ]);
 
 // Minimal TOML frontmatter parser — only need title + date.
@@ -95,7 +97,7 @@ function ring({ top, left, bottom, right, size }) {
 }
 
 function ogTemplate({ title, date, isArabic }) {
-  const titleFont = isArabic ? 'Amiri' : 'Crimson Text';
+  const titleFont = isArabic ? 'Tajawal' : 'Crimson Text';
   const direction = isArabic ? 'rtl' : 'ltr';
 
   return {
@@ -175,59 +177,14 @@ function ogTemplate({ title, date, isArabic }) {
   };
 }
 
-function escapeXml(s) {
-  return String(s)
-    .replace(/&/g, '&amp;')
-    .replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;')
-    .replace(/"/g, '&quot;')
-    .replace(/'/g, '&apos;');
-}
-
-// Arabic path — bypass Satori (which crashes on Amiri's GSUB lookup type 5).
-// Pre-shape with arabic-reshaper (text → Arabic Presentation Forms), reverse
-// the codepoints (SVG doesn't do BiDi reordering), then render via resvg.
-function renderArabicSVG({ title, date }) {
-  const shaped = reshaper.convertArabic(title).split('').reverse().join('');
-  return `<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="630" fill="#f9f7f4"/>
-  <!-- Top-left concentric rings -->
-  <circle cx="110" cy="110" r="40" fill="none" stroke="#c4b8a8" stroke-width="1"/>
-  <circle cx="110" cy="110" r="10" fill="none" stroke="#c4b8a8" stroke-width="1"/>
-  <!-- Bottom-right concentric rings -->
-  <circle cx="1090" cy="520" r="40" fill="none" stroke="#c4b8a8" stroke-width="1"/>
-  <circle cx="1090" cy="520" r="10" fill="none" stroke="#c4b8a8" stroke-width="1"/>
-  <!-- Title in Amiri (pre-shaped, RTL reversed) -->
-  <text x="600" y="335" font-family="Amiri" font-size="80" fill="#1a1916" text-anchor="middle">${escapeXml(shaped)}</text>
-  <!-- Date in Crimson Text -->
-  <text x="600" y="395" font-family="Crimson Text" font-size="26" fill="#6b6560" text-anchor="middle">${escapeXml(date)}</text>
-  <!-- Site signature -->
-  <text x="600" y="594" font-family="Crimson Text" font-size="18" fill="#9a9590" text-anchor="middle" letter-spacing="0.06em">a7med7x7.github.io</text>
-</svg>`;
-}
-
 async function render({ title, date }) {
   const isArabic = hasArabic(title || '');
-
-  if (isArabic) {
-    const svg = renderArabicSVG({ title, date });
-    const resvg = new Resvg(svg, {
-      font: {
-        fontBuffers: [arabicFont, serifFont],
-        loadSystemFonts: false,
-        defaultFontFamily: 'Amiri',
-      },
-      fitTo: { mode: 'width', value: 1200 },
-    });
-    return resvg.render().asPng();
-  }
-
-  // English / Latin path — Satori handles wrapping + layout cleanly.
   const svg = await satori(ogTemplate({ title, date, isArabic }), {
     width: 1200,
     height: 630,
     fonts: [
-      { name: 'Crimson Text', data: serifFont, weight: 600, style: 'normal' },
+      { name: 'Crimson Text', data: serifFont,  weight: 600, style: 'normal' },
+      { name: 'Tajawal',      data: arabicFont, weight: 500, style: 'normal' },
     ],
   });
   const resvg = new Resvg(svg, { fitTo: { mode: 'width', value: 1200 } });
