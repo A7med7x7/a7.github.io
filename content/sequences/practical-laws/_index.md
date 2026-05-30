@@ -1,8 +1,8 @@
 +++
-title = "Practical Laws"
-description = "The operating side — notes on how to actually work, learn, and recover when you're built to explore. On energy over time, the quiet ways learning fails, the real cost of context switches, and what flow asks of sleep."
+title = "Notes on Doing"
+description = "Notes on how to learn, and recover when you're built to explore. On energy management over time management, and how learning fails most times."
 cover_emoji = "🛠️"
 cover_color = "#5e6e7a"
-sequence_key = "practical-laws"
+sequence_key = "notes-on-doing"
 layout = "sequence-single"
 +++

@@ -4,7 +4,7 @@ date = '2026-02-20T04:15:10+03:00'
 draft = false
 categories = ['philosophy']
 tags = ['identity', 'growth', 'solitude']
-series = ['practical-laws']
+series = ['notes-on-doing']
 series_order = 1
 +++
 There is something interesting about a certain kind of people. they are flexible in a way that makes them difficult to categorize. as if they were not built to fit into a single rule, a single system, or a single identity. I still cannot give them a perfect name, because they blend too many traits at once. they are curious, exploratory, internally alive, purposeful, often generalists, and deeply adaptive. they are not built for a narrow lane. they are built for terrain.

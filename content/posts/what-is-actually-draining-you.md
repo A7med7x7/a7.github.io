@@ -4,7 +4,7 @@ draft = false
 title = 'What Is Actually Draining You'
 tags = ['psychology', 'growth', 'learning']
 category = 'learning'
-series = ['practical-laws']
+series = ['notes-on-doing']
 series_order = 5
 +++
 

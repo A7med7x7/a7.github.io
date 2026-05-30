@@ -5,7 +5,7 @@ title = 'Context Switch'
 description = 'Yahia asked me how I handle jumping between completely different subjects in a single day. I had never given it a name. but the cost is real.'
 tags = ['generalist-notes', 'series', 'psychology', 'identity', 'growth']
 category = 'learning'
-series = ['practical-laws']
+series = ['notes-on-doing']
 series_order = 6
 +++
 
