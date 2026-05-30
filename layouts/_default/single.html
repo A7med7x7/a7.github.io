@@ -1,0 +1,57 @@
+{{ define "title"}}
+{{ .Title }} | {{ .Site.Params.author.name }}
+{{ end }}
+
+{{ define "main" }}
+<div id="scroll-indicator" class="scroll-indicator"></div>
+
+<div class="postWrapper single-post">
+    {{ partial "series-banner.html" . }}
+
+    <h1 class="post-title">{{ .Title }}</h1>
+
+    <div class="post-meta">
+        <span class="post-date">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        </span>
+        <span class="post-sep">·</span>
+        <span class="post-read">{{ .ReadingTime }} min read</span>
+        {{ with .Params.tags }}
+        <span class="post-sep">·</span>
+        {{ range . }}
+        <a href="{{ printf "/tags/%s/" (. | urlize) | relURL }}" class="post-tag">#{{ . }}</a>
+        {{ end }}
+        {{ end }}
+    </div>
+
+    {{ if .Params.feature_image }}
+    <div class="post-feature-image">
+        <img src="{{ .Params.feature_image | absURL }}" alt="{{ .Title }}" loading="lazy" />
+    </div>
+    {{ end }}
+
+    {{ with .Description }}
+    <p class="postDescription">{{ . }}</p>
+    {{ end }}
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+</div>
+
+<script>
+(function () {
+  var bar = document.getElementById('scroll-indicator');
+  if (!bar) return;
+  function update() {
+    var scrollTop = window.scrollY || document.documentElement.scrollTop;
+    var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    var pct = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
+    bar.style.width = Math.min(pct, 100) + '%';
+  }
+  window.addEventListener('scroll', update, { passive: true });
+  window.addEventListener('resize', update, { passive: true });
+  update();
+})();
+</script>
+{{ end }}

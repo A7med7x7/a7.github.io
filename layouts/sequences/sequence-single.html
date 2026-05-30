@@ -1,0 +1,114 @@
+{{ define "title" }}
+{{ .Title }} (sequence) | {{ .Site.Params.author.name }}
+{{ end }}
+
+{{ define "main" }}
+{{ $seqKey := .Params.sequence_key }}
+{{ $posts := where site.RegularPages "Params.series" "intersect" (slice $seqKey) }}
+{{ $posts = sort $posts "Params.series_order" }}
+{{ $root := site.GetPage "/sequences" }}
+
+<div class="sequences-shell">
+
+  {{/* ── LEFT SIDEBAR ── */}}
+  <nav class="seq-sidebar">
+    <p class="seq-sidebar-label">Sequences</p>
+    <ul class="seq-sidebar-list">
+      {{ with $root }}
+        {{ range .Pages }}
+          <li>
+            <a href="{{ .RelPermalink }}"
+               class="seq-sidebar-link {{ if eq .RelPermalink $.RelPermalink }}active{{ end }}">
+              {{ .Title }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </nav>
+
+  {{/* ── MAIN CONTENT: sequence card + checklist ── */}}
+  <main class="seq-main seq-main--sequence">
+
+    <div class="sequence-block">
+      <div class="sequence-inner">
+
+        {{/* LEFT: anchor card */}}
+        <div class="sequence-card">
+          <div class="sequence-cover" style="background: {{ .Params.cover_color | default "#2a2a2a" }}">
+            <span class="cover-emoji">{{ .Params.cover_emoji | default "📖" }}</span>
+          </div>
+          <p class="sequence-part">{{ len $posts }} posts · sequence</p>
+          <h2 class="sequence-title">{{ .Title }}</h2>
+          <p class="sequence-desc">{{ .Description }}</p>
+          {{ if $posts }}
+          <a href="{{ (index $posts 0).RelPermalink }}" class="sequence-start-btn">Start reading →</a>
+          {{ end }}
+        </div>
+
+        {{/* RIGHT: checklist */}}
+        <div class="sequence-list">
+          <p class="sequence-list-label">Posts in this sequence</p>
+          {{ if $posts }}
+            {{ range $i, $post := $posts }}
+            <div class="article-item">
+              <label class="check-wrap">
+                <input type="checkbox"
+                  class="check-input"
+                  data-slug="{{ $post.RelPermalink }}"
+                  onchange="saveProgress(this)">
+              </label>
+              <div class="article-info">
+                <a href="{{ $post.RelPermalink }}" class="article-title">{{ $post.Title }}</a>
+                <span class="article-sub">Part {{ add $i 1 }} · {{ $post.Date.Format "Jan 2006" }} · {{ $post.ReadingTime }} min</span>
+              </div>
+            </div>
+            {{ end }}
+            <div class="progress-wrap">
+              <div class="progress-label">
+                <span>Progress</span>
+                <span class="progress-count" id="prog-count">0 / {{ len $posts }}</span>
+              </div>
+              <div class="progress-track">
+                <div class="progress-fill" id="prog-fill" style="width:0%"></div>
+              </div>
+            </div>
+          {{ else }}
+            <p class="seq-empty">No posts in this sequence yet.</p>
+          {{ end }}
+        </div>
+
+      </div>
+    </div>
+
+  </main>
+</div>
+
+<script>
+function saveProgress(cb) {
+  var slug = cb.dataset.slug;
+  if (cb.checked) {
+    localStorage.setItem('read:' + slug, '1');
+  } else {
+    localStorage.removeItem('read:' + slug);
+  }
+  updateProgress();
+}
+function updateProgress() {
+  var boxes = document.querySelectorAll('.check-input');
+  var checked = [].filter.call(boxes, function (b) { return b.checked; }).length;
+  var total = boxes.length;
+  var fill = document.getElementById('prog-fill');
+  var count = document.getElementById('prog-count');
+  if (fill && total > 0) fill.style.width = (checked / total * 100) + '%';
+  if (count) count.textContent = checked + ' / ' + total;
+}
+function restoreProgress() {
+  document.querySelectorAll('.check-input').forEach(function (cb) {
+    if (localStorage.getItem('read:' + cb.dataset.slug)) cb.checked = true;
+  });
+  updateProgress();
+}
+document.addEventListener('DOMContentLoaded', restoreProgress);
+</script>
+{{ end }}

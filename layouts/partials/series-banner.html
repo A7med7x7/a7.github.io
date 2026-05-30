@@ -1,0 +1,29 @@
+{{ if .Params.series }}
+  {{ $seqKey := index .Params.series 0 }}
+  {{ $allInSeries := where site.RegularPages "Params.series" "intersect" (slice $seqKey) }}
+  {{ $allInSeries = sort $allInSeries "Params.series_order" }}
+  {{ $total := len $allInSeries }}
+  {{ $order := .Params.series_order | default 1 }}
+  {{ $seqPage := site.GetPage (printf "/sequences/%s" $seqKey) }}
+
+  <div class="series-banner">
+    <span class="series-banner-label">Part {{ $order }} of {{ $total }} in</span>
+    <a href="{{ printf "/sequences/%s/" $seqKey | relURL }}" class="series-banner-link">
+      {{ if $seqPage }}{{ $seqPage.Title }}{{ else }}{{ $seqKey | humanize | title }}{{ end }}
+    </a>
+    <div class="series-banner-nav">
+      {{ range $i, $p := $allInSeries }}
+        {{ if eq (add $i 1) $order }}
+          {{ if gt $i 0 }}
+            {{ $prev := index $allInSeries (sub $i 1) }}
+            <a href="{{ $prev.RelPermalink }}" class="series-nav-btn">← Previous</a>
+          {{ end }}
+          {{ if lt (add $i 1) $total }}
+            {{ $next := index $allInSeries (add $i 1) }}
+            <a href="{{ $next.RelPermalink }}" class="series-nav-btn">Next →</a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

@@ -1,0 +1,40 @@
+{{ define "title" }}
+Sequences | {{ .Site.Params.author.name }}
+{{ end }}
+
+{{ define "main" }}
+<div class="sequences-shell">
+
+  {{/* ── LEFT SIDEBAR ── */}}
+  <nav class="seq-sidebar">
+    <p class="seq-sidebar-label">Sequences</p>
+    <ul class="seq-sidebar-list">
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .RelPermalink }}"
+             class="seq-sidebar-link {{ if eq .RelPermalink $.RelPermalink }}active{{ end }}">
+            {{ .Title }}
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </nav>
+
+  {{/* ── MAIN CONTENT: intro text on the /sequences root ── */}}
+  <main class="seq-main">
+    <div class="seq-intro">
+      <p class="seq-intro-label">On writing</p>
+      <h1 class="seq-intro-title">Notes, scattered and gathered</h1>
+      <div class="seq-intro-body">
+        <p>I have been writing notes since I was 14, about myself and the world. They were random, I never truly understood the reason I was holding the pen and dropping the ink on paper. Most of those notes were never of direct help to me, though they helped me model the world, and later served as dots I connected to understand myself better.</p>
+        <p>I grew good at understanding the world, but never myself.</p>
+        <p>I grew older. When I was finally 21, it was the first time in my life I took the decision to understand my scattered pieces. I'm ten days apart from turning 22.</p>
+        <p>I'm not sure if it's the best decision or the worst I have made in my life. not yet, But what I know for sure, it is the most complex period of my life so far. One I don't think I will ever experience something similar to in magnitude, ever again.</p>
+        <p>The sequences are a new effort to grasp my notes into a series of coherent thoughts. Where I combine scattered related notes into the big pictures I was trying to both discover and deliver, but delivered poorly previously as I was just dropping thoughts, by portraying smaller pieces of observations.</p>
+        <p>Select a sequence from the left to begin reading.</p>
+      </div>
+    </div>
+  </main>
+
+</div>
+{{ end }}
