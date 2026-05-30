@@ -21,6 +21,15 @@
   box-sizing: border-box;
 }
 
+/* Body derives from --ui-* so it auto-switches with prefers-color-scheme.
+   The theme's compiled SCSS sets body colors as literals; this rule loads
+   later in the cascade and wins. light-theme.css adds !important under
+   its @media (prefers-color-scheme: light) block for light mode. */
+body {
+  background-color: var(--ui-shell-bg);
+  color: var(--ui-ink);
+}
+
 .headerWrapper {
   overflow: visible;
   background: var(--ui-shell-bg);
@@ -54,6 +63,7 @@
   display: inline-block;
   max-width: 100%;
   line-height: 1.2;
+  font-family: Palatino, 'Book Antiqua', 'Palatino Linotype', serif;
 }
 
 .headerLinks ul {
@@ -196,7 +206,7 @@
   text-shadow: none;
   font-size: 0.92rem;
   letter-spacing: 0.03em;
-  text-transform: lowercase;
+  text-transform: capitalize;
   text-decoration: none;
   transition: color 0.2s ease, border-color 0.2s ease;
 }
@@ -345,20 +355,72 @@
   text-align: left;
 }
 
-.postPageTitle {
-  margin: 0;
-  font-size: clamp(2rem, 4.1vw, 2.5rem);
-  line-height: 1.14;
+.scroll-indicator {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 2px;
+  width: 0%;
+  background: #4a7c59;
+  z-index: 9999;
+  transition: width 0.1s linear;
+  pointer-events: none;
+}
+
+.single-post {
+  padding-top: 3.5rem;
+}
+
+.post-title {
+  margin: 0 0 0.5rem;
+  font-family: 'EB Garamond', Garamond, 'Times New Roman', serif;
+  font-size: clamp(1.9rem, 4vw, 2.4rem);
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.005em;
+  color: var(--ui-ink);
+}
+
+.post-meta {
+  margin: 0.3rem 0 2.8rem;
+  font-size: 0.82rem;
+  color: var(--ui-ink-muted);
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.post-sep {
+  color: var(--ui-ink-muted);
+  opacity: 0.6;
+}
+
+.post-date,
+.post-read {
+  color: var(--ui-ink-muted);
+}
+
+.post-tag {
+  color: var(--ui-ink-muted);
+  text-decoration: none;
+  font-size: 0.78rem;
+}
+
+.post-tag:hover {
+  color: var(--ui-ink);
+  text-decoration: underline;
 }
 
 .postDescription {
-  margin: 8px 0 0;
+  margin: -1.5rem 0 1.75rem;
   color: var(--ui-ink-muted);
   line-height: 1.7;
+  font-style: italic;
 }
 
 .post-feature-image {
-  margin-top: 14px;
+  margin: 0 0 1.5rem;
   border: 1px solid var(--ui-card-line);
   border-radius: var(--ui-card-radius);
   overflow: hidden;
@@ -371,92 +433,56 @@
   height: auto;
 }
 
-.postMetadata {
-  margin-top: 14px;
-  margin-bottom: 14px;
-  padding: 10px 12px;
-  border: 1px solid var(--ui-card-line);
-  border-radius: 10px;
-  background: transparent;
-  font-size: 0.84rem;
-  color: var(--ui-ink-muted);
-}
-
-.postMetadata dl {
-  margin: 0;
-  display: grid;
-  grid-template-columns: max-content 1fr;
-  column-gap: 12px;
-  row-gap: 6px;
-}
-
-.postMetadata dt {
-  color: var(--ui-ink-muted);
-  text-transform: lowercase;
-  letter-spacing: 0.01em;
-}
-
-.postMetadata dd {
-  margin: 0;
-  min-width: 0;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px 10px;
-  align-items: baseline;
-}
-
-.postMetadata dd span {
-  display: none;
-}
-
-.postMetadata a {
-  color: var(--ui-link-blue);
-  text-decoration: none;
-}
-
-.postMetadata a:hover,
-.postMetadata a:focus-visible {
-  color: var(--ui-link-blue);
-  text-decoration: none;
-  outline: none;
-}
-
-.postBody {
+.post-content {
   color: var(--ui-ink);
+  font-size: 1.05rem;
   line-height: 1.8;
-  font-size: 1rem;
+  max-width: 680px;
 }
 
-.postBody > *:first-child {
+.post-content > *:first-child {
   margin-top: 0;
 }
 
-.postBody p {
-  margin: 0 0 1em;
+.post-content p {
+  margin: 0 0 1.5rem;
+  line-height: 1.85;
 }
 
-.postBody h2,
-.postBody h3,
-.postBody h4 {
-  margin-top: 1.35em;
-  margin-bottom: 0.45em;
-  line-height: 1.2;
+.post-content h2,
+.post-content h3,
+.post-content h4 {
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+  line-height: 1.25;
+  font-weight: 600;
 }
 
-.postBody ul,
-.postBody ol {
-  margin: 0 0 1em;
-  padding-left: 1.25rem;
+.post-content ul,
+.post-content ol {
+  margin: 0 0 1.4rem;
+  padding-left: 1.4rem;
 }
 
-.postBody blockquote {
-  margin: 1.1em 0;
-  padding: 0.15em 0 0.15em 0.9em;
-  border-left: 2px solid var(--ui-line);
+.post-content blockquote {
+  margin: 2rem 0;
+  padding: 0 0 0 1.5rem;
+  border-left: 2px solid var(--ui-ink-muted);
+  font-style: italic;
   color: var(--ui-ink-muted);
+  font-size: 0.97rem;
+  line-height: 1.85;
 }
 
-.postBody a {
+.post-content blockquote p {
+  margin-bottom: 0.75rem;
+}
+
+.post-content blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.post-content a {
   color: var(--ui-link-blue);
   text-decoration-color: rgba(128, 170, 221, 0.55);
   text-underline-offset: 0.2em;
@@ -578,29 +604,21 @@
     padding: 16px var(--ui-gutter) 18px;
   }
 
-  .postPageTitle {
-    font-size: clamp(1.72rem, 6.2vw, 2.1rem);
+  .single-post {
+    padding-top: 1.5rem;
   }
 
-  .postMetadata {
-    padding: 10px;
+  .post-title {
+    font-size: clamp(1.7rem, 6vw, 2rem);
   }
 
-  .postMetadata dl {
-    grid-template-columns: 1fr;
-    row-gap: 2px;
+  .post-meta {
+    margin-bottom: 1.75rem;
+    gap: 5px;
   }
 
-  .postMetadata dt,
-  .postMetadata dd {
-    grid-column: 1;
-  }
-
-  .postMetadata dd {
-    margin-bottom: 6px;
-  }
-
-  .postBody {
+  .post-content {
+    font-size: 1rem;
     line-height: 1.75;
   }
 
@@ -646,4 +664,457 @@
   .post-feature-image {
     border-radius: 9px;
   }
+}
+
+/* ──────────────────────────────────────────────────────────────
+   Sequences — LessWrong-style warm reading surface
+   Scope: when any .sequences-page is present on the page, recolor
+   the entire shell (header, body, footer) to warm cream so the
+   sequences UI doesn't feel like a card pasted onto dark chrome.
+   ────────────────────────────────────────────────────────────── */
+
+/* ── Sequences split-pane shell ───────────────────────────────
+   Sidebar (left, persistent) + main content (right, swaps per page).
+   All colors inherit from the system-matched theme tokens. */
+
+/* Theme constraints we need to escape:
+   - .content has text-align:center (centers everything by default)
+   - .main is locked to 760px at >=992px, but the shell wants 1100px */
+body:has(.sequences-shell) .content {
+  text-align: left;
+  display: block;
+}
+
+body:has(.sequences-shell) .main {
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+.sequences-shell {
+  /* Design tokens for the sequence UI — derived from system theme. */
+  --bg-card:        var(--ui-card-bg);
+  --border:         var(--ui-line);
+  --text-primary:   var(--ui-ink);
+  --text-secondary: var(--ui-ink-muted);
+  --text-muted:     var(--ui-ink-muted);
+  --accent:         #4a7c59;
+  --serif:          Georgia, "Times New Roman", serif;
+
+  display: grid;
+  grid-template-columns: 220px 1fr;
+  min-height: calc(100vh - 64px);
+  max-width: 1100px;
+  margin: 0 auto;
+  gap: 0;
+  color: var(--text-primary);
+}
+
+/* ── Left sidebar ───────────────────────────── */
+
+.seq-sidebar {
+  padding: 2.5rem 1.25rem 2rem;
+  border-right: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  align-self: start;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+.seq-sidebar-label {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin: 0 0 1rem;
+}
+
+.seq-sidebar-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.seq-sidebar-link {
+  display: block;
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  text-decoration: none;
+  padding: 0.4rem 0.6rem;
+  border-radius: 4px;
+  line-height: 1.4;
+  transition: color 0.12s ease, background-color 0.12s ease;
+}
+
+.seq-sidebar-link:hover {
+  color: var(--text-primary);
+  background: var(--ui-surface-soft);
+}
+
+.seq-sidebar-link.active {
+  color: var(--text-primary);
+  font-weight: 500;
+  background: var(--ui-surface-soft);
+}
+
+/* ── Right main area ───────────────────────── */
+
+.seq-main {
+  padding: 2.5rem 2rem;
+}
+
+/* ── Intro text on /sequences root ──────────── */
+
+.seq-intro {
+  max-width: 600px;
+}
+
+.seq-intro-label {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.09em;
+  color: var(--text-muted);
+  margin: 0 0 0.5rem;
+}
+
+.seq-intro-title {
+  font-size: 1.9rem;
+  font-weight: 500;
+  font-family: 'EB Garamond', Garamond, 'Times New Roman', serif;
+  margin: 0 0 1.5rem;
+  line-height: 1.25;
+  color: var(--text-primary);
+}
+
+.seq-intro-body p {
+  font-size: 0.97rem;
+  line-height: 1.85;
+  color: var(--text-primary);
+  margin: 0 0 1.2rem;
+}
+
+.seq-intro-body p:last-child {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* ── Empty sequence state ───────────────────── */
+
+.seq-empty {
+  font-size: 0.88rem;
+  color: var(--text-muted);
+  font-style: italic;
+  padding: 1rem 0;
+  margin: 0;
+}
+
+/* ── Mobile: stack sidebar above main ───────── */
+
+@media (max-width: 700px) {
+  .sequences-shell {
+    grid-template-columns: 1fr;
+    min-height: 0;
+  }
+  .seq-sidebar {
+    position: static;
+    max-height: none;
+    border-right: none;
+    border-bottom: 1px solid var(--border);
+    padding: 1rem 1.25rem;
+  }
+  .seq-sidebar-list {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 4px 6px;
+  }
+  .seq-sidebar-link {
+    font-size: 0.8rem;
+    padding: 0.3rem 0.55rem;
+  }
+  .seq-main {
+    padding: 1.75rem 1.25rem;
+  }
+}
+
+/* ── Per-sequence block ──────────────────────────── */
+
+.sequence-block {
+  margin-bottom: 1.75rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.sequence-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+@media (max-width: 700px) {
+  .sequence-inner {
+    grid-template-columns: 1fr;
+  }
+  .sequence-card {
+    border-right: none !important;
+    border-bottom: 1px solid var(--border);
+  }
+}
+
+/* ── Left: anchor card ───────────────────────────── */
+
+.sequence-card {
+  padding: 1.5rem;
+  border-right: 1px solid var(--border);
+  display: flex;
+  flex-direction: column;
+}
+
+.sequence-cover {
+  width: 100%;
+  height: 180px;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cover-emoji {
+  font-size: 3rem;
+  opacity: 0.6;
+}
+
+.sequence-part {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin: 0 0 0.4rem;
+}
+
+.sequence-title {
+  font-size: 1.45rem;
+  font-weight: 600;
+  font-family: var(--serif);
+  color: var(--text-primary);
+  line-height: 1.25;
+  margin: 0 0 0.6rem;
+}
+
+.sequence-title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.sequence-title a:hover {
+  color: var(--accent);
+}
+
+.sequence-desc {
+  font-size: 0.88rem;
+  line-height: 1.75;
+  color: var(--text-secondary);
+  margin: 0 0 1.1rem;
+  flex: 1;
+}
+
+.sequence-start-btn {
+  display: inline-block;
+  align-self: flex-start;
+  font-size: 0.75rem;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 7px 16px;
+  border: 1px solid var(--ui-line);
+  border-radius: 3px;
+  background: transparent;
+  text-decoration: none;
+  color: var(--text-primary);
+  transition: background-color 0.12s ease, border-color 0.12s ease;
+}
+
+.sequence-start-btn:hover {
+  background: var(--ui-surface-soft);
+  border-color: var(--ui-ink-muted);
+  color: var(--text-primary);
+}
+
+/* ── Right: article checklist ────────────────────── */
+
+.sequence-list {
+  padding: 1.5rem;
+}
+
+.sequence-list-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--text-muted);
+  margin: 0 0 1rem;
+}
+
+.article-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.article-item:last-of-type {
+  border-bottom: none;
+}
+
+.check-wrap {
+  flex-shrink: 0;
+  margin-top: 4px;
+  cursor: pointer;
+}
+
+.check-input {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border: 1px solid var(--ui-ink-muted);
+  border-radius: 3px;
+  background: transparent;
+  cursor: pointer;
+  position: relative;
+  transition: background-color 0.15s ease, border-color 0.15s ease;
+  display: block;
+}
+
+.check-input:checked {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.check-input:checked::after {
+  content: '';
+  display: block;
+  width: 7px;
+  height: 4px;
+  border-left: 1.5px solid white;
+  border-bottom: 1.5px solid white;
+  transform: rotate(-45deg) translate(2px, 0px);
+  position: absolute;
+  top: 2px;
+  left: 1px;
+}
+
+.article-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.article-title {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--text-primary);
+  text-decoration: none;
+  line-height: 1.4;
+  transition: color 0.12s ease;
+}
+
+.article-title:hover {
+  color: var(--accent);
+}
+
+.article-sub {
+  display: block;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  margin-top: 3px;
+}
+
+/* ── Progress bar ────────────────────────────────── */
+
+.progress-wrap {
+  margin-top: 1rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid var(--border);
+}
+
+.progress-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+
+.progress-track {
+  height: 3px;
+  background: var(--border);
+  border-radius: 2px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: var(--accent);
+  border-radius: 2px;
+  transition: width 0.3s ease;
+}
+
+/* ── Per-post "Part of" series banner ──────────────
+   Minimal breadcrumb above the post title — no box, no chrome.
+   Just inline muted text that sits quietly above the heading. */
+
+.series-banner {
+  font-size: 0.78rem;
+  color: var(--ui-ink-muted);
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+  border: none;
+  padding: 0;
+  background: none;
+}
+
+.series-banner-label {
+  color: var(--ui-ink-muted);
+}
+
+.series-banner-link {
+  font-style: italic;
+  color: var(--ui-ink-muted);
+  text-decoration: none;
+}
+
+.series-banner-link:hover {
+  color: var(--ui-ink);
+  text-decoration: underline;
+}
+
+.series-banner-nav {
+  margin-left: auto;
+  display: flex;
+  gap: 12px;
+}
+
+.series-nav-btn {
+  border: none;
+  padding: 0;
+  background: none;
+  font-size: 0.78rem;
+  color: var(--ui-ink-muted);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.series-nav-btn:hover {
+  color: var(--ui-ink);
+  text-decoration: underline;
 }
