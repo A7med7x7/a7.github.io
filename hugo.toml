@@ -24,6 +24,11 @@ avatarSize = "size-m"
 email = "ahmed@offsechq.com"
 avatarFirst = false
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  series = "series"
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -64,6 +69,10 @@ color = "blue"
     name = "posts"
     weight = 10
     url = "/posts"
+  [[menu.header]]
+    name = "sequences"
+    weight = 15
+    url = "/sequences"
   [[menu.header]]
     name = "search"
     weight = 20
