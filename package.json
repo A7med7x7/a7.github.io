@@ -1,0 +1,15 @@
+{
+  "name": "blogwebsite",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "og": "node scripts/generate-og.mjs"
+  },
+  "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "satori": "^0.26.0"
+  },
+  "dependencies": {
+    "arabic-reshaper": "^1.1.0"
+  }
+}
