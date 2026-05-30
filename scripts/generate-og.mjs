@@ -9,6 +9,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import satori from 'satori';
 import { Resvg } from '@resvg/resvg-js';
+import { GlobalFonts, createCanvas } from '@napi-rs/canvas';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT      = join(__dirname, '..');
@@ -16,17 +17,14 @@ const POSTS_DIR = join(ROOT, 'content', 'posts');
 const OG_DIR    = join(ROOT, 'static', 'og');
 const FONTS_DIR = join(__dirname, '.fonts');
 
-// Static TTF sources only — Satori's font parser cannot read variable fonts
-// and fontsource dropped TTF in v5.
-//   Serif: Crimson Text (designed as an open-source EB Garamond sibling).
-//   Arabic: Tajawal (modern sans-serif Arabic). Chosen because its GSUB
-//     tables only use OpenType lookups Satori supports — Amiri's classical
-//     Naskh uses contextual substitution (lookup type 5) which crashes
-//     opentype.js. Tajawal renders correctly with Satori's native
-//     direction:rtl, so no reshape/reverse hack is needed.
+// Static TTF sources only — Satori's font parser cannot read variable fonts.
+//   Serif (Latin): Crimson Text — open-source EB Garamond sibling.
+//   Arabic: Amiri — classical Naskh. Rendered via @napi-rs/canvas (Skia +
+//     internal HarfBuzz) which performs real Arabic shaping; Satori's
+//     opentype.js can't apply Arabic contextual joining regardless of font.
 const FONT_URLS = {
   serif:  'https://raw.githubusercontent.com/google/fonts/main/ofl/crimsontext/CrimsonText-SemiBold.ttf',
-  arabic: 'https://raw.githubusercontent.com/google/fonts/main/ofl/tajawal/Tajawal-Medium.ttf',
+  arabic: 'https://raw.githubusercontent.com/google/fonts/main/ofl/amiri/Amiri-Regular.ttf',
 };
 
 for (const dir of [OG_DIR, FONTS_DIR]) {
@@ -47,8 +45,13 @@ async function loadFont(name, url) {
 
 const [serifFont, arabicFont] = await Promise.all([
   loadFont('CrimsonText', FONT_URLS.serif),
-  loadFont('Tajawal',     FONT_URLS.arabic),
+  loadFont('Amiri',       FONT_URLS.arabic),
 ]);
+
+// Register fonts with the canvas-skia global font registry — used by the
+// Arabic render path. Satori uses the raw Buffers directly, not this registry.
+GlobalFonts.register(arabicFont, 'Amiri');
+GlobalFonts.register(serifFont,  'Crimson Text');
 
 // Minimal TOML frontmatter parser — only need title + date.
 function parseFrontmatter(content) {
@@ -97,8 +100,8 @@ function ring({ top, left, bottom, right, size }) {
 }
 
 function ogTemplate({ title, date, isArabic }) {
-  const titleFont = isArabic ? 'Tajawal' : 'Crimson Text';
-  const direction = isArabic ? 'rtl' : 'ltr';
+  const titleFont = 'Crimson Text';
+  const direction = 'ltr';
 
   return {
     type: 'div',
@@ -177,14 +180,55 @@ function ogTemplate({ title, date, isArabic }) {
   };
 }
 
+// Arabic path — canvas-skia renders proper Naskh shaping via HarfBuzz.
+function renderArabicViaCanvas({ title, date }) {
+  const canvas = createCanvas(1200, 630);
+  const ctx = canvas.getContext('2d');
+
+  // Background
+  ctx.fillStyle = '#f9f7f4';
+  ctx.fillRect(0, 0, 1200, 630);
+
+  // Concentric rings — same positions as Satori path
+  ctx.strokeStyle = '#c4b8a8';
+  ctx.lineWidth = 1;
+  for (const [cx, cy] of [[110, 110], [1090, 520]]) {
+    ctx.beginPath(); ctx.arc(cx, cy, 40, 0, Math.PI * 2); ctx.stroke();
+    ctx.beginPath(); ctx.arc(cx, cy, 10, 0, Math.PI * 2); ctx.stroke();
+  }
+
+  // Title (Amiri, RTL, centered)
+  ctx.fillStyle = '#1a1916';
+  ctx.font = '80px Amiri';
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.direction = 'rtl';
+  ctx.fillText(title, 600, 315);
+
+  // Date (Crimson Text, LTR, centered below title)
+  ctx.direction = 'ltr';
+  ctx.fillStyle = '#6b6560';
+  ctx.font = '26px "Crimson Text"';
+  ctx.fillText(date, 600, 390);
+
+  // Signature
+  ctx.fillStyle = '#9a9590';
+  ctx.font = '18px "Crimson Text"';
+  ctx.fillText('a7med7x7.github.io', 600, 594);
+
+  return canvas.toBuffer('image/png');
+}
+
 async function render({ title, date }) {
   const isArabic = hasArabic(title || '');
+  if (isArabic) return renderArabicViaCanvas({ title, date });
+
+  // Latin path — Satori handles flex layout + auto-wrap nicely.
   const svg = await satori(ogTemplate({ title, date, isArabic }), {
     width: 1200,
     height: 630,
     fonts: [
-      { name: 'Crimson Text', data: serifFont,  weight: 600, style: 'normal' },
-      { name: 'Tajawal',      data: arabicFont, weight: 500, style: 'normal' },
+      { name: 'Crimson Text', data: serifFont, weight: 600, style: 'normal' },
     ],
   });
   const resvg = new Resvg(svg, { fitTo: { mode: 'width', value: 1200 } });
