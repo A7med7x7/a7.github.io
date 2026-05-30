@@ -32,29 +32,18 @@
 <meta property="og:title" content="{{ $pageTitle }}">
 <meta property="og:description" content="{{ $pageDescription }}">
 
-{{/* Dynamic image generation for social cards */}}
+{{/* OG image — pre-generated PNGs in /og/. Posts: /og/<slug>.png.
+     Everything else (homepage, sequences, etc.): /og/_site.png fallback.
+     Frontmatter `images` still overrides if set. See scripts/generate-og.mjs. */}}
 {{ $ogImage := "" }}
 {{- with .Params.images -}}
-  {{/* Use custom image if provided in frontmatter */}}
   {{ $ogImage = index . 0 | absURL }}
 {{- else -}}
-  {{/* Generate an image for pages and site-level links */}}
-  {{ $title := $pageTitle }}
-  {{ $footer := .Site.Params.author.name }}
-  {{ if .IsPage }}
-    {{ $footer = .Date.Format "January 2, 2006" }}
+  {{ if and .IsPage (eq .Section "posts") }}
+    {{ $ogImage = printf "/og/%s.png" .File.ContentBaseName | absURL }}
+  {{ else }}
+    {{ $ogImage = "/og/_site.png" | absURL }}
   {{ end }}
-
-  {{/* Construct the Placehold URL */}}
-  {{ $baseUrl := "https://placehold.co/1200x630/111827/F9FAFB/png" }}
-  {{ $text := printf "%s\n%s" $title $footer }}
-  
-  {{ $qs := querify 
-      "text" $text
-      "font" "playfair-display"
-  }}
-  
-  {{ $ogImage = printf "%s?%s" $baseUrl $qs }}
 {{- end -}}
 
 <meta property="og:image" content="{{ $ogImage }}">

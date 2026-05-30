@@ -1,1 +1,8 @@
 context
+
+# Node + OG generator
+node_modules/
+scripts/.fonts/
+
+# Generated OG images — built in CI, not committed
+static/og/
