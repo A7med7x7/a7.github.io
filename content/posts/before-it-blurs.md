@@ -1,0 +1,10 @@
++++
+date = '2026-06-04T12:00:00+03:00'
+draft = false
+title = 'Before It Blurs'
+tags = ['memory', 'identity', 'solitude', 'series']
+series= ['before-it-blurs']
+series_order= 1
++++
+
+My [memory](https://a7med7x7.github.io/posts/i-forget-too-much/) has a specific shape of unreliability. its not about forgetting phone numbers or struggling to hold a long Quran verse in place. it used to be harder to name. It is about people. It is about places. Somewhere in the background of living I was always slightly elsewhere, I used to call it, absent minded, running scenarios, processing, clearing out some [cognitive overhead](https://a7med7x7.github.io/posts/why-im-sharing-notes-cognitive-overload/) that never fully cleared. And the people around me, and the rooms I sat in, they registered as peripheral. I was there, technically. but I wasn't looking.and I think it is about that the memory doesn't fade later, it never fully forms in the first place. that's the clearest description I have for what I have always felt before. and you can't retrieve what you didn't absorb. I spent a lot of time blaming myself for this, as if the problem was a character defect rather than a pattern I could understand and maybe do something about. but the blame didn't help the gaps fill in, and the gaps kept widening. There are places I have been where I now retain only the feeling. not what anyone looked like. not what the room smelled like or how the light fell. just a general emotional residue, like a color with no shape. places that mattered. people who were real to me. This is a repository. I want to capture what I remember, people, places, fragments of who they were and what it felt like to be near them. before the blur takes the rest of it. some of these I will share. some are just for holding. but the act of writing them down is its own thing, a way of training a muscle that was always a little underdeveloped in me. presence as a practice, even retrospectively. even now, after the fact. it all ends.
