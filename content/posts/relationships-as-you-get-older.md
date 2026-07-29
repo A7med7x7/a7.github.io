@@ -1,7 +1,7 @@
 +++ 
 date = '2026-03-07T00:00:00+03:00' 
 draft = false 
-title = 'Eelationships As You Go Older' 
+title = 'Relationships As You Go Older' 
 category = ['self'] 
 tags = ['relationships', 'relationships', 'growth', 'contradictions'] 
 series = ['small-laws']
